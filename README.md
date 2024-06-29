@@ -8,6 +8,8 @@
 
 * Some ```@xml:id``` were duplicated within the same document.
 
+* For ```@xml:id``` attributes that have to be kept even if they were not valid NCNames, I did the following replacements: ```,``` with ```_comma_```.
+
 ### Validation according to TEI specification
 
 * Replaced ```{http://www.tei-c.org/ns/1.0}NOTE``` tag with ```{http://www.tei-c.org/ns/1.0}note```.

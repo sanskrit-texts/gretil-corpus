@@ -13435,10 +13435,8 @@
 <lg n="BrP_36.96">
 <l><seg type="pāda" n="a">īṣatsamudbhinnapayodharāgrā</seg> <lb/><seg type="pāda" n="b">nāryo yathā ramyatarā babhūvuḥ</seg></l>
 <l><seg type="pāda" n="c">nātyuṣṇaśītāni payaḥsarāṃsi</seg> <lb/><seg type="pāda" n="d">kiñjalkacūrṇaiḥ kapilīkṛtāni</seg></l>
+<l><seg type="pāda" n="e">cakrāhvayugmair upanāditāni</seg> <lb/><seg type="pāda" n="f">yayuḥ prahṛṣṭāḥ suradantimukhyāḥ</seg></l>
 </lg>
-
-cakrāhvayugmair upanāditāni BrP_36.96e
-yayuḥ prahṛṣṭāḥ suradantimukhyāḥ BrP_36.96f
 <lg n="BrP_36.97">
 <l><seg type="pāda" n="a">priyaṅgūś cūtataravaś</seg> <seg type="pāda" n="b">cūtāṃś cāpi priyaṅgavaḥ</seg> </l>
 <l><seg type="pāda" n="c">tarjayanta ivānyonyaṃ</seg> <seg type="pāda" n="d">mañjarībhiś cakāśire</seg> //</l>
@@ -13453,9 +13451,9 @@ yayuḥ prahṛṣṭāḥ suradantimukhyāḥ BrP_36.96f
 <l><seg type="pāda" n="a">phullāśokalatās tatra</seg> <seg type="pāda" n="b">rejire śālasaṃśritāḥ</seg> </l>
 <l><seg type="pāda" n="c">kāminya iva kāntānāṃ</seg> <seg type="pāda" n="d">kaṇṭhālambitabāhavaḥ</seg> //</l>
 </lg>
-
-tasminn ṛtau śubhrakadambanīpās BrP_36.100a
-tālāḥ stamālāḥ saralāḥ kapitthāḥ BrP_36.100b
+<lg n="BrP_36.100">
+	<l><seg type="pāda" n="a">tasminn ṛtau śubhrakadambanīpās</seg> <lb/><seg type="pāda" n="b">tālāḥ stamālāḥ saralāḥ kapitthāḥ</seg></l>
+</lg>
 <lg n="BrP_36.101">
 <l><seg type="pāda" n="a">aśokasarjārjunakovidārāḥ</seg> <lb/><seg type="pāda" n="b">puṃnāganāgeśvarakarṇikārāḥ</seg></l>
 <l><seg type="pāda" n="c">lavaṅgatālāgurusaptaparṇā</seg> <lb/><seg type="pāda" n="d">nyagrodhaśobhāñjananārikelāḥ</seg></l>
@@ -13481,8 +13479,10 @@ tālāḥ stamālāḥ saralāḥ kapitthāḥ BrP_36.100b
 <l><seg type="pāda" n="c">tathaiva sarve ṛtavaś ca puṇyāś</seg> <lb/><seg type="pāda" n="d">cakāśire 'nyonyavimiśritāṅgāḥ</seg></l>
 </lg>
 
-yeṣāṃ suliṅgāni ca kīrtitāni BrP_36.106a
-te tatra āsan sumanojñarūpāḥ BrP_36.106b
+<lg n="BrP_36.106">
+	<l><seg type="pāda" n="a">yeṣāṃ suliṅgāni ca kīrtitāni</seg> <lb/><seg type="pāda" n="b">te tatra āsan sumanojñarūpāḥ</seg></l>
+</lg>
+
 <lg n="BrP_36.107">
 <l><seg type="pāda" n="a">samadālikulodgīta</seg><seg type="pāda" n="b">śilākusumasaṃcayaiḥ</seg> </l>
 <l><seg type="pāda" n="c">parasparaṃ hi mālatyo</seg> <seg type="pāda" n="d">bhāvayantyo virejire</seg> //</l>
@@ -14272,12 +14272,12 @@ te tatra āsan sumanojñarūpāḥ BrP_36.106b
 
 <milestone unit="speaker" n="brahmovāca"/>
 
-evaṃ bruvāṇāṃ bhagavān vicintya BrP_39.43a
-patnīṃ prahṛṣṭaḥ kṣubhitām uvāca BrP_39.43b
-<milestone unit="speaker" n="maheśvara uvāca"/>
+<lg n="BrP_39.43">
+	<l><seg type="pāda" n="a">evaṃ bruvāṇāṃ bhagavān vicintya</seg> <lb/><seg type="pāda" n="b">patnīṃ prahṛṣṭaḥ kṣubhitām uvāca</seg></l>
+	<milestone unit="speaker" n="maheśvara uvāca"/>
+	<l><seg type="pāda" n="c">na vetsi māṃ devi kṛśodarāṅgi</seg> <lb/><seg type="pāda" n="d">kiṃ nāma yuktaṃ vacanaṃ tavedam</seg></l>
+</lg>
 
-na vetsi māṃ devi kṛśodarāṅgi BrP_39.43c
-kiṃ nāma yuktaṃ vacanaṃ tavedam BrP_39.43d
 <lg n="BrP_39.44">
 <l><seg type="pāda" n="a">ahaṃ vijānāmi viśālanetre</seg> <lb/><seg type="pāda" n="b">dhyānena sarve ca vidanti santaḥ</seg></l>
 <l><seg type="pāda" n="c">tavādya mohena sahendradevā</seg> <lb/><seg type="pāda" n="d">lokatrayaṃ sarvam atho vinaṣṭam</seg></l>
@@ -21760,7 +21760,7 @@ kiṃ nāma yuktaṃ vacanaṃ tavedam BrP_39.43d
 <p xml:id="BrP_61.24">āvāhanamantraḥ: mīnarūpo varāhaś ca narasiṃho 'tha vāmanaḥ | āyātu devo varado mama nārāyaṇo 'grataḥ ||</p> 
 <p xml:id="BrP_61.24">oṃ namo nārāyaṇāya namaḥ ||</p>
 
-sthāpanamantraḥ:
+<p>sthāpanamantraḥ:</p>
 
 <lg n="BrP_61.25">
 <l><seg type="pāda" n="a">karṇikāyāṃ supīṭhe 'tra</seg> <seg type="pāda" n="b">padmakalpitam āsanam</seg> </l>
@@ -21771,7 +21771,7 @@ sthāpanamantraḥ:
 
 <p xml:id="BrP_61.26">arghamantraḥ: oṃ trailokyapatīnāṃ pataye devadevāya hṛṣīkeśāya viṣṇave namaḥ | oṃ namo nārāyaṇāya namaḥ ||</p>
 
-pādyamantraḥ:
+<p>pādyamantraḥ:</p>
 
 <lg n="BrP_61.27">
 <l><seg type="pāda" n="a">oṃ pādyaṃ pādayor deva</seg> <seg type="pāda" n="b">padmanābha sanātana</seg> </l>
@@ -21780,7 +21780,7 @@ pādyamantraḥ:
 
 <p xml:id="BrP_61.27">oṃ namo nārāyaṇāya namaḥ ||</p>
 
-madhuparkamantraḥ:
+<p>madhuparkamantraḥ:</p>
 
 <lg n="BrP_61.28">
 <l><seg type="pāda" n="a">madhuparkaṃ mahādeva</seg> <seg type="pāda" n="b">brahmādyaiḥ kalpitaṃ tava</seg> </l>
@@ -22547,25 +22547,16 @@ madhuparkamantraḥ:
 </lg>
 
 <lg n="BrP_65.48">
-<l><seg type="pāda" n="a">evaṃ tadā muniśreṣṭhāḥ</seg> <seg type="pāda" n="b">kṛṣṇaṃ rāmeṇa saṃgatam</seg> </l>
-<l><seg type="pāda" n="c">snāpayitvā subhadrāṃ ca</seg> <seg type="pāda" n="d">saṃstuvanti mudānvitāḥ</seg> //</l>
+	<l><seg type="pāda" n="a">evaṃ tadā muniśreṣṭhāḥ</seg> <seg type="pāda" n="b">kṛṣṇaṃ rāmeṇa saṃgatam</seg> </l>
+	<l><seg type="pāda" n="c">snāpayitvā subhadrāṃ ca</seg> <seg type="pāda" n="d">saṃstuvanti mudānvitāḥ</seg> //</l>
 </lg>
 
-jaya jaya lokapāla bhaktarakṣaka jaya jaya praṇatavatsala jaya jaya bhūtacaraṇa jaya jayādideva bahukāraṇa jaya jaya vāsudeva jaya jayāsurasaṃharaṇa jaya jaya divyamīna jaya jaya tridaśavara jaya jaya jaladhiśayana | BrP_65.49/1 |
-
-jaya jaya yogivara jaya jaya sūryanetra jaya jaya devarāja jaya jaya kaiṭabhāre jaya jaya vedavara jaya jaya kūrmarūpa jaya jaya yajñavara jaya jaya kamalanābha jaya jaya śailacara | BrP_65.49/2 |
-
-jaya jaya yogaśāyiñ jaya jaya vegadhara jaya jaya viśvamūrte jaya jaya cakradhara jaya jaya bhūtanātha jaya jaya dharaṇīdhara jaya jaya śeṣaśāyiñ jaya jaya pītavāso jaya jaya somakānta | BrP_65.49/3 |
-
-jaya jaya yogavāsa jaya jaya dahanavaktra jaya jaya dharmavāsa jaya jaya guṇanidhāna jaya jaya śrīnivāsa jaya jaya garuḍagamana jaya jaya sukhanivāsa jaya jaya dharmaketo jaya jaya mahīnivāsa | BrP_65.49/4 |
-
-jaya jaya gahanacaritra jaya jaya yogigamya jaya jaya makhanivāsa jaya jaya vedavedya jaya śāntikara jaya jaya yogicintya jaya jaya puṣṭikara jaya jaya jñānamūrte jaya jaya kamalākara | BrP_65.49/5 |
-
-jaya jaya bhāvavedya jaya jaya muktikara jaya jaya vimaladeha jaya jaya sattvanilaya jaya jaya guṇasamṛddha jaya jaya yajñakara jaya jaya guṇavihīna jaya jaya mokṣakara jaya jaya bhūśaraṇya | BrP_65.49/6 |
-
-jaya jaya kāntiyuta jaya jaya lokaśaraṇa jaya jaya lakṣmīyuta jaya jaya paṅkajākṣa jaya jaya sṛṣṭikara jaya jaya yogayuta jaya jayātasīkusumaśyāmadeha jaya jaya samudrāviṣṭadeha jaya jaya lakṣmīpaṅkajaṣaṭcaraṇa | BrP_65.49/7 |
-
-jaya jaya bhaktavaśa jaya jaya lokakānta jaya jaya paramaśānta jaya jaya paramasāra jaya jaya cakradhara jaya jaya bhogiyuta jaya jaya nīlāmbara jaya jaya śāntikara jaya jaya mokṣakara jaya jaya kaluṣahara | BrP_65.49/8 |
+<lg n="BrP_65.49">
+	<l><seg type="pāda" n="1">jaya jaya lokapāla bhaktarakṣaka jaya jaya praṇatavatsala jaya jaya bhūtacaraṇa jaya jayādideva bahukāraṇa jaya jaya vāsudeva jaya jayāsurasaṃharaṇa jaya jaya divyamīna jaya jaya tridaśavara jaya jaya jaladhiśayana |</seg> <lb/><seg type="pāda" n="2">jaya jaya yogivara jaya jaya sūryanetra jaya jaya devarāja jaya jaya kaiṭabhāre jaya jaya vedavara jaya jaya kūrmarūpa jaya jaya yajñavara jaya jaya kamalanābha jaya jaya śailacara |</seg> </l>
+	<l><seg type="pāda" n="3">jaya jaya yogaśāyiñ jaya jaya vegadhara jaya jaya viśvamūrte jaya jaya cakradhara jaya jaya bhūtanātha jaya jaya dharaṇīdhara jaya jaya śeṣaśāyiñ jaya jaya pītavāso jaya jaya somakānta |</seg> <lb/><seg type="pāda" n="4">jaya jaya yogavāsa jaya jaya dahanavaktra jaya jaya dharmavāsa jaya jaya guṇanidhāna jaya jaya śrīnivāsa jaya jaya garuḍagamana jaya jaya sukhanivāsa jaya jaya dharmaketo jaya jaya mahīnivāsa |</seg> </l>
+	<l><seg type="pāda" n="5">jaya jaya gahanacaritra jaya jaya yogigamya jaya jaya makhanivāsa jaya jaya vedavedya jaya śāntikara jaya jaya yogicintya jaya jaya puṣṭikara jaya jaya jñānamūrte jaya jaya kamalākara |</seg> <lb/><seg type="pāda" n="6">jaya jaya bhāvavedya jaya jaya muktikara jaya jaya vimaladeha jaya jaya sattvanilaya jaya jaya guṇasamṛddha jaya jaya yajñakara jaya jaya guṇavihīna jaya jaya mokṣakara jaya jaya bhūśaraṇya |</seg> </l>
+	<l><seg type="pāda" n="7">jaya jaya kāntiyuta jaya jaya lokaśaraṇa jaya jaya lakṣmīyuta jaya jaya paṅkajākṣa jaya jaya sṛṣṭikara jaya jaya yogayuta jaya jayātasīkusumaśyāmadeha jaya jaya samudrāviṣṭadeha jaya jaya lakṣmīpaṅkajaṣaṭcaraṇa |</seg> <lb/><seg type="pāda" n="8">jaya jaya bhaktavaśa jaya jaya lokakānta jaya jaya paramaśānta jaya jaya paramasāra jaya jaya cakradhara jaya jaya bhogiyuta jaya jaya nīlāmbara jaya jaya śāntikara jaya jaya mokṣakara jaya jaya kaluṣahara |</seg> </l>
+</lg>
 
 <lg n="BrP_65.50">
 <l><seg type="pāda" n="a">jaya kṛṣṇa jagannātha</seg> <seg type="pāda" n="b">jaya saṃkarṣaṇānuja</seg> </l>
@@ -31374,10 +31365,9 @@ jaya jaya bhaktavaśa jaya jaya lokakānta jaya jaya paramaśānta jaya jaya par
 <lg n="BrP_105.19">
 <l><seg type="pāda" n="a">gāvo devāḥ parvatā yakṣarakṣāḥ</seg> <lb/><seg type="pāda" n="b">siddhāḥ sādhyā munayo guhyakāś</seg></l>
 <l><seg type="pāda" n="c">gandharvās te marutaḥ pannagāś</seg> <lb/><seg type="pāda" n="d">sarvauṣadhyo mātaro lokapālāḥ</seg></l>
+<l><seg type="pāda" n="e">rudrādityā vasavaś cāśvinau ca</seg> <lb/><seg type="pāda" n="f">ye 'nye devā yajñabhāgasya yogyāḥ</seg></l>
 </lg>
 
-rudrādityā vasavaś cāśvinau ca BrP_105.19e
-ye 'nye devā yajñabhāgasya yogyāḥ BrP_105.19f
 <lg n="BrP_105.20">
 <l><seg type="pāda" n="a">pañcaviṃśatinadyas tu</seg> <seg type="pāda" n="b">gaṅgāyāṃ saṃgatā mune</seg> </l>
 <l><seg type="pāda" n="c">pūrṇāhutir yatra dattā</seg> <seg type="pāda" n="d">pūrṇākhyānaṃ tad ucyate</seg> //</l>
@@ -33279,8 +33269,10 @@ ye 'nye devā yajñabhāgasya yogyāḥ BrP_105.19f
 <l><seg type="pāda" n="c">tato yāmaḥ kṛtakāryāḥ sahendrāḥ</seg> <lb/><seg type="pāda" n="d">svaṃ svaṃ sthānaṃ cāyudhānāṃ ca rakṣā</seg></l>
 </lg>
 
-tvayā kṛtā jāyatāṃ tat praśādhi BrP_110.24a
-samarthas tvaṃ rakṣaṇe dhāraṇe ca BrP_110.24b
+<lg n="BrP_110.24">
+	<l><seg type="pāda" n="a">tvayā kṛtā jāyatāṃ tat praśādhi</seg> <lb/><seg type="pāda" n="b">samarthas tvaṃ rakṣaṇe dhāraṇe ca</seg></l>
+</lg>
+
 <milestone unit="speaker" n="brahmovāca"/>
 
 <lg n="BrP_110.25">
@@ -33308,16 +33300,22 @@ samarthas tvaṃ rakṣaṇe dhāraṇe ca BrP_110.24b
 <l><seg type="pāda" n="c">no cet santaḥ parakāryāṇi kuryur</seg> <lb/><seg type="pāda" n="d">vāgbhir manobhiḥ kṛtibhis tathaiva</seg></l>
 </lg>
 
-parasvasaṃdhāraṇam etad eva BrP_110.30a
-sadbhir nirastaṃ tyaja kānta sadyaḥ BrP_110.30b
+<lg n="BrP_110.30">
+	<l><seg type="pāda" n="a">parasvasaṃdhāraṇam etad eva</seg> <lb/><seg type="pāda" n="b">sadbhir nirastaṃ tyaja kānta sadyaḥ</seg></l>
+</lg>
+
 <milestone unit="speaker" n="brahmovāca"/>
 
-evaṃ priyāyā vacanaṃ sa vipro BrP_110.31b
-niśamya bhāryām idam āha subhrūm BrP_110.31b
+<lg n="BrP_110.31">
+	<l><seg type="pāda" n="a">evaṃ priyāyā vacanaṃ sa vipro</seg> <lb/><seg type="pāda" n="b">niśamya bhāryām idam āha subhrūm</seg></l>
+</lg>
+
 <milestone unit="speaker" n="dadhīcir uvāca"/>
 
-purā surāṇām anumānya bhadre BrP_110.32a
-netīti vāṇī na sukhaṃ mamaiti BrP_110.32b
+<lg n="BrP_110.32">
+	<l><seg type="pāda" n="a">purā surāṇām anumānya bhadre</seg> <lb/><seg type="pāda" n="b">netīti vāṇī na sukhaṃ mamaiti</seg></l>
+</lg>
+
 <milestone unit="speaker" n="brahmovāca"/>
 
 <lg n="BrP_110.33">
@@ -33395,8 +33393,10 @@ netīti vāṇī na sukhaṃ mamaiti BrP_110.32b
 <l><seg type="pāda" n="c">tatyāja jīvān dustyajān prītiyukto</seg> <lb/><seg type="pāda" n="d">yathāsukhaṃ deham imaṃ juṣadhvam</seg></l>
 </lg>
 
-madasthibhiḥ prītimanto bhavantu BrP_110.48a
-surāḥ sarve kiṃ tu dehena kāryam BrP_110.48b
+<lg n="BrP_110.48">
+<l><seg type="pāda" n="a">madasthibhiḥ prītimanto bhavantu</seg> <lb/><seg type="pāda" n="b">surāḥ sarve kiṃ tu dehena kāryam</seg></l>
+</lg>
+
 <milestone unit="speaker" n="brahmovāca"/>
 
 <lg n="BrP_110.49">
@@ -33419,8 +33419,10 @@ surāḥ sarve kiṃ tu dehena kāryam BrP_110.48b
 <l><seg type="pāda" n="c">bibhemi kartuṃ dāruṇaṃ cākṣamo 'haṃ</seg> <lb/><seg type="pāda" n="d">vidāritāny āyudhāny uttamāni</seg></l>
 </lg>
 
-tadasthibhūtāni karomi sadyas BrP_110.53a
-tato devā gāḥ samūcus tvarantaḥ BrP_110.53b
+<lg n="BrP_110.53">
+<l><seg type="pāda" n="a">tadasthibhūtāni karomi sadyas</seg> <lb/><seg type="pāda" n="b">tato devā gāḥ samūcus tvarantaḥ</seg></l>
+</lg>
+
 <milestone unit="speaker" n="devā ūcuḥ"/>
 
 <lg n="BrP_110.54">
@@ -33462,12 +33464,16 @@ tato devā gāḥ samūcus tvarantaḥ BrP_110.53b
 
 <milestone unit="speaker" n="prātitheyy uvāca"/>
 
-śāpe 'marāṇāṃ tu nāhaṃ samarthā BrP_110.61a
-agniṃ prāpsye kiṃ nu kāryaṃ bhaven me BrP_110.61b
+<lg n="BrP_110.61">
+<l><seg type="pāda" n="a">śāpe 'marāṇāṃ tu nāhaṃ samarthā</seg> <lb/><seg type="pāda" n="b">agniṃ prāpsye kiṃ nu kāryaṃ bhaven me</seg></l>
+</lg>
+
 <milestone unit="speaker" n="brahmovāca"/>
 
-kopaṃ ca duḥkhaṃ ca niyamya sādhvī BrP_110.62a
-tadāvādīd dharmayuktaṃ ca bhartuḥ BrP_110.62b
+<lg n="BrP_110.62">
+<l><seg type="pāda" n="a">kopaṃ ca duḥkhaṃ ca niyamya sādhvī</seg> <lb/><seg type="pāda" n="b">tadāvādīd dharmayuktaṃ ca bhartuḥ</seg></l>
+</lg>
+
 <milestone unit="speaker" n="prātitheyy uvāca"/>
 
 <lg n="BrP_110.63">
@@ -33497,8 +33503,10 @@ tadāvādīd dharmayuktaṃ ca bhartuḥ BrP_110.62b
 <l><seg type="pāda" n="c">garbhasthitaṃ bālakaṃ prātitheyī</seg> <lb/><seg type="pāda" n="d">kukṣiṃ vidāryātha kare gṛhītvā</seg></l>
 </lg>
 
-natvā ca gaṅgāṃ bhuvam āśramaṃ ca BrP_110.68a
-vanaspatīn oṣadhīr āśramasthān BrP_110.68b
+<lg n="BrP_110.68">
+<l><seg type="pāda" n="a">natvā ca gaṅgāṃ bhuvam āśramaṃ ca</seg> <lb/><seg type="pāda" n="b">vanaspatīn oṣadhīr āśramasthān</seg></l>
+</lg>
+
 <milestone unit="speaker" n="prātitheyy uvāca"/>
 
 <lg n="BrP_110.69">
@@ -38028,8 +38036,10 @@ vanaspatīn oṣadhīr āśramasthān BrP_110.68b
 <l><seg type="pāda" n="e">adites tu sutā jyeṣṭhāḥ</seg> <seg type="pāda" n="f">sarvabhāvena nārada</seg> //</l>
 </lg>
 
-tadā ditiḥ putraviyogaduḥkhāt BrP_124.3a
-saṃspardhamānā danum ājagāma BrP_124.3b
+<lg n="BrP_124.3">
+<l><seg type="pāda" n="a">tadā ditiḥ putraviyogaduḥkhāt</seg> <seg type="pāda" n="b">saṃspardhamānā danum ājagāma</seg> </l>
+</lg>
+
 <milestone unit="speaker" n="ditir uvāca"/>
 
 <lg n="BrP_124.4">
@@ -38045,10 +38055,9 @@ saṃspardhamānā danum ājagāma BrP_124.3b
 <lg n="BrP_124.6">
 <l><seg type="pāda" n="a">na jīvayeyaṃ śriyam unnatiṃ ca</seg> <lb/><seg type="pāda" n="b">jīrṇāsmi dṛṣṭvā tv aditiprasūtān</seg></l>
 <l><seg type="pāda" n="c">kām apy avasthām anuyāmi duḥsthā</seg> <lb/><seg type="pāda" n="d">'diter vilokyātha parāṃ samṛddhim</seg></l>
+<l><seg type="pāda" n="e">dāvapraveśo 'pi sukhāya nūnaṃ</seg> <lb/><seg type="pāda" n="f">svapne 'py avekṣyā na sapatnalakṣmīḥ</seg></l>
 </lg>
 
-dāvapraveśo 'pi sukhāya nūnaṃ BrP_124.6e
-svapne 'py avekṣyā na sapatnalakṣmīḥ BrP_124.6f
 <milestone unit="speaker" n="brahmovāca"/>
 
 <lg n="BrP_124.7">
@@ -38942,10 +38951,9 @@ svapne 'py avekṣyā na sapatnalakṣmīḥ BrP_124.6f
 <lg n="BrP_125.24">
 <l><seg type="pāda" n="a">tvadbhītā anāśakam ācaranti</seg> <lb/><seg type="pāda" n="b">grāmād araṇyam abhi yac caranti</seg></l>
 <l><seg type="pāda" n="c">tvadbhītāḥ saumyatām āśrayante</seg> <lb/><seg type="pāda" n="d">tvadbhītāḥ somapānaṃ bhajante</seg></l>
+<l><seg type="pāda" n="e">tvadbhītāś cānnagodānaniṣṭhās</seg> <lb/><seg type="pāda" n="f">tvadbhītā brahmavādaṃ vadanti</seg></l>
 </lg>
 
-tvadbhītāś cānnagodānaniṣṭhās BrP_125.24e
-tvadbhītā brahmavādaṃ vadanti BrP_125.24f
 <milestone unit="speaker" n="brahmovāca"/>
 
 <lg n="BrP_125.25">
@@ -39285,10 +39293,9 @@ tvadbhītā brahmavādaṃ vadanti BrP_125.24f
 <lg n="BrP_126.27">
 <l><seg type="pāda" n="a">tvam antarātmākhiladehabhājāṃ</seg> <lb/><seg type="pāda" n="b">tvam eva sarvaṃ tvayi sarvam īśa</seg></l>
 <l><seg type="pāda" n="c">tathāpi jānanti na keapi kutrāpi</seg> <lb/><seg type="pāda" n="d">aho bhavantaṃ prakṛtiprabhāvāt</seg></l>
+<l><seg type="pāda" n="e">antar bahiḥ sarvata eva santaṃ</seg> <lb/><seg type="pāda" n="f">viśvātmanā saṃparivartamānam</seg></l>
 </lg>
 
-antar bahiḥ sarvata eva santaṃ BrP_126.27e
-viśvātmanā saṃparivartamānam BrP_126.27f
 <milestone unit="speaker" n="brahmovāca"/>
 
 <lg n="BrP_126.28">
@@ -40364,10 +40371,9 @@ viśvātmanā saṃparivartamānam BrP_126.27f
 <lg n="BrP_129.33">
 <l><seg type="pāda" n="a">baddho mayā saṃgare vāhanena</seg> <lb/><seg type="pāda" n="b">kvāpy astraṃ te vajram uddāmaśakti</seg></l>
 <l><seg type="pāda" n="c">cintāratnaṃ nandanaṃ yoṣitas tā</seg> <lb/><seg type="pāda" n="d">yaśo balaṃ devarājopabhogyam</seg></l>
+<l><seg type="pāda" n="e">sarvaṃ hi tvā kiṃ tu mukto jaleśād</seg> <lb/><seg type="pāda" n="f">ākāṅkṣase jīvitaṃ dhik tavedam</seg></l>
 </lg>
 
-sarvaṃ hi tvā kiṃ tu mukto jaleśād BrP_129.33e
-ākāṅkṣase jīvitaṃ dhik tavedam BrP_129.33f
 <lg n="BrP_129.34">
 <l><seg type="pāda" n="a">taj jīvanaṃ yat tu yaśonidhānaṃ</seg> <lb/><seg type="pāda" n="b">sa eva mṛtyur yaśaso yad virodhi</seg></l>
 <l><seg type="pāda" n="c">evaṃ jānañ śakra kathaṃ jaleśān</seg> <lb/><seg type="pāda" n="d">muktiṃ prāpto naiva lajjāṃ bhajethāḥ</seg></l>
@@ -42666,14 +42672,15 @@ sarvaṃ hi tvā kiṃ tu mukto jaleśād BrP_129.33e
 <lg n="BrP_140.11">
 <l><seg type="pāda" n="a">bhoktuṃ na śakto 'smi phalāni mūlāny</seg> <lb/><seg type="pāda" n="b">anuttamāny apy atisaṃskṛtāni</seg></l>
 <l><seg type="pāda" n="c">smṛtvāmṛtaṃ puṇyatamaṃ ca tatra</seg> <lb/><seg type="pāda" n="d">bhakṣyaṃ ca bhojyaṃ ca varāsanāni</seg></l>
+<l><seg type="pāda" n="e">stutiṃ ca dānaṃ ca sabhāṃ śubhāṃ ca</seg> <lb/><seg type="pāda" n="f">astraṃ ca vāsāṃsi purīṃ vanāni</seg></l>
 </lg>
 
-stutiṃ ca dānaṃ ca sabhāṃ śubhāṃ ca BrP_140.11e
-astraṃ ca vāsāṃsi purīṃ vanāni BrP_140.11f
 <milestone unit="speaker" n="brahmovāca"/>
 
-tato mahātmā tapasaḥ prabhāvāt BrP_140.12a
-tvaṣṭāram āhūya vaco babhāṣe BrP_140.12b
+<lg n="BrP_140.12">
+<l><seg type="pāda" n="a">tato mahātmā tapasaḥ prabhāvāt</seg> <lb/><seg type="pāda" n="b">tvaṣṭāram āhūya vaco babhāṣe</seg></l>
+</lg>
+
 <milestone unit="speaker" n="ātreya uvāca"/>
 
 <lg n="BrP_140.13">
@@ -42721,10 +42728,9 @@ tvaṣṭāram āhūya vaco babhāṣe BrP_140.12b
 <lg n="BrP_140.21">
 <l><seg type="pāda" n="a">tataḥ samāgatya tadātriputraṃ</seg> <lb/><seg type="pāda" n="b">saṃveṣṭayām āsur athāsurās te</seg></l>
 <l><seg type="pāda" n="c">saṃveṣṭayitvā puram atriputra</seg> <lb/><seg type="pāda" n="d">kṛtaṃ tathā cendrapurābhidhānam</seg></l>
+<l><seg type="pāda" n="e">tair vadhyamānaḥ śastrapātair mahadbhis</seg> <lb/><seg type="pāda" n="f">tato bhīto vākyam idaṃ jagāda</seg></l>
 </lg>
 
-tair vadhyamānaḥ śastrapātair mahadbhis BrP_140.21e
-tato bhīto vākyam idaṃ jagāda BrP_140.21f
 <milestone unit="speaker" n="ātreya uvāca"/>
 
 <lg n="BrP_140.22">
@@ -42734,8 +42740,10 @@ tato bhīto vākyam idaṃ jagāda BrP_140.21f
 
 <milestone unit="speaker" n="brahmovāca"/>
 
-ityādisūktena ripūn uvāca BrP_140.23a
-hariṃ ca tuṣṭāva tadātriputraḥ BrP_140.23b
+<lg n="BrP_140.23">
+<l><seg type="pāda" n="a">ityādisūktena ripūn uvāca</seg> <lb/><seg type="pāda" n="b">hariṃ ca tuṣṭāva tadātriputraḥ</seg></l>
+</lg>
+
 <milestone unit="speaker" n="ātreya uvāca"/>
 
 <lg n="BrP_140.24">
@@ -43125,8 +43133,10 @@ hariṃ ca tuṣṭāva tadātriputraḥ BrP_140.23b
 <l><seg type="pāda" n="c">ālokayām āsa nagaṃ mahāntaṃ</seg> <lb/><seg type="pāda" n="d">kailāsam āvāsa umāpater yaḥ</seg></l>
 </lg>
 
-dṛṣṭvā smayotphulladṛg adrirājaṃ BrP_143.8a
-sa mantriṇau rāvaṇa ity uvāca BrP_143.8b
+<lg n="BrP_143.8">
+<l><seg type="pāda" n="a">dṛṣṭvā smayotphulladṛg adrirājaṃ</seg> <lb/><seg type="pāda" n="b">sa mantriṇau rāvaṇa ity uvāca</seg></l>
+</lg>
+
 <milestone unit="speaker" n="rāvaṇa uvāca"/>
 
 <lg n="BrP_143.9">
@@ -44968,8 +44978,10 @@ sa mantriṇau rāvaṇa ity uvāca BrP_143.8b
 <l><seg type="pāda" n="c">jagatpavitrīkaraṇaikadakṣā</seg> <lb/><seg type="pāda" n="d">dṛṣṭādya sākṣāt saritāṃ savitrī</seg></l>
 </lg>
 
-kāyena vācā manasā sadaināṃ BrP_157.14a
-vrajāmi gaṅgāṃ śaraṇaṃ śaraṇyām BrP_157.14b
+<lg n="BrP_157.14">
+<l><seg type="pāda" n="a">kāyena vācā manasā sadaināṃ</seg> <lb/><seg type="pāda" n="b">vrajāmi gaṅgāṃ śaraṇaṃ śaraṇyām</seg></l>
+</lg>
+
 <milestone unit="speaker" n="brahmovāca"/>
 
 <lg n="BrP_157.15">
@@ -44990,10 +45002,9 @@ vrajāmi gaṅgāṃ śaraṇaṃ śaraṇyām BrP_157.14b
 <lg n="BrP_157.18">
 <l><seg type="pāda" n="a">savismayaḥ paśyati bhṛtyavargaṃ</seg> <lb/><seg type="pāda" n="b">godāvarīṃ stauti ca saṃprahṛṣṭaḥ</seg></l>
 <l><seg type="pāda" n="c">saṃmānayan bhṛtyagaṇaṃ samagram</seg> <lb/><seg type="pāda" n="d">avāpa rāmaḥ kamapi pramodam</seg></l>
+<l><seg type="pāda" n="e">punaḥ prabhāte vimale tu sūrye</seg> <lb/><seg type="pāda" n="f">vibhīṣaṇo dāśarathiṃ babhāṣe</seg></l>
 </lg>
 
-punaḥ prabhāte vimale tu sūrye BrP_157.18e
-vibhīṣaṇo dāśarathiṃ babhāṣe BrP_157.18f
 <milestone unit="speaker" n="vibhīṣaṇa uvāca"/>
 
 <lg n="BrP_157.19">
@@ -49006,8 +49017,10 @@ vibhīṣaṇo dāśarathiṃ babhāṣe BrP_157.18f
 <l><seg type="pāda" n="c">tāṃ saṃgatāṃ vīkṣya śivo hariś ca</seg> <lb/><seg type="pāda" n="d">ātmānam ādarśayatāṃ munibhyaḥ</seg></l>
 </lg>
 
-tathāmarās tau pitṛbhiś ca dṛṣṭau BrP_174.6a
-stuvanti devau sakalārtihāriṇau BrP_174.6b
+<lg n="BrP_174.6">
+<l><seg type="pāda" n="a">tathāmarās tau pitṛbhiś ca dṛṣṭau</seg> <lb/><seg type="pāda" n="b">stuvanti devau sakalārtihāriṇau</seg></l>
+</lg>
+
 <lg n="BrP_174.7">
 <l><seg type="pāda" n="a">ādityā vasavo rudrā</seg> <seg type="pāda" n="b">maruto lokapālakāḥ</seg> </l>
 <l><seg type="pāda" n="c">kṛtāñjalipuṭāḥ sarve</seg> <seg type="pāda" n="d">stuvanti hariśaṃkarau</seg> //</l>
@@ -49047,27 +49060,27 @@ stuvanti devau sakalārtihāriṇau BrP_174.6b
 <lg n="BrP_174.14">
 <l><seg type="pāda" n="a">sapta diśo nānāsūryāḥ</seg> <seg type="pāda" n="b">sapta hotāra ṛtvijaḥ</seg> </l>
 <l><seg type="pāda" n="c">devā ādityā ye sapta</seg> <seg type="pāda" n="d">tebhiḥ somābhirakṣa na</seg> //</l>
+<l><seg type="pāda" n="e">indrāyendo parisrava</seg> //</l>
 </lg>
 
-indrāyendo parisrava BrP_174.14e
 <lg n="BrP_174.15">
 <l><seg type="pāda" n="a">yat te rājañ chṛtaṃ havis</seg> <seg type="pāda" n="b">tena somābhirakṣa naḥ</seg> </l>
 <l><seg type="pāda" n="c">arātīvā mā nas tārīn</seg> <seg type="pāda" n="d">mo ca naḥ kiṃcanāmamad</seg> //</l>
+<l><seg type="pāda" n="e">indrāyendo parisrava</seg> //</l>
 </lg>
 
-indrāyendo parisrava BrP_174.15e
 <lg n="BrP_174.16">
 <l><seg type="pāda" n="a">ṛṣe mantrakṛtāṃ stomaiḥ</seg> <seg type="pāda" n="b">kaśyapodvardhayan giraḥ</seg> </l>
 <l><seg type="pāda" n="c">somaṃ namasya rājānaṃ</seg> <seg type="pāda" n="d">yo jajñe vīrudhāṃ patir</seg> //</l>
+<l><seg type="pāda" n="e">indrāyendo parisrava</seg> //</l>
 </lg>
 
-indrāyendo parisrava BrP_174.16e
 <lg n="BrP_174.17">
 <l><seg type="pāda" n="a">kārur ahaṃ tato bhiṣag</seg> <seg type="pāda" n="b">upalaprakṣiṇī nanā</seg> </l>
 <l><seg type="pāda" n="c">nānādhiyo vasūyavo</seg> <seg type="pāda" n="d">'nu gā iva tasthima</seg> //</l>
+<l><seg type="pāda" n="e">indrāyendo parisrava</seg> //</l>
 </lg>
 
-indrāyendo parisrava BrP_174.17e
 <lg n="BrP_174.18">
 <l><seg type="pāda" n="a">evam uktvā ca ṛṣibhiḥ</seg> <seg type="pāda" n="b">somaṃ prāpya ca vajriṇe</seg> </l>
 <l><seg type="pāda" n="c">tebhyo dattvā tato yajñaḥ</seg> <seg type="pāda" n="d">pūrṇo jātaḥ śatakratoḥ</seg> //</l>
@@ -50617,12 +50630,13 @@ indrāyendo parisrava BrP_174.17e
 <l><seg type="pāda" n="c">narakagrāmamārgeṇa</seg> <seg type="pāda" n="d">kāmenādya hatāni me</seg> //</l>
 </lg>
 
-vinindyetthaṃ sa dharmajñaḥ svayam ātmānam ātmanā BrP_178.94a
-tām apsarasam āsīnām idaṃ vacanam abravīt BrP_178.94b
+<lg n="BrP_178.94">
+<l><seg type="pāda" n="a">vinindyetthaṃ sa dharmajñaḥ svayam ātmānam ātmanā</seg> <seg type="pāda" n="b">tām apsarasam āsīnām idaṃ vacanam abravīt</seg> </l>
+<l><seg type="pāda" n="c">gaccha pāpe yathākāmaṃ yat kāryaṃ tat tvayā kṛtam</seg> <seg type="pāda" n="d">devarājasya yat kṣobhaṃ kurvantyā bhāvaceṣṭitaiḥ</seg> </l>
+</lg>
+
 <milestone unit="speaker" n="ṛṣir uvāca"/>
 
-gaccha pāpe yathākāmaṃ yat kāryaṃ tat tvayā kṛtam BrP_178.94c
-devarājasya yat kṣobhaṃ kurvantyā bhāvaceṣṭitaiḥ BrP_178.94d
 <lg n="BrP_178.95">
 <l><seg type="pāda" n="a">na tvāṃ karomy ahaṃ bhasma</seg> <seg type="pāda" n="b">krodhatīvreṇa vahninā</seg> </l>
 <l><seg type="pāda" n="c">satāṃ sāptapadaṃ maitryam</seg> <seg type="pāda" n="d">uṣito 'haṃ tvayā saha</seg> //</l>
@@ -68388,12 +68402,12 @@ devarājasya yat kṣobhaṃ kurvantyā bhāvaceṣṭitaiḥ BrP_178.94d
 <l><seg type="pāda" n="c">māyā tavemām iha vettum icche</seg> <lb/><seg type="pāda" n="d">mamādya tāṃ darśaya puṣkarākṣa</seg></l>
 </lg>
 
-tato 'bhyuvācātha nṛsiṃhamukhyaḥ BrP_229.43a
-śrīśaḥ prabhur viṣṇur idaṃ vaco me BrP_229.43b
+<lg n="BrP_229.43">
+<l><seg type="pāda" n="a">tato 'bhyuvācātha nṛsiṃhamukhyaḥ</seg> <lb/><seg type="pāda" n="b">śrīśaḥ prabhur viṣṇur idaṃ vaco me</seg></l>
 <milestone unit="speaker" n="viṣṇur uvāca"/>
+<l><seg type="pāda" n="c">māyāṃ madīyāṃ nahi vetti kaścin</seg> <lb/><seg type="pāda" n="d">na cāpi vā vetsyati kaścid eva</seg></l>
+</lg>
 
-māyāṃ madīyāṃ nahi vetti kaścin BrP_229.43c
-na cāpi vā vetsyati kaścid eva BrP_229.43d
 <lg n="BrP_229.44">
 <l><seg type="pāda" n="a">pūrvaṃ surarṣir dvija nāradākhyo</seg> <lb/><seg type="pāda" n="b">brahmātmajo 'bhūn mama bhaktiyuktaḥ</seg></l>
 <l><seg type="pāda" n="c">tenāpi pūrvaṃ bhavatā yathaiva</seg> <lb/><seg type="pāda" n="d">saṃtoṣito bhaktimatā hi tadvat</seg></l>
@@ -68444,9 +68458,11 @@ na cāpi vā vetsyati kaścid eva BrP_229.43d
 <l><seg type="pāda" n="c">tadā punaḥ sā munir nārado 'bhūt</seg> <lb/><seg type="pāda" n="d">sa cāpi vahniḥ sphaṭikāmalābhaḥ</seg></l>
 </lg>
 
-pūrṇaṃ saro 'bhūd atha cottatāra BrP_229.54a
-tasyāgrato devavaras tu keśavaḥ BrP_229.54b
-prahasya devarṣim uvāca nāradam BrP_229.54d
+<lg n="BrP_229.54">
+<l><seg type="pāda" n="a">pūrṇaṃ saro 'bhūd atha cottatāra</seg> <lb/><seg type="pāda" n="b">tasyāgrato devavaras tu keśavaḥ</seg></l>
+<l><seg type="pāda" n="d">prahasya devarṣim uvāca nāradam</seg></l>
+</lg>
+
 <lg n="BrP_229.55">
 <l><seg type="pāda" n="a">kas te tu putro vada me maharṣe</seg> <lb/><seg type="pāda" n="b">mṛtaṃ ca kaṃ śocasi naṣṭabuddhiḥ</seg></l>
 <l><seg type="pāda" n="c">vrīḍānvito 'bhūd atha nārado 'sau</seg> <lb/><seg type="pāda" n="d">tato 'ham enaṃ punar eva cāha</seg></l>
@@ -68605,10 +68621,9 @@ prahasya devarṣim uvāca nāradam BrP_229.54d
 <lg n="BrP_229.86">
 <l><seg type="pāda" n="a">so 'haṃ samārādhya murāridevaṃ</seg> <lb/><seg type="pāda" n="b">kokāmukhe tyaktaśubhāśubhecchaḥ</seg></l>
 <l><seg type="pāda" n="c">ity evam uktvā pitaraṃ praṇamya</seg> <lb/><seg type="pāda" n="d">gatvā ca kokāmukham agratīrtham</seg></l>
+<l><seg type="pāda" n="e">viṣṇuṃ samārādhya varāharūpam</seg> <lb/><seg type="pāda" n="f">avāpa siddhiṃ manujarṣabho 'sau</seg></l>
 </lg>
 
-viṣṇuṃ samārādhya varāharūpam BrP_229.86e
-avāpa siddhiṃ manujarṣabho 'sau BrP_229.86f
 <lg n="BrP_229.87">
 <l><seg type="pāda" n="a">itthaṃ sa kāmadamanaḥ sahaputrapautraḥ</seg> <lb/><seg type="pāda" n="b">kokāmukhe tīrthavare supuṇye</seg></l>
 <l><seg type="pāda" n="c">tyaktvā tanuṃ doṣamayīṃ tatas tu</seg> <lb/><seg type="pāda" n="d">gato divaṃ sūryasamair vimānaiḥ</seg></l>
