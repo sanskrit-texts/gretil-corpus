@@ -6,13 +6,15 @@
 
 * Some ```xml:id``` atributes had invalid values (e.g., ```"**HV_App.I,2.7**1:1"```) in files ```sa_harivaMza-app1.xml```, ```sa_brahmapurANa-1-246.xml```, which were invalid according to the XML specification for NCNames. I did renamed those attributes as ```{http://www.tei-c.org/ns/1.0}n```.
 
+* Some ```@xml:id``` were duplicated within the same document.
+
 ### Validation according to TEI specification
 
 * Replaced ```{http://www.tei-c.org/ns/1.0}NOTE``` tag with ```{http://www.tei-c.org/ns/1.0}note```.
 
 * Replaced ```{http://www.tei-c.org/ns/1.0}p``` tag with ```{http://www.tei-c.org/ns/1.0}lg```.
 
-* Added correct markers for divisions.
+* Added correct markers for divisions in file ```sa_viSNupurANa-crit.xml```.
 
 ### Work to do, on the semantic level of texts
 
