@@ -33,9 +33,49 @@
                 <xsl:with-param name="with" select="'_at-sign_'" />
             </xsl:call-template>
         </xsl:variable>
+        <xsl:variable
+            name="attr-value-4">
+            <xsl:call-template name="replace-string">
+                <xsl:with-param name="text" select="$attr-value-3" />
+                <xsl:with-param name="replace" select="':'" />
+                <xsl:with-param name="with" select="'_colon_'" />
+            </xsl:call-template>
+        </xsl:variable>
+        <xsl:variable
+            name="attr-value-5">
+            <xsl:call-template name="replace-string">
+                <xsl:with-param name="text" select="$attr-value-4" />
+                <xsl:with-param name="replace" select="'['" />
+                <xsl:with-param name="with" select="'_left-square-bracket_'" />
+            </xsl:call-template>
+        </xsl:variable>
+        <xsl:variable
+            name="attr-value-6">
+            <xsl:call-template name="replace-string">
+                <xsl:with-param name="text" select="$attr-value-5" />
+                <xsl:with-param name="replace" select="']'" />
+                <xsl:with-param name="with" select="'_right-square-bracket_'" />
+            </xsl:call-template>
+        </xsl:variable>
+        <xsl:variable
+            name="attr-value-7">
+            <xsl:call-template name="replace-string">
+                <xsl:with-param name="text" select="$attr-value-6" />
+                <xsl:with-param name="replace" select="'|'" />
+                <xsl:with-param name="with" select="'_pipeline_'" />
+            </xsl:call-template>
+        </xsl:variable>
+        <xsl:variable
+            name="attr-value-8">
+            <xsl:call-template name="replace-string">
+                <xsl:with-param name="text" select="$attr-value-7" />
+                <xsl:with-param name="replace" select="'/'" />
+                <xsl:with-param name="with" select="'_forward-slash_'" />
+            </xsl:call-template>
+        </xsl:variable>
 
         <xsl:attribute
-            name="xml:id"><xsl:value-of select="$attr-value-3"></xsl:value-of>
+            name="xml:id"><xsl:value-of select="$attr-value-8"></xsl:value-of>
         </xsl:attribute>
 
     </xsl:template>
