@@ -11,7 +11,7 @@
 * For ```@xml:id``` attributes that have to be kept even if they were not valid NCNames, I did the following replacements:
 
     * ```,``` with ```_comma_```;
-    * ```*``` with ```_asterisk_```;    
+    * ```*``` with ```_asterisk_```;
 
 ### Validation according to TEI specification
 
