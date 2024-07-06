@@ -28525,11 +28525,11 @@
 						<l>rathītarāṇāṃ pravarāḥ kṣatropetā dvijātayaḥ ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.8|">
+					<lg xml:id="ViP_4_comma_2.8_pipeline_">
 						<l>kṣuvataś ca manor ikṣvākur ghrāṇataḥ putro jajñe ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.9">
+					<lg xml:id="ViP_4_comma_2.9">
 						<l>
 							tasya putraśatapravarā vikukṣinimidaṇḍākhyās trayaḥ putrā |
 							śakunipramukhāḥ pañcāśat putrāḥ uttarāpatharakṣitāro babhūvuḥ |
@@ -28537,7 +28537,7 @@
 </l>
 					</lg>
 
-					<lg n="ViP_4,2.10">
+					<lg xml:id="ViP_4_comma_2.10">
 						<l>
 							sa cekṣvākur aṣṭakāyām utpādya śrāddhārhaṃ māṃsam ānayeti vikukṣim
 							ājñāpayām āsa |
@@ -28546,7 +28546,7 @@
 							śeṣaṃ ca māṃsam ānīya pitre nivedayām āsa ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.11">
+					<lg xml:id="ViP_4_comma_2.11">
 						<l>
 							ikṣvākukulācāryas tatprokṣaṇāya vasiṣṭhaś coditaḥ prāha |
 							alam anenāmedhyenāmiṣeṇa durātmanānena te putreṇaitan māṃsam upahataṃ
@@ -28562,11 +28562,11 @@
 						<l>pitary uparate cākhilām etāṃ pṛthvīṃ dharmataḥ śaśāsa ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.14|">
+					<lg xml:id="ViP_4_comma_2.14_pipeline_">
 						<l>śaśādasya puraṃjayo nāma putro 'bhavat ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.15">
+					<lg xml:id="ViP_4_comma_2.15">
 						<l>
 							idaṃ cānyat purā hi tretāyāṃ devāsuram atīva bhīṣaṇaṃ yuddham āsīt |
 							tatra cātibalibhir asurair amarāḥ parājitā bhagavantaṃ viṣṇum ārādhayāṃ
@@ -28585,7 +28585,7 @@
 							bhagavantaṃ viṣṇum amarāḥ puraṃjayasakāśam ājagmuḥ ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.17">
+					<lg xml:id="ViP_4_comma_2.17">
 						<l>ūcuś cainaṃ |
 							bho bhoḥ kṣatriyavaryāsmābhir abhyarthitena bhavatāsmākam
 							arātivadhodyatānāṃ sāhāyyaṃ kṛtam icchāmaḥ |
@@ -28596,7 +28596,7 @@
 							ity ākarṇya samastadevair indreṇa ca bāḍham ity evaṃ samanvicchitam ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.18|">
+					<lg xml:id="ViP_4_comma_2.18_pipeline_">
 						<l>tataś ca śatakrator vṛṣabharūpadhāriṇaḥ kakutstho 'tiharṣasamanvito
 							bhagavataś carācaraguror acyutasya tejasāpyāyito devāsurasaṃgrāme
 							samastān
@@ -28622,22 +28622,22 @@
 							ekaviṃśatibhiḥ parivṛto jaghāna dhundhumārasaṃjñāṃ cāvāpa ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.22|">
+					<lg xml:id="ViP_4_comma_2.22_pipeline_">
 						<l>tasya ca samastā eva putrā dhundhumukhaniḥśvāsāgninā vipluṣṭā vineśuḥ ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.23|">
+					<lg xml:id="ViP_4_comma_2.23_pipeline_">
 						<l>dṛḍhāśvacandrāśvakapilāśvās trayaḥ kevalaṃ avaśeṣitāḥ ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.24">
+					<lg xml:id="ViP_4_comma_2.24">
 						<l>
 							dṛḍhāśvād dharyaśvas tasmān nikumbho nikumbhāt saṃhitāśvaḥ |
 							tataś ca kṛśāśvas |
 							tasmāc ca prasenajit tato yuvanāśvo 'bhavat ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.25">
+					<lg xml:id="ViP_4_comma_2.25">
 						<l>
 							tasya cāputrasyātinirvedān munīnām āśramamaṇḍale nivasataḥ kṛpālubhis
 							tair munibhir apatyotpādanāya iṣṭiḥ kṛtā |
@@ -28649,26 +28649,26 @@
 						<l>teṣu ca supteṣv atitṛṭparītaḥ sa bhūpālas tam āśramaṃ viveśa ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.27">
+					<lg xml:id="ViP_4_comma_2.27">
 						<l>
 							suptāṃś ca tān ṛṣīn naivotthāpayām āsa |
 							tac ca kalaśajalam aparimeyamāhātmyaṃ mantrapūtaṃ papau ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.28|">
+					<lg xml:id="ViP_4_comma_2.28_pipeline_">
 						<l>prabuddhāś ca ṛṣayaḥ papracchuḥ kenaitan mantrapūtaṃ vāri pītam ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.29|">
+					<lg xml:id="ViP_4_comma_2.29_pipeline_">
 						<l>atra hi pīte rājño yuvanāśvasya patnī mahābalaparākramaṃ putraṃ
 							janayiṣyatīty ākarṇya sa rājā ajānatā mayā pītam ity āha ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.30|">
+					<lg xml:id="ViP_4_comma_2.30_pipeline_">
 						<l>garbhaś ca yuvanāśvasyodare 'bhavat krameṇa ca vavṛdhe ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.31|">
+					<lg xml:id="ViP_4_comma_2.31_pipeline_">
 						<l>prāptasamayaś ca dakṣiṇakukṣim avanīpater nirbhidya niścakrāma na cāsau
 							rājā mamāra ||</l>
 					</lg>
@@ -28677,29 +28677,29 @@
 						<l>jāto nāmaiṣa kaṃ dhāsyatīti munayaḥ procuḥ ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.33|">
+					<lg xml:id="ViP_4_comma_2.33_pipeline_">
 						<l>athāgamya devarāḍ abravīt mām ayaṃ dhāsyatīti ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.34">
+					<lg xml:id="ViP_4_comma_2.34">
 						<l>
 							tato māṃdhātā nāmato 'bhavat |
 							vaktre cāsya pradeśinī devarājena nyastā tāṃ papau |
 							tāṃ cāmṛtasrāviṇīm āsvādyāhnaiva sa vyavardhata ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.35|">
+					<lg xml:id="ViP_4_comma_2.35_pipeline_">
 						<l>sa tu māṃdhātā cakravartī saptadvīpāṃ mahīṃ bubhuje ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.36">
+					<lg xml:id="ViP_4_comma_2.36">
 						<l>
 							bhavati cātra ślokaḥ |
 							yāvat sūrya udeti sma yāvac ca pratitiṣṭhati |
 							sarvaṃ tad yauvanāśvasya māṃdhātuḥ kṣetram ucyate ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.37">
+					<lg xml:id="ViP_4_comma_2.37">
 						<l>
 							māṃdhātā śaśabindor duhitaraṃ bindumatīm upayeme |
 							purukutsam ambarīṣaṃ ca mucakundaṃ ca tasyāṃ putratrayam utpādayām āsa
@@ -28710,11 +28710,11 @@
 						<l>pañcāśac ca duhitaras tasya nṛpater babhūvuḥ ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.39|">
+					<lg xml:id="ViP_4_comma_2.39_pipeline_">
 						<l>bahvṛcaś ca saubharir nāma ṛṣir antarjale dvādaśābdaṃ kālam uvāsa ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.40">
+					<lg xml:id="ViP_4_comma_2.40">
 						<l>
 							tatra cāntarjale saṃmado nāmātibahuprajo 'tipramāṇo mīnādhipatir āsīt |
 							tasya ca putrapautradauhitrāḥ pārśvataḥ pṛṣṭhato 'grato
@@ -28722,12 +28722,12 @@
 							copari bhramantas tenaiva sahāharniśam atinirvṛtā remire ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.41|">
+					<lg xml:id="ViP_4_comma_2.41_pipeline_">
 						<l>sa cāpi tatsparśopacīyamānaharṣaprakarṣo bahuprakāraṃ tasya ṛṣeḥ paśyatas
 							tair ātmajapautradauhitrādibhiḥ sahānudinaṃ bahuprakāraṃ reme ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.42">
+					<lg xml:id="ViP_4_comma_2.42">
 						<l>
 							athāntarjalāvasthitaḥ sa saubharir ekāgratāsamādhānam apahāyānudinaṃ tat
 							tasya matsyasyātmajapautradauhitrādibhiḥ sahātiramaṇīyaṃ lalitam
@@ -28740,7 +28740,7 @@
 							kanyārthaṃ māṃdhātāraṃ rājānam agacchat ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.43|">
+					<lg xml:id="ViP_4_comma_2.43_pipeline_">
 						<l>āgamanaśravaṇasamanantaraṃ cotthāya tena rājñā samyag arghādinā pūjitaḥ
 							kṛtāsanaparigrahaḥ saubharir uvāca ||</l>
 					</lg>
@@ -28754,7 +28754,7 @@
 						<l><seg type="pāda" n="c">na hy arthinaḥ kāryavaśābhyupetāḥ</seg> <seg type="pāda" n="d">kakutsthagotre vimukhāḥ prayānti</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.45">
+					<lg xml:id="ViP_4_comma_2.45">
 						<l>
 							<seg type="pāda" n="a">anye 'pi santy eva nṛpāḥ pṛthivyāṃ</seg>
 							<seg type="pāda" n="b">kṣmāpāla yeṣāṃtanayāḥ prasūtāḥ</seg>
@@ -28762,7 +28762,7 @@
 						<l><seg type="pāda" n="c">kiṃtv arthinām arthitadānadīkṣā</seg> <seg type="pāda" n="d">kṛtavrataṃ ślāghyam idaṃ kulaṃ te</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.46">
+					<lg xml:id="ViP_4_comma_2.46">
 						<l>
 							<seg type="pāda" n="a">śatārdhasaṃkhyās tava santi kanyās</seg>
 							<seg type="pāda" n="b">tāsāṃ mamaikāṃ nṛpate prayaccha</seg>
@@ -28810,7 +28810,7 @@
 						<l>evam astu tathā kariṣyāmīti saṃcintya māṃdhātāram uvāca ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.51">
+					<lg xml:id="ViP_4_comma_2.51">
 						<l>
 							yady evaṃ tadādiśyatām asmākaṃ praveśāya kanyāntaḥpuravarṣavaraḥ |
 							yadi kanyaiva kācin mām abhilaṣati tadāhaṃ dārasaṃgrahaṃ kariṣyāmīty
@@ -28829,11 +28829,11 @@
 							'tiśayena kamanīyaṃ rūpam akarot ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.54|">
+					<lg xml:id="ViP_4_comma_2.54_pipeline_">
 						<l>praveśya ca tam ṛṣim antaḥpuravarṣavaras tāḥ kanyakāḥ prāha ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.55|">
+					<lg xml:id="ViP_4_comma_2.55_pipeline_">
 						<l>bhavatīnāṃ janayitā mahārājaḥ samājñāpayati |
 							ayam asmān brahmarṣiḥ kanyārthī samabhyāgato mayā cāsya pratijñātaṃ yady
 							asmatkanyakā kācid bhagavantaṃ varayati tat kanyāyāś chande nāhaṃ
@@ -28851,7 +28851,7 @@
 						<l><seg type="pāda" n="c">mamaiva bhartā vidhinaiṣa sṛṣṭaḥ</seg> <seg type="pāda" n="d">sṛṣṭāham asyopaśamaṃ prayāhi</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.57">
+					<lg xml:id="ViP_4_comma_2.57">
 						<l>
 							<seg type="pāda" n="a">vṛto mayāyaṃ prathamaṃ mayāyaṃ</seg>
 							<seg type="pāda" n="b">gṛhaṃ viśann eva vihanyase kim</seg>
@@ -28859,7 +28859,7 @@
 						<l><seg type="pāda" n="c">mayā mayeti kṣitipātmajānāṃ</seg> <seg type="pāda" n="d">tadartham atyarthakalir babhūva</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.58">
+					<lg xml:id="ViP_4_comma_2.58">
 						<l>
 							<seg type="pāda" n="a">yadā tu sarvābhir atīva hārdād</seg>
 							<seg type="pāda" n="b">vṛtaḥ sa kanyābhir anindyakīrtiḥ</seg>
@@ -28874,7 +28874,7 @@
 							ākulamatir anicchann api kathamapi rājānumene ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.60|">
+					<lg xml:id="ViP_4_comma_2.60_pipeline_">
 						<l>kṛtānurūpavivāhaś ca maharṣiḥ sakalā eva tāḥ kanyāḥ svam āśramam anayat
 							||</l>
 					</lg>
@@ -28891,7 +28891,7 @@
 						<l>tac ca tathaivānuṣṭhitam aśeṣaśilpaviśeṣācāryas tvaṣṭā darśitavān ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.63|">
+					<lg xml:id="ViP_4_comma_2.63_pipeline_">
 						<l>tataś ca paramarṣiṇā saubhariṇājñaptas teṣu gṛheṣv anapāyī nandanāmā
 							mahānidhir āsāṃ cakre ||</l>
 					</lg>
@@ -28901,25 +28901,25 @@
 							aharniśam aśeṣagṛheṣu tāḥ kṣitīśaduhitaro bhojayām āsuḥ ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.65|">
+					<lg xml:id="ViP_4_comma_2.65_pipeline_">
 						<l>ekadā tu duhitṛsnehākṛṣṭahṛdayaḥ sa mahīpatir atiduḥkhitās tāḥ sukhitā
 							veti vicintya tasya maharṣer āśramam upetya sphuradaṃśumālāṃ
 							sphaṭikamayīṃ
 							prāsādamālām atiramyopavanajalāśayāṃ dadarśa ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.66|">
+					<lg xml:id="ViP_4_comma_2.66_pipeline_">
 						<l>praviśya caikaṃ prāsādam ātmajāṃ pariṣvajya kṛtāsanaparigrahaḥ
 							pravṛddhasnehanayanāmbugarbhanayano 'bravīt ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.67|">
+					<lg xml:id="ViP_4_comma_2.67_pipeline_">
 						<l>apy atra vatse bhavatyāḥ sukham uta kiṃcid asukham api te maharṣiḥ
 							snehavān uta saṃsmaryate 'smadgṛhavāsasyety uktā tattanayā pitaram āha
 							||</l>
 					</lg>
 
-					<lg n="ViP_4,2.68|">
+					<lg xml:id="ViP_4_comma_2.68_pipeline_">
 						<l>tātātiramaṇīyaḥ prāsādo 'trātimanojñam upavanam
 							atikalavākyavihaṃgābhirutāḥ protphullapadmākarā jalāśayāḥ |
 							manonukūlabhakṣyabhojyānulepanavastra bhūṣaṇādibhogopabhogā mṛdūni
@@ -28928,34 +28928,34 @@
 							smaryate ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.69|">
+					<lg xml:id="ViP_4_comma_2.69_pipeline_">
 						<l>tvatprasādād idam aśeṣam atiśobhanam ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.70|">
+					<lg xml:id="ViP_4_comma_2.70_pipeline_">
 						<l>kiṃtv ekaṃ mamaitad duḥkhakāraṇaṃ yad asmadgṛhān maharṣir ayaṃ madbhartā
 							na niṣkrāmati mamaiva kevalam atiprītyā samīpavartī nānyāsām
 							asmadbhaginīnām ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.71|">
+					<lg xml:id="ViP_4_comma_2.71_pipeline_">
 						<l>evaṃ ca mama sahodaryā duḥkhitā ity evam atiduḥkhakāraṇam ity uktas tayā
 							dvitīyaṃ prāsādam upetya svatanayāṃ pariṣvajyopaviṣṭas tathaiva pṛṣṭavān
 							||</l>
 					</lg>
 
-					<lg n="ViP_4,2.72|">
+					<lg xml:id="ViP_4_comma_2.72_pipeline_">
 						<l>tayāpi tathaiva sarvam etat prāsādādyupabhogasukham ākhyātaṃ mamaiva
 							kevalam atiprītyā pārśvavartī nāsmadbhaginīnām ity evamādi śrutvā
 							samastaprāsādeṣu rājā praviveśa tanayās tathaivāpṛcchat ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.73|">
+					<lg xml:id="ViP_4_comma_2.73_pipeline_">
 						<l>sarvābhiś ca tābhis tathaivābhihitaḥ paritoṣavismayanirbharavivaśahṛdayo
 							bhagavantaṃ saubharim ekāntāvasthitam upetya kṛtapūjo 'bravīt ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.74|">
+					<lg xml:id="ViP_4_comma_2.74_pipeline_">
 						<l>dṛṣṭas te bhagavan sumahān eṣa siddhiprabhāvo naivaṃvidham anyasya
 							kasyacid asmābhir vibhūtivilasitam upalakṣitaṃ |
 							kiyad etad bhagavaṃs tapasaḥ phalam ity abhipūjya tam ṛṣiṃ tatraiva tena
@@ -28963,15 +28963,15 @@
 							||</l>
 					</lg>
 
-					<lg n="ViP_4,2.75|">
+					<lg xml:id="ViP_4_comma_2.75_pipeline_">
 						<l>kālena gacchatā tasya rājatanayāsu putraśataṃ sārdham abhavat ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.76|">
+					<lg xml:id="ViP_4_comma_2.76_pipeline_">
 						<l>anudinānurūḍhasnehaprasaraś ca sa tatrātīva mamatākṛṣṭahṛdayo 'bhavat ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.77|">
+					<lg xml:id="ViP_4_comma_2.77_pipeline_">
 						<l>apy ete 'smatputrāḥ kalabhāṣiṇaḥ padbhyāṃ gaccheyuḥ |
 							apy ete yauvanino bhaveyuḥ |
 							api kṛtadārān etān paśyeyam |
@@ -28981,7 +28981,7 @@
 							aho me mohasyātivistāraḥ ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.78">
+					<lg xml:id="ViP_4_comma_2.78">
 						<l>
 							<seg type="pāda" n="a">manorathānāṃ na samāptir asti</seg>
 							<seg type="pāda" n="b">varṣāyutenāpi tathābdalakṣaiḥ</seg>
@@ -28989,7 +28989,7 @@
 						<l><seg type="pāda" n="c">pūrṇeṣu pūrṇeṣu punar navānām</seg> <seg type="pāda" n="d">utpattayaḥ santi manorathānām</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.79">
+					<lg xml:id="ViP_4_comma_2.79">
 						<l>
 							<seg type="pāda" n="a">padbhyāṃ gatā yauvaninaś ca jātā</seg>
 							<seg type="pāda" n="b">dāraiś ca saṃyogam itāḥ prasūtāḥ</seg>
@@ -28997,7 +28997,7 @@
 						<l><seg type="pāda" n="c">dṛṣṭāḥ sutās tattanayaprasūtiṃ</seg> <seg type="pāda" n="d">draṣṭuṃ punar vāñchati me 'ntarātmā</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.80">
+					<lg xml:id="ViP_4_comma_2.80">
 						<l>
 							<seg type="pāda" n="a">drakṣyāmi teṣām api cet prasūtiṃ</seg>
 							<seg type="pāda" n="b">manoratho me bhavitā tato 'nyaḥ</seg>
@@ -29005,7 +29005,7 @@
 						<l><seg type="pāda" n="c">pūrṇe 'pi tatrāpy aparasya janma</seg> <seg type="pāda" n="d">nivāryate kena manorathasya</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.81">
+					<lg xml:id="ViP_4_comma_2.81">
 						<l>
 							<seg type="pāda" n="a">āmṛtyuto naiva manorathānām</seg>
 							<seg type="pāda" n="b">anto 'sti vijñātam idaṃ mayādya</seg>
@@ -29013,7 +29013,7 @@
 						<l><seg type="pāda" n="c">manorathāsaktiparasya cittaṃ</seg> <seg type="pāda" n="d">na jāyate vai paramārthasaṅgi</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.82">
+					<lg xml:id="ViP_4_comma_2.82">
 						<l>
 							<seg type="pāda" n="a">sa me samādhir jalavāsamitra</seg>
 							<seg type="pāda" n="b">matsyasya saṅgāt sahasaiva naṣṭaḥ</seg>
@@ -29021,7 +29021,7 @@
 						<l><seg type="pāda" n="c">parigrahaḥ saṅgakṛto mamāyaṃ</seg> <seg type="pāda" n="d">parigrahotthā ca mahāvidhitsā</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.83">
+					<lg xml:id="ViP_4_comma_2.83">
 						<l>
 							<seg type="pāda" n="a">duḥkhaṃ yadaivaikaśarīrajanma</seg>
 							<seg type="pāda" n="b">śatārdhasaṃkhyaṃ yad idaṃ prasūtam</seg>
@@ -29029,7 +29029,7 @@
 						<l><seg type="pāda" n="c">parigraheṇa kṣitipātmajānāṃ</seg> <seg type="pāda" n="d">sutair anekair bahulīkṛtaṃ tat</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.84">
+					<lg xml:id="ViP_4_comma_2.84">
 						<l>
 							<seg type="pāda" n="a">sutātmajais tattanayaiś ca bhūyo</seg>
 							<seg type="pāda" n="b">bhūyaś ca teṣāṃ svaparigraheṇa</seg>
@@ -29037,7 +29037,7 @@
 						<l><seg type="pāda" n="c">vistāram eṣyaty atiduḥkhahetuḥ</seg> <seg type="pāda" n="d">parigraho vai mamatānidhānam</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.85">
+					<lg xml:id="ViP_4_comma_2.85">
 						<l>
 							<seg type="pāda" n="a">cīrṇaṃ tapo yat tu jalāśrayeṇa</seg>
 							<seg type="pāda" n="b">tasyarddhir eṣā tapaso 'ntarāyaḥ</seg>
@@ -29045,7 +29045,7 @@
 						<l><seg type="pāda" n="c">matsyasya saṅgād abhavac ca yo me</seg> <seg type="pāda" n="d">sutādirāgo muṣito 'smi tena</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.86">
+					<lg xml:id="ViP_4_comma_2.86">
 						<l>
 							<seg type="pāda" n="a">niḥsaṅgatā muktipadaṃ yatīnāṃ</seg>
 							<seg type="pāda" n="b">saṅgād aśeṣāḥ prabhavanti doṣāḥ</seg>
@@ -29053,7 +29053,7 @@
 						<l><seg type="pāda" n="c">ārūḍhayogo 'pi nipātyate 'dhaḥ</seg> <seg type="pāda" n="d">saṅgena yogī kim utālpasiddhiḥ</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.87">
+					<lg xml:id="ViP_4_comma_2.87">
 						<l>
 							<seg type="pāda" n="a">ahaṃ cariṣyāmi tathātmano 'rthe</seg>
 							<seg type="pāda" n="b">parigrahagrāhagṛhītabuddhiḥ</seg>
@@ -29061,7 +29061,7 @@
 						<l><seg type="pāda" n="c">yathā hi bhūyaḥ parihīnadoṣo</seg> <seg type="pāda" n="d">janasya duḥkhair bhavitā na duḥkhī</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.88">
+					<lg xml:id="ViP_4_comma_2.88">
 						<l>
 							<seg type="pāda" n="a">sarvasya dhātāram acintyarūpam</seg>
 							<seg type="pāda" n="b">aṇor aṇīyāṃsam atipramāṇam</seg>
@@ -29069,7 +29069,7 @@
 						<l><seg type="pāda" n="c">sitāsitaṃ ceśvaram īśvarāṇām</seg> <seg type="pāda" n="d">ārādhayiṣye tapasaiva viṣṇum</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.89">
+					<lg xml:id="ViP_4_comma_2.89">
 						<l>
 							<seg type="pāda" n="a">tasminn aśeṣaujasi sarvarūpiṇy</seg>
 							<seg type="pāda" n="b">avyaktavispaṣṭatanāv anante</seg>
@@ -29077,7 +29077,7 @@
 						<l><seg type="pāda" n="c">mamācalaṃ cittam apetadoṣaṃ</seg> <seg type="pāda" n="d">sadāstu viṣṇāv abhavāya bhūyaḥ</seg> //</l>
 					</lg>
 
-					<lg n="ViP_4,2.90">
+					<lg xml:id="ViP_4_comma_2.90">
 						<l>
 							<seg type="pāda" n="a">samastabhūtād amalād anantāt</seg>
 							<seg type="pāda" n="b">sarveśvarād anyad anādimadhyāt</seg>
@@ -29100,7 +29100,7 @@
 							abhavat ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.93|">
+					<lg xml:id="ViP_4_comma_2.93_pipeline_">
 						<l>bhagavaty āsajyākhilakarmakalāpaṃ ajam avikāram amaraṇādidharmam avāpa
 							paraṃ paravatām acyutapadam ||</l>
 					</lg>
@@ -29109,7 +29109,7 @@
 						<l>ity etan māṃdhātur duhitṛsaṃbandhād ākhyātam ||</l>
 					</lg>
 
-					<lg n="ViP_4,2.95|">
+					<lg xml:id="ViP_4_comma_2.95_pipeline_">
 						<l>yaś caitat saubharicaritam anusmarati paṭhati śṛṇoti avadhārayati
 							lekhayati tasyāṣṭau janmany asanmatir asaddharmo vā manaso
 							'sanmārgācaraṇam
