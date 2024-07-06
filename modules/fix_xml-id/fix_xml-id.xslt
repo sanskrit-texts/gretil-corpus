@@ -9,7 +9,7 @@
         </xsl:copy>
     </xsl:template>
 
-    <xsl:template match="tei:lg/@xml:id">
+    <xsl:template match="@xml:id">
         <xsl:variable name="attr-value-1">
             <xsl:call-template name="replace-string">
                 <xsl:with-param name="text" select="." />
