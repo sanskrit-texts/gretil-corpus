@@ -338,7 +338,7 @@
 <p xml:id="GautSt_1.3" corresp="GautAA_1.1.3">dṛṣṭo dharmavyatikramaḥ sāhasaṃ ca mahatāṃ |</p>
 <note>VAR_St: na tu dṛṣṭārthe</note>
 
-<p xml:id="GautSt_1.3" corresp="GautAA_1.1.4">avaradaurbalyāt |</p>
+<p xml:id="GautSt_1.3-1" corresp="GautAA_1.1.4">avaradaurbalyāt |</p>
 
 <p xml:id="GautSt_1.4" corresp="GautAA_1.1.5">tulyabalavirodhe vikalpaḥ |</p>
 
@@ -407,14 +407,14 @@
 
 <p xml:id="GautSt_1.36" corresp="GautAA_1.1.35">śucau deśe āsīno dakṣiṇaṃ bāhuṃ jānvantarākṛtvā yajñopavītyā maṇibandhanāt pāṇī prakṣālya vāgyatohṛdayaspṛśas triś catur vāpa ācāmed |</p>
 
-<p xml:id="GautSt_1.36" corresp="GautAA_1.1.36">dviḥ parimṛjyate |</p>
+<p xml:id="GautSt_1.36-1" corresp="GautAA_1.1.36">dviḥ parimṛjyate |</p>
 <note>VAR_St: parimṛjyāt</note>
 
-<p xml:id="GautSt_1.36" corresp="GautAA_1.1.37">pādau cābhyukṣet |</p>
+<p xml:id="GautSt_1.36-2" corresp="GautAA_1.1.37">pādau cābhyukṣet |</p>
 
-<p xml:id="GautSt_1.36" corresp="GautAA_1.1.38">khāni copaspṛśec śīrṣaṇyāni |</p>
+<p xml:id="GautSt_1.36-3" corresp="GautAA_1.1.38">khāni copaspṛśec śīrṣaṇyāni |</p>
 
-<p xml:id="GautSt_1.36" corresp="GautAA_1.1.39">mūrdhani ca dadyāt |</p>
+<p xml:id="GautSt_1.36-4" corresp="GautAA_1.1.39">mūrdhani ca dadyāt |</p>
 
 <p xml:id="GautSt_1.37" corresp="GautAA_1.1.40">suptvā bhuktvā kṣutvā ca punaḥ |</p>
 
@@ -864,7 +864,7 @@
 
 <p xml:id="GautSt_5.43" corresp="GautAA_1.5.39">brāhmaṇasyānatithir abrāhmaṇaḥ |</p>
 
-<p xml:id="GautSt_5.43" corresp="GautAA_1.5.40">yajñe saṃvṛtaś cet |</p>
+<p xml:id="GautSt_5.43-1" corresp="GautAA_1.5.40">yajñe saṃvṛtaś cet |</p>
 <note>VAR_St: ayajñe saṃvṛttaś</note>
 
 <p xml:id="GautSt_5.44" corresp="GautAA_1.5.41">bhojanaṃ tu kṣatriyasyordhvaṃ brāhmanebhyaḥ |</p>
@@ -876,7 +876,7 @@
 
 <note>GautAA 1,6 = GautSt VI</note>
 
-<p xml:id="GautSt_6.2" corresp="GautAA_1.6.1">pādopasamgrahaṇaṃ samavāye 'nvaham |</p>
+<p xml:id="GautSt_6.1" corresp="GautAA_1.6.1">pādopasamgrahaṇaṃ samavāye 'nvaham |</p>
 
 <p xml:id="GautSt_6.2" corresp="GautAA_1.6.2">abhigamya tu viproṣya |</p>
 
@@ -1715,7 +1715,7 @@
 
 <p xml:id="GautSt_14.31" corresp="GautAA_2.5.29">śavānugamane ca |</p>
 
-<p xml:id="GautSt_14.32" corresp="GautAA_2.5.30">śunaś ca |</p>
+<p xml:id="GautSt_14.33" corresp="GautAA_2.5.30">śunaś ca |</p>
 
 <p xml:id="GautSt_14.32" corresp="GautAA_2.5.31">yad upahanyād ity eke |</p>
 
@@ -2357,7 +2357,7 @@
 
 <p xml:id="GautSt_23.3" corresp="GautAA_3.5.3">mūtrapurīṣaretasāṃ ca prāśane |</p>
 
-<p xml:id="GautSt_23.5" corresp="GautAA_3.5.4">śvāpadoṣṭrakharāṇāṃ cāṅgasya |</p>
+<p xml:id="GautSt_23.4" corresp="GautAA_3.5.4">śvāpadoṣṭrakharāṇāṃ cāṅgasya |</p>
 
 <p xml:id="GautSt_23.5" corresp="GautAA_3.5.5">grāmyakukkuṭasūkarayoś ca |</p>
 
