@@ -27,3 +27,11 @@
 
 * There are ```lg``` elements without ```@xml:id```.
 
+### Work to do
+
+* The XML files have to be valid.
+
+* The TEI files have to valid according to TEI schema.
+
+
+

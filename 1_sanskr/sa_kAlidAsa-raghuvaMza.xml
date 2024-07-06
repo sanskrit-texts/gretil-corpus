@@ -523,7 +523,7 @@
 <note>a: (<hi>mahate sutalābhāya</hi> C)</note>
 <note>d: (<hi>niveśitā</hi> C)</note>
 
-<lg xml:id="Ragh_1.34*">
+<lg xml:id="Ragh_1.34_asterisk_">
 <l><seg type="pāda" n="a">gaṅgāṃ bhagīrathen<hi>eva</hi></seg> <seg type="pāda" n="b">pūrveṣāṃ pāvanakṣamām</seg> </l>
 <l><seg type="pāda" n="c"><hi>icchatā</hi> saṃtatiṃ nyastā</seg> <seg type="pāda" n="d">tena mantriṣu <hi>kosalā</hi></seg> //</l>
 </lg>
@@ -1182,7 +1182,7 @@
 <note>b: (<hi>^bhaṅge</hi> J M Ns)</note>
 <note>c: (<hi>^vikṣitena</hi> C N P S)</note>
 
-<lg xml:id="Ragh_2.42*">
+<lg xml:id="Ragh_2.42_asterisk_">
 <l><seg type="pāda" n="a">pratyāha vainaṃ śaramokṣavandhyo</seg> <seg type="pāda" n="b">mā pattraparvāt svarabhedam āptaḥ</seg> </l>
 <l><seg type="pāda" n="c">prahīṇapūrvadhvaninādhirūḍhas</seg> <seg type="pāda" n="d">tulām asārena śaradghanena</seg> //</l>
 </lg>
@@ -1539,7 +1539,7 @@
 
 <note>c: (<hi>dvayam</hi> C)</note>
 
-<lg xml:id="Ragh_3.16*">
+<lg xml:id="Ragh_3.16_asterisk_">
 <l><seg type="pāda" n="a">samīkṣya putrasya cirān <hi>mukhaṃ</hi></seg> <seg type="pāda" n="b">pitā nidhānakumbhasya <hi>yuveva</hi> durgataḥ</seg> </l>
 <l><seg type="pāda" n="c">mudā śarīre prababhūva nātmanaḥ</seg> <seg type="pāda" n="d">payodhir indūdayamūrchito yathā</seg> //</l>
 </lg>
@@ -1695,7 +1695,7 @@
 
 <note>a: (<hi>i^</hi> C S)</note>
 
-<lg xml:id="Ragh_3.40*">
+<lg xml:id="Ragh_3.40_asterisk_">
 <l><seg type="pāda" n="a">svedāmbunā mārjaya putra locane</seg> <seg type="pāda" n="b">mamaiva yeneha turaṃgam īkṣase</seg> </l>
 <l><seg type="pāda" n="c">dhenvā niśamyeti vacaḥ samīritaṃ</seg> <seg type="pāda" n="d">mudaṃ parām āpa dilīpanandanaḥ</seg> //</l>
 </lg>
@@ -1919,7 +1919,7 @@
 <l><seg type="pāda" n="c">dinānte nihitaṃ tejaḥ</seg> <seg type="pāda" n="d">savitreva hutāśanaḥ</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_4.1*">
+<lg xml:id="Ragh_4.1_asterisk_">
 <l><seg type="pāda" n="a">nyastaśastraṃ dilīpaṃ ca</seg> <seg type="pāda" n="b">taṃ ca śuśruvuṣāṃ patim</seg> </l>
 <l><seg type="pāda" n="c">rājñām uddhṛtanārāce</seg> <seg type="pāda" n="d">hṛdi śalyam ivārpitam</seg> //</l>
 </lg>
@@ -2012,7 +2012,7 @@
 
 <note>b: (<hi>durutsahaḥ</hi> V<orig rend="sup">n</orig>)</note>
 
-<lg xml:id="Ragh_4.15*">
+<lg xml:id="Ragh_4.15_asterisk_">
 <l><seg type="pāda" n="a">adhijyam āyudhaṃ kartuṃ</seg> <seg type="pāda" n="b">muktavartmā <hi>suduḥsahaḥ</hi></seg> </l>
 <l><seg type="pāda" n="c">svaṃ dhanuḥ śaṅkiteneva</seg> <seg type="pāda" n="d">saṃjahre śatamanyunā</seg> //</l>
 </lg>
@@ -2127,7 +2127,7 @@
 
 <note>a: (<hi>marut^</hi> V<orig rend="sup">n</orig>)</note>
 
-<lg xml:id="Ragh_4.31*">
+<lg xml:id="Ragh_4.31_asterisk_">
 <l><seg type="pāda" n="a">purogaiḥ kaluṣās tasya</seg> <seg type="pāda" n="b">sahaprasthāyibhiḥ kṛśāḥ</seg> </l>
 <l><seg type="pāda" n="c">paścātprayāyibhiḥ paṅkāś</seg> <seg type="pāda" n="d">cakrire mārganimnagāḥ</seg> //</l>
 </lg>
@@ -2193,7 +2193,7 @@
 <l><seg type="pāda" n="c">sanmaṅgalasnāta iva</seg> <seg type="pāda" n="d">pratipede jayaśriyam</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_4.41*">
+<lg xml:id="Ragh_4.41_asterisk_">
 <l><seg type="pāda" n="a">vāyavyāstravinirdhūtāt</seg> <seg type="pāda" n="b">pakṣāviddhān mahodadheḥ</seg> </l>
 <l><seg type="pāda" n="c">gajānīkāt sa kāliṅgaṃ</seg> <seg type="pāda" n="d">tārkṣyaḥ sarpam ivādade</seg> //</l>
 </lg>
@@ -2237,7 +2237,7 @@
 
 <note>a: (<hi>jj</hi> C)</note>
 
-<lg xml:id="Ragh_4.47*">
+<lg xml:id="Ragh_4.47_asterisk_">
 <l><seg type="pāda" n="a">ājāneyakhurakṣuṇṇa</seg><seg type="pāda" n="b">-pakvailākṣetrasaṃbhavam</seg> </l>
 <l><seg type="pāda" n="c">vyānaśe sapadi vyoma</seg> <seg type="pāda" n="d">tripadīchedinām api</seg> //</l>
 </lg>
@@ -2350,7 +2350,7 @@
 <l><seg type="pāda" n="c">śarair usrair ivodīcyān</seg> <seg type="pāda" n="d">uddhariṣyam rasān iva</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_4.66*">
+<lg xml:id="Ragh_4.66_asterisk_">
 <l><seg type="pāda" n="a">jitān ajayyas tān eva</seg> <seg type="pāda" n="b">kṛtvā rathapuraḥsarān</seg> </l>
 <l><seg type="pāda" n="c">mahārṇavam ivaurāgniḥ</seg> <seg type="pāda" n="d">praviveśottarāpatham</seg> //</l>
 </lg>
@@ -2511,7 +2511,7 @@
 <l><seg type="pāda" n="c">kākutsthaś ciravirahotsukāvarodhān</seg> <seg type="pāda" n="d">rājanyān svapuranivṛttaye 'numene</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_4.87*">
+<lg xml:id="Ragh_4.87_asterisk_">
 <l><seg type="pāda" n="a">yajñānte tam avabhṛthābiṣekapūtaṃ</seg> <seg type="pāda" n="b">satkāraiḥ śamitaparājayavyalīkān</seg> </l>
 <l><seg type="pāda" n="c">āmantryotsukavanitātpatadvisṛṣṭāḥ</seg> <seg type="pāda" n="d">svāni svāny avanibhujaḥ purāṇi jagmuḥ</seg> //</l>
 </lg>
@@ -2814,7 +2814,7 @@
 <l><seg type="pāda" n="c">babhau sa bhindan bṛhatas taraṅgān</seg> <seg type="pāda" n="d">vāryargalābhaṅga iva pravṛttaḥ</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_5.45*">
+<lg xml:id="Ragh_5.45_asterisk_">
 <l><seg type="pāda" n="a">sa bhogibhogādhikapīvareṇa</seg> <seg type="pāda" n="b">hastena tīrābhimukhaḥ saśabdam</seg> </l>
 <l><seg type="pāda" n="c">saṃvardhitārtdhaprahitena dīrghān</seg> <seg type="pāda" n="d">cikṣepa vārīparighān ivormīn</seg> //</l>
 </lg>
@@ -2828,7 +2828,7 @@
 <note>a: (<hi>^vallarīṇāṃ</hi> V<orig rend="sup">n</orig>)</note>
 <note>b: (<hi>tarasā</hi> C V<orig rend="sup">n</orig>)</note>
 
-<lg xml:id="Ragh_5.46*">
+<lg xml:id="Ragh_5.46_asterisk_">
 <l><seg type="pāda" n="a">kāraṇḍavotsṛṣṭamṛdupratnānāḥ</seg> <seg type="pāda" n="b">pulindayoṣāmbuvihārakāñcīḥ</seg> </l>
 <l><seg type="pāda" n="c">karṣan sa śaivālalatā nadīṣaḥ</seg> <seg type="pāda" n="d">skandhāvalagnās taṭam utsasarpa</seg> //</l>
 </lg>
@@ -3388,7 +3388,7 @@
 <note>c: (<hi>^sikte</hi> C<orig rend="sup">t</orig>)</note>
 <note>d: (<hi>āyā</hi> C V)</note>
 
-<lg xml:id="Ragh_6.55*">
+<lg xml:id="Ragh_6.55_asterisk_">
 <l><seg type="pāda" n="a">raṇe 'mitatrīṇatayā prakāśaḥ</seg> <seg type="pāda" n="b">śarāsanajyānikaṣau bhujābhyām</seg> </l>
 <l><seg type="pāda" n="c">viśiṣṭarekhau ripuvikramāgner</seg> <seg type="pāda" n="d">nirvāṇamārgāv iva yo bibharti</seg> //</l>
 </lg>
@@ -3414,7 +3414,7 @@
 
 <note>c: (<hi>up'^</hi> V<orig rend="sup">t</orig>)</note>
 
-<lg xml:id="Ragh_6.58*">
+<lg xml:id="Ragh_6.58_asterisk_">
 <l><seg type="pāda" n="a">athādhigamyābhuvarājakalpaṃ</seg> <seg type="pāda" n="b">patiṃ purasyorugapūrvanāmnaḥ</seg> </l>
 <l><seg type="pāda" n="c">ācārapūtobhayavaṃśadīpaṃ</seg> <seg type="pāda" n="d">śuddhāntarakṣyā jagade kumārī</seg> //</l>
 </lg>
@@ -3672,7 +3672,7 @@
 
 <note>a: (<hi>^āñcitā</hi> ct)</note>
 
-<lg xml:id="Ragh_7.10*">
+<lg xml:id="Ragh_7.10_asterisk_">
 <l><seg type="pāda" n="a">stanaṃdhayantaṃ tanayaṃ vihāya</seg> <seg type="pāda" n="b">vilokanāya tvarayā vrajantī</seg> </l>
 <l><seg type="pāda" n="c">saṃprasnutābhyāṃ padavīṃ stanābhyāṃ</seg> <seg type="pāda" n="d">siṣeca kācit payas''; ā gavākṣāt</seg> //</l>
 </lg>
@@ -4195,7 +4195,7 @@
 
 <note>c: (<hi>a^</hi> V)</note>
 
-<lg xml:id="Ragh_8.17*">
+<lg xml:id="Ragh_8.17_asterisk_">
 <l><seg type="pāda" n="a">samayujayta bhūpatir yuvā</seg> <seg type="pāda" n="b">sacivaiḥ pratyaham arthasiddhaye</seg> </l>
 <l><seg type="pāda" n="c">apunarjananopattaye</seg> <seg type="pāda" n="d">prayayāḥ saṃyamibhir manīṣibhiḥ</seg> //</l>
 </lg>
@@ -4205,7 +4205,7 @@
 <l><seg type="pāda" n="c">paricetum upāṃśu dhāraṇāṃ</seg> <seg type="pāda" n="d">kuśapūtaṃ pravayās tu viṣṭaram</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_8.18*">
+<lg xml:id="Ragh_8.18_asterisk_">
 <l><seg type="pāda" n="a">anuraṇjayituṃ prajāḥ prabhur</seg> <seg type="pāda" n="b">vyahārāsanam ādade navaḥ</seg> </l>
 <l><seg type="pāda" n="c">aparaḥ śuciviṣṭarasthitaḥ</seg> <seg type="pāda" n="d">paricetuṃ yatate sma dhāraṇāḥ</seg> //</l>
 </lg>
@@ -4215,7 +4215,7 @@
 <l><seg type="pāda" n="c">aparaḥ praṇidhānayogyayā</seg> <seg type="pāda" n="d">marutaḥ pañca śarīragocarān</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_8.19*">
+<lg xml:id="Ragh_8.19_asterisk_">
 <l><seg type="pāda" n="a">nayacakṣur ajo didṛkṣayā</seg> <seg type="pāda" n="b">pararandhrasya tatāna maṇḍale</seg> </l>
 <l><seg type="pāda" n="c">hṛdaye samaropayan manaḥ</seg> <seg type="pāda" n="d">paramaṃ jyotir avekṣituṃ raghuḥ</seg> //</l>
 </lg>
@@ -4348,7 +4348,7 @@
 <l><seg type="pāda" n="c">nanu tailaniṣekabindunā</seg> <seg type="pāda" n="d">saha dīpārcir upaiti medinīm</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_8.38*">
+<lg xml:id="Ragh_8.38_asterisk_">
 <l><seg type="pāda" n="a">samam eva narādhipena sā</seg> <seg type="pāda" n="b">gurusaṃmohaviluptacetanā</seg> </l>
 <l><seg type="pāda" n="c">gurusaṃmohaviluptacetanā</seg> <seg type="pāda" n="d"><hi>nava</hi>dīpārcir iva kṣites talam</seg> //</l>
 </lg>
@@ -4376,7 +4376,7 @@
 <l><seg type="pāda" n="c">sa nināya nitāntavatsalaḥ</seg> <seg type="pāda" n="d">parigṛhyocitam aṅkam aṅganām</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_8.41*">
+<lg xml:id="Ragh_8.41_asterisk_">
 <l><seg type="pāda" n="a">sa nināya nitāntavatsalaḥ</seg> <seg type="pāda" n="b">parivṛttaprathamacchaviṃ kṣaṇāt</seg> </l>
 <l><seg type="pāda" n="c">saliloddhṛtapadminīnibhāṃ</seg> <seg type="pāda" n="d">dayitām aṅkam udaśulocanaḥ</seg> //</l>
 </lg>
@@ -4453,7 +4453,7 @@
 
 <note>c: (<hi>v''</hi> V<orig rend="sup">n</orig>)</note>
 
-<lg xml:id="Ragh_8.51*">
+<lg xml:id="Ragh_8.51_asterisk_">
 <l><seg type="pāda" n="a">surataśramavāribindavo</seg> <seg type="pāda" n="b">na <hi>hi</hi> tāvad viramanti te mukhe</seg> </l>
 <l><seg type="pāda" n="c"><hi>katham</hi> astamitā 'sy aho bata</seg> <seg type="pāda" n="d"><hi>dhig imām</hi> deha<hi>vatām</hi> asārat<hi>ām</hi></seg> //</l>
 </lg>
@@ -4703,7 +4703,7 @@
 <note>b: (<hi>ānumṛter avāpyate</hi> Vk)</note>
 <note>d: (<hi>āḥ śarīriṇām</hi> C Vk)</note>
 
-<lg xml:id="Ragh_8.85*">
+<lg xml:id="Ragh_8.85_asterisk_">
 <l><seg type="pāda" n="a">ruditena na sā nivartate</seg> <seg type="pāda" n="b">nṛpa tat tāvad anrthakaṃ tava</seg> </l>
 <l><seg type="pāda" n="c">na bhavān anusaṃsthito 'pi tāṃ</seg> <seg type="pāda" n="d">labhate karmavaśā hi dehinaḥ</seg> //</l>
 </lg>
@@ -4843,7 +4843,7 @@
 
 <note>c: (<hi>hi</hi> C V)</note>
 
-<lg xml:id="Ragh_9.10*">
+<lg xml:id="Ragh_9.10_asterisk_">
 <l><seg type="pāda" n="a">jaghananirviṣayīkṛtamekhalān</seg> <seg type="pāda" n="b">anucitāśruviluptaviśeṣakān</seg> </l>
 <l><seg type="pāda" n="c">sa ripudāragaṇān akarod balād</seg> <seg type="pāda" n="d">analakān alakādhipavikramaḥ</seg> //</l>
 </lg>
@@ -4860,7 +4860,7 @@
 
 <note>a: (<hi>śata^</hi> ct)</note>
 
-<lg xml:id="Ragh_9.12*">
+<lg xml:id="Ragh_9.12_asterisk_">
 <l><seg type="pāda" n="a">sphuritakoṭisahasramarīcinā</seg> <seg type="pāda" n="b">samacinot kuliśena harir yaśaḥ</seg> </l>
 <l><seg type="pāda" n="c">sa dhanuṣā yudhi sāyakavarṣiṇā</seg> <seg type="pāda" n="d">svanavatā navatāmarasānanaḥ</seg> //</l>
 </lg>
@@ -4954,7 +4954,7 @@
 
 <note>c: (<hi>^nigraihair</hi> ct)</note>
 
-<lg xml:id="Ragh_9.25*">
+<lg xml:id="Ragh_9.25_asterisk_">
 <l><seg type="pāda" n="a">himavivarṇitacandanapallavaṃ</seg> <seg type="pāda" n="b">virahayan malayādrim udaṅmukhaḥ</seg> </l>
 <l><seg type="pāda" n="c">vihagayoḥ kṛpayeva śanair yayau</seg> <seg type="pāda" n="d">ravir aharvirahadhruvabhedayoḥ</seg> //</l>
 </lg>
@@ -4966,7 +4966,7 @@
 
 <note>b: (<hi>u^</hi> C V<orig rend="sup">n</orig>)</note>
 
-<lg xml:id="Ragh_9.26*">
+<lg xml:id="Ragh_9.26_asterisk_">
 <l><seg type="pāda" n="a">surabhisaṃgamajaṃ vanamālayā</seg> <seg type="pāda" n="b">navapalāśam adhāryata bhaṅguram</seg> </l>
 <l><seg type="pāda" n="c">ramaṇadattam ivārdranakhakṣataṃ</seg> <seg type="pāda" n="d">pramadayā madayāpitalajjayā</seg> //</l>
 </lg>
@@ -4978,7 +4978,7 @@
 
 <note>b: (<hi>kusuma^</hi> C)</note>
 
-<lg xml:id="Ragh_9.27*">
+<lg xml:id="Ragh_9.27_asterisk_">
 <l><seg type="pāda" n="a">parabhṛtā madanakṣatacetasāṃ</seg> <seg type="pāda" n="b">priyasakhī laghuvāg iva yoṣitām</seg> </l>
 <l><seg type="pāda" n="c">priyatamān akarot kalahāntare</seg> <seg type="pāda" n="d">mṛduravā duravāpasamāgamān</seg> //</l>
 </lg>
@@ -4988,7 +4988,7 @@
 <l><seg type="pāda" n="c">na khalu tāvad aśeṣam apohituṃ</seg> <seg type="pāda" n="d">ravir alaṃ viralaṃ kṛtavān himam</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_9.28*">
+<lg xml:id="Ragh_9.28_asterisk_">
 <l><seg type="pāda" n="a">viśadacandrakaraṃ sukhamārutaṃ</seg> <seg type="pāda" n="b">kusumitadrumam unmadakokilam</seg> </l>
 <l><seg type="pāda" n="c">tad upabhogarasaṃ himavarṣiṇaḥ</seg> <seg type="pāda" n="d">param ṛtor viralaṃ kṛtavān himam</seg> //</l>
 </lg>
@@ -5005,7 +5005,7 @@
 
 <note>c: (<hi>śataśo</hi> C)</note>
 
-<lg xml:id="Ragh_9.30*">
+<lg xml:id="Ragh_9.30_asterisk_">
 <l><seg type="pāda" n="a">daśanacandrikayā vyabhāsitaṃ</seg> <seg type="pāda" n="b">hasitam āsavagandhi madhor iva</seg> </l>
 <l><seg type="pāda" n="c">bakulapuṣpam asevyata ṣaṭpadaiḥ</seg> <seg type="pāda" n="d">śucirasaṃ cirasaṃcitam īpsubhiḥ</seg> //</l>
 </lg>
@@ -5025,7 +5025,7 @@
 <l><seg type="pāda" n="c">madhukarair akaron madhulolupair</seg> <seg type="pāda" n="d">bakulam ākulam āyatapaṅktibhiḥ</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_9.33*">
+<lg xml:id="Ragh_9.33_asterisk_">
 <l><seg type="pāda" n="a">suvadanāvadanāsavasaṃbhṛtas</seg> <seg type="pāda" n="b">tadanuvādiguṇaḥ kusumodgamaḥ</seg> </l>
 <l><seg type="pāda" n="c">iti dayāta ivābhavad āyatā</seg> <seg type="pāda" n="d">na rajanī rajanīśavatī madhau</seg> //</l>
 </lg>
@@ -5050,7 +5050,7 @@
 <note>a: (<hi>^manoharaṃ</hi> C)</note>
 <note>c: (<hi>madam</hi> V<orig rend="sup">n</orig>)</note>
 
-<lg xml:id="Ragh_9.36*">
+<lg xml:id="Ragh_9.36_asterisk_">
 <l><seg type="pāda" n="a">tilakamastakaharmyakṛtāspadaiḥ</seg> <seg type="pāda" n="b">kusumamadhvanuṣaṅgasugandhibhiḥ</seg> </l>
 <l><seg type="pāda" n="c">kalam agīyata bhṛṅgavilāsināṃ</seg> <seg type="pāda" n="d">smarayutair ayutair abalāsakhaiḥ</seg> //</l>
 </lg>
@@ -5062,7 +5062,7 @@
 
 <note>a: (<hi>^vilocanāḥ</hi> S<orig rend="sup">c</orig>)</note>
 
-<lg xml:id="Ragh_9.37*">
+<lg xml:id="Ragh_9.37_asterisk_">
 <l><seg type="pāda" n="a">laghayati sma na patyaparādhajaṃ</seg> <seg type="pāda" n="b">na sahakāratarus taruṇīdhṛtam</seg> </l>
 <l><seg type="pāda" n="c">kusumito namito 'libhir unmadaiḥ</seg> <seg type="pāda" n="d">smarasamādhisamādhikaroṣitam</seg> //</l>
 </lg>
@@ -5104,7 +5104,7 @@
 <note>c: (<hi>^bhāra^natā</hi> C<orig rend="sup">t</orig>)</note>
 <note>d: (<hi>aḥ</hi> * V<orig rend="sup">n</orig>)</note>
 
-<lg xml:id="Ragh_9.42*">
+<lg xml:id="Ragh_9.42_asterisk_">
 <l><seg type="pāda" n="a">analasānyabhṛtā 'nalasān manaḥ</seg> <seg type="pāda" n="b">kamaladhūlibhṛtā maruteritā</seg> </l>
 <l><seg type="pāda" n="c">kusumabhāranatādhvagayoṣitām</seg> <seg type="pāda" n="d">asamaśokam aśokalatā 'karot</seg> //</l>
 </lg>
@@ -5427,7 +5427,7 @@
 <l><seg type="pāda" n="c">sutābhidhānaṃ sa jyotiḥ</seg> <seg type="pāda" n="d">śaradām ayutaṃ yayau</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_10.2*">
+<lg xml:id="Ragh_10.2_asterisk_">
 <l><seg type="pāda" n="a">manor vaṃśaś ciraṃ tasminn</seg> <seg type="pāda" n="b">anabhivyaktasaṃtatiḥ</seg> </l>
 <l><seg type="pāda" n="c">nimajjya punar utthāsyan</seg> <seg type="pāda" n="d">nadaḥ śoṇa ivābhavat</seg> //</l>
 </lg>
@@ -6005,7 +6005,7 @@
 <l><seg type="pāda" n="c">āśiṣaṃ prayuyuje na vāhinīṃ</seg> <seg type="pāda" n="d">sā hi rakṣaṇavidhau tayoḥ kṣamā</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_11.6*">
+<lg xml:id="Ragh_11.6_asterisk_">
 <l><seg type="pāda" n="a">rejatuś ca sutarāṃ mahaujasaḥ</seg> <seg type="pāda" n="b">kauśikasya padavīm anudrutau</seg> </l>
 <l><seg type="pāda" n="c">uttarāṃ prati diśaṃ vivasvataḥ</seg> <seg type="pāda" n="d">prasthitasya madhumādhavāv iva</seg> //</l>
 </lg>
@@ -6292,7 +6292,7 @@
 
 <note>d: (<hi>iṣyatāṃ</hi> C *V)</note>
 
-<lg xml:id="Ragh_11.49*">
+<lg xml:id="Ragh_11.49_asterisk_">
 <l><seg type="pāda" n="a">utsukaś ca sutadārakarmaṇā</seg> <seg type="pāda" n="b">so 'bhavad gurur upāgataś ca tam</seg> </l>
 <l><seg type="pāda" n="c">gautamasya tanayo 'nukūlavāk</seg> <seg type="pāda" n="d">prārthitaṃ hi sukṛtām akālahṛt</seg> //</l>
 </lg>
@@ -6582,7 +6582,7 @@
 
 <note>a: (<hi>śādhi</hi> * V<orig rend="sup">n</orig>)(<hi>sādhayāmy</hi> ct)</note>
 
-<lg xml:id="Ragh_11.91*">
+<lg xml:id="Ragh_11.91_asterisk_">
 <l><seg type="pāda" n="a">svaṃ niveśya kila dhāma rāghave</seg> <seg type="pāda" n="b">vaiṣṇavaṃ viditaviṣṇutejasi</seg> </l>
 <l><seg type="pāda" n="c">svastidānam adhikṛtya cākṣayaṃ</seg> <seg type="pāda" n="d">bhārgavo 'tha nijam āśramaṃ yayau</seg> //</l>
 </lg>
@@ -6732,7 +6732,7 @@
 <l><seg type="pāda" n="c">priyopabhogacihneṣu</seg> <seg type="pāda" n="d">paurobhāgyam ivācaran</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_12.22*">
+<lg xml:id="Ragh_12.22_asterisk_">
 <l><seg type="pāda" n="a">mṛgamāṃsaṃ tataḥ sītāṃ</seg> <seg type="pāda" n="b">rakṣantīm ātape dhṛtam</seg> </l>
 <l><seg type="pāda" n="c">pakṣatuṇḍanakhāghātair</seg> <seg type="pāda" n="d">babādhe vāyaso balāt</seg> //</l>
 </lg>
@@ -10997,17 +10997,15 @@
 <note>a: (<hi>bhāvārthaṃ</hi> J M Ns)(<hi>bhūtyarthaṃ</hi> C V<orig rend="sup">n</orig>)</note>
 <note>b: (<hi>nabho^</hi> ct)</note>
 <note>c: (<hi>haima^</hi> C)</note>
-
-ADDITIONAL VERSES (KṢEPAKA)
-
 </div>
 <div type="sarga" n="1">
-<lg xml:id="Ragh_1.49*">
+	<head>ADDITIONAL VERSES (KṢEPAKA)</head>
+<lg xml:id="Ragh_1.49_asterisk_">
 <l><seg type="pāda" n="a">ākīryamāṇam āsanna</seg><seg type="pāda" n="b">-vidhibhiḥ samidāharaiḥ</seg> </l>
 <l><seg type="pāda" n="c">vaikhānasair adṛśyāgni</seg><seg type="pāda" n="d">-pratyudgamanavṛttibhiḥ</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_1.75*">
+<lg xml:id="Ragh_1.75_asterisk_">
 <l><seg type="pāda" n="a">imāṃ devīm ṛtusnātāṃ</seg> <seg type="pāda" n="b"><hi>smṛtvā</hi> sapadi satvaraḥ</seg> </l>
 <l><seg type="pāda" n="c">pradakṣiṇakriyātītas</seg> <seg type="pāda" n="d">tasyāḥ kopam ajījanaḥ</seg> //</l>
 </lg>
@@ -11015,7 +11013,7 @@ ADDITIONAL VERSES (KṢEPAKA)
 <note>b: (<hi>śrutvā</hi>)</note>
 <note>d: (<hi>tasyāṃ tvaṃ sādhu nācaraḥ</hi>)</note>
 
-<lg xml:id="Ragh_1.82*">
+<lg xml:id="Ragh_1.82_asterisk_">
 <l><seg type="pāda" n="a">tāmralalāṭajāṃ <hi>rekhāṃ</hi></seg> <seg type="pāda" n="b">bibhratī sāsitetarām</seg> </l>
 <l><seg type="pāda" n="c">saṃdhyā prātipadeneva</seg> <seg type="pāda" n="d"><hi>pratibhinnā</hi> himāṃśunā</seg> //</l>
 </lg>
@@ -11025,12 +11023,12 @@ ADDITIONAL VERSES (KṢEPAKA)
 
 </div>
 <div type="sarga" n="5">
-<lg xml:id="Ragh_5.57*">
+<lg xml:id="Ragh_5.57_asterisk_">
 <l><seg type="pāda" n="a">gāndharvam astraṃ tad itaḥ pratīccha</seg> <seg type="pāda" n="b">prayogasaṃhāravibhaktamantram</seg> </l>
 <l><seg type="pāda" n="c">saṃdhyā prātipadeneva</seg> <seg type="pāda" n="d">na cārihiṃsā vijayaḥ svahaste</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_5.67*">
+<lg xml:id="Ragh_5.67_asterisk_">
 <l><seg type="pāda" n="a">nidrāvaśaṃ tvayi gate śaśinā kathaṃcid</seg> <seg type="pāda" n="b">ātmānam ānana<hi>rucā</hi> bhavato vi<hi>yujya</hi></seg> </l>
 <l><seg type="pāda" n="c">lakṣmīr vibhātasamaye <hi>'pi hi</hi> darśanena</seg> <seg type="pāda" n="d">paryutsukā praṇay<hi>inī</hi> niśi khaṇḍiteva</seg> //</l>
 </lg>
@@ -11040,14 +11038,14 @@ ADDITIONAL VERSES (KṢEPAKA)
 <note>c: (<hi>priya^</hi>)</note>
 <note>d: (<hi>anī</hi>)</note>
 
-<lg xml:id="Ragh_5.69*">
+<lg xml:id="Ragh_5.69_asterisk_">
 <l><seg type="pāda" n="a">mandaṃ vivāti himasaṃbhṛtaśītabhāvaḥ</seg> <seg type="pāda" n="b">saṃsṛjyate sarasijair aruṇāṃśubhinnaiḥ</seg> </l>
 <l><seg type="pāda" n="c">saurabhyam <hi>īpsur</hi> iva te mukhamārutasya</seg> <seg type="pāda" n="d">yan no guṇān prati niśāpariṇāmavāyuḥ</seg> //</l>
 </lg>
 
 <note>c: (<hi>āptum</hi>)</note>
 
-<lg xml:id="Ragh_5.75*">
+<lg xml:id="Ragh_5.75_asterisk_">
 <l><seg type="pāda" n="a">iti sa <hi>vihata</hi>nidras talpam alpetar<hi>āṃśaḥ</hi></seg> <seg type="pāda" n="b">suragaja iva gaṅgāsaikataṃ supratīkaḥ</seg> </l>
 <l><seg type="pāda" n="c">parijanavanitānāṃ pādayor vyāpṛtānāṃ</seg> <seg type="pāda" n="d">valayamaṇividiṣṭaṃ pracchadāntaṃ mumoca</seg> //</l>
 </lg>
@@ -11057,7 +11055,7 @@ ADDITIONAL VERSES (KṢEPAKA)
 
 </div>
 <div type="sarga" n="6">
-<lg xml:id="Ragh_6.1*">
+<lg xml:id="Ragh_6.1_asterisk_">
 <l><seg type="pāda" n="a">sa tatra mañceṣu vimānakalpeṣv</seg> <seg type="pāda" n="b">ākalpasaṃmūrchitarūpaśobhān</seg> </l>
 <l><seg type="pāda" n="c">siṃhāsanasthān nṛpatīn <hi>apaśyat</hi></seg> <seg type="pāda" n="d">yūpān praśastān iva haimaved<hi>īn</hi></seg> //</l>
 </lg>
@@ -11065,21 +11063,21 @@ ADDITIONAL VERSES (KṢEPAKA)
 <note>c: (<hi>dadarśa</hi>)</note>
 <note>d: (<hi>īḥ</hi>)</note>
 
-<lg xml:id="Ragh_6.67*">
+<lg xml:id="Ragh_6.67_asterisk_">
 <l><seg type="pāda" n="a">yadā yadā rājakumārikāsau</seg> <seg type="pāda" n="b">na pūrvapūrvaṃ ganayāṃ cakāra</seg> </l>
 <l><seg type="pāda" n="c">tadā tadā nāmitarepharekhām</seg> <seg type="pāda" n="d">āśālatā pallavinī babhūva</seg> //</l>
 </lg>
 
 </div>
 <div type="sarga" n="7">
-<lg xml:id="Ragh_7.38*">
+<lg xml:id="Ragh_7.38_asterisk_">
 <l><seg type="pāda" n="a">lalāṭabaddhabhṛkuṭītaraṅgais</seg> <seg type="pāda" n="b">tanutyajāṃ dantanipīḍitoṣṭhaiḥ</seg> </l>
 <l><seg type="pāda" n="c">ātastare bhallanikṛttakaṇṭhair</seg> <seg type="pāda" n="d">huṃkāragarbhair dviṣatāṃ śirobhiḥ</seg> //</l>
 </lg>
 
 </div>
 <div type="sarga" n="8">
-<lg xml:id="Ragh_8.9*">
+<lg xml:id="Ragh_8.9_asterisk_">
 <l><seg type="pāda" n="a">atha vīkṣya guṇaiḥ pratiṣṭhitaṃ</seg> <seg type="pāda" n="b">prakṛtiṣv ātmajam ābhigamikaiḥ</seg> </l>
 <l><seg type="pāda" n="c">padavīṃ pariṇāma<hi>deśinīṃ</hi></seg> <seg type="pāda" n="d">raghur ādatta vanāntagāminīm</seg> //</l>
 </lg>
@@ -11088,21 +11086,21 @@ ADDITIONAL VERSES (KṢEPAKA)
 
 </div>
 <div type="sarga" n="10">
-<lg xml:id="Ragh_10.19*">
+<lg xml:id="Ragh_10.19_asterisk_">
 <l><seg type="pāda" n="a">namas trimūrtaye tubhyaṃ</seg> <seg type="pāda" n="b">guṇatrayavibhāgāya</seg> </l>
 <l><seg type="pāda" n="c">prāk sṛṣṭe[ḥ] kevalātmane</seg> <seg type="pāda" n="d">paścād bhad[r]am upeyuṣe</seg> //</l>
 </lg>
 
 </div>
 <div type="sarga" n="11">
-<lg xml:id="Ragh_11.43*">
+<lg xml:id="Ragh_11.43_asterisk_">
 <l><seg type="pāda" n="a">te 'pi tūrṇam avagamya śāmbhavam</seg> <seg type="pāda" n="b">āsamāharaṇakarmatatparāḥ</seg> </l>
 <l><seg type="pāda" n="c">svāṃ sakṣiptatikarkaśaṃ hi tac</seg> <seg type="pāda" n="d">cikṣipur daśāarathātmajāgrataḥ</seg> //</l>
 </lg>
 
 </div>
 <div type="sarga" n="13">
-<lg xml:id="Ragh_13.15*">
+<lg xml:id="Ragh_13.15_asterisk_">
 <l><seg type="pāda" n="a">nistriṃśakalpasya nidher jalānām</seg> <seg type="pāda" n="b">eṣā tamāladruma<hi>rāja</hi> nīlā</seg> </l>
 <l><seg type="pāda" n="c">dūrād arālabhru vibhāti velā</seg> <seg type="pāda" n="d">kalaṅka<hi>rekhā</hi> malineva dhārā</seg> //</l>
 </lg>
@@ -11112,19 +11110,19 @@ ADDITIONAL VERSES (KṢEPAKA)
 
 </div>
 <div type="sarga" n="14">
-<lg xml:id="Ragh_14.1*">
+<lg xml:id="Ragh_14.1_asterisk_">
 <l><seg type="pāda" n="a">pratyāgatau tatra cirapravāsād</seg> <seg type="pāda" n="b">apaśyatāṃ dāśarathī jananyau</seg> </l>
 <l><seg type="pāda" n="c">kumudvatī śītamarīcilekhe</seg> <seg type="pāda" n="d">diveva rūpāntaradurvibhāvye</seg> //</l>
 </lg>
 
-<lg xml:id="Ragh_14.69*">
+<lg xml:id="Ragh_14.69_asterisk_">
 <l><seg type="pāda" n="a">keyaṃ vane lakṣmaṇa lakṣmaṇeti</seg> <seg type="pāda" n="b">dīnākṣaraṃ roditi yoṣid uccaiḥ</seg> </l>
 <l><seg type="pāda" n="c">āṃ jñātam eṣā janakātmajeti</seg> <seg type="pāda" n="d">kavir vicintyāntikam ājagāma</seg> //</l>
 </lg>
 
 </div>
 <div type="sarga" n="15">
-<lg xml:id="Ragh_15.71*">
+<lg xml:id="Ragh_15.71_asterisk_">
 <l><seg type="pāda" n="a">tad ākarṇya <hi>muner vākyaṃ</hi></seg> <seg type="pāda" n="b">rāmo rājīvalocanaḥ</seg> </l>
 <l><seg type="pāda" n="c"><hi>samaṃ</hi> harṣaviṣādābhyāṃ</seg> <seg type="pāda" n="d"><hi>yuyuje nītikovidaḥ</hi></seg> //</l>
 </lg>
@@ -11133,7 +11131,7 @@ ADDITIONAL VERSES (KṢEPAKA)
 <note>c: (<hi>saha</hi>)</note>
 <note>d: (<hi>yuktas taṃ prktavān munim</hi>)</note>
 
-<lg xml:id="Ragh_15.94*">
+<lg xml:id="Ragh_15.94_asterisk_">
 <l><seg type="pāda" n="a">gaccha lakṣmaṇa śīghraṃ tvaṃ</seg> <seg type="pāda" n="b">mā bhūd dharmaviparyayaḥ</seg> </l>
 <l><seg type="pāda" n="c"><hi>tyāgo vāpi</hi> vadho vāpi</seg> <seg type="pāda" n="d">sādhūnām ubhayaṃ samam</seg> //</l>
 </lg>
@@ -11142,7 +11140,7 @@ ADDITIONAL VERSES (KṢEPAKA)
 
 </div>
 <div type="sarga" n="18">
-<lg xml:id="Ragh_18.16*">
+<lg xml:id="Ragh_18.16_asterisk_">
 <l><seg type="pāda" n="a">tasmād babhūvātha dalābhidhāno</seg> <seg type="pāda" n="b"><hi>dal</hi>ānvitaḥ padmadal<hi>ābhadṛṣṭiḥ</hi></seg> </l>
 <l><seg type="pāda" n="c">kund<hi>āgra</hi> <hi>danto</hi> <hi>ripudantisiṃhaḥ</hi></seg> <seg type="pāda" n="d">patiḥ pṛthivyāḥ kulakair ivenduḥ</seg> //</l>
 </lg>
@@ -11154,7 +11152,7 @@ ADDITIONAL VERSES (KṢEPAKA)
 <note>c: (^<hi>āvadāto</hi>)</note>
 <note>c: (<hi>^āvadātaiś caritair viśuddhaḥ</hi>)</note>
 
-<lg xml:id="Ragh_18.19*">
+<lg xml:id="Ragh_18.19_asterisk_">
 <l><seg type="pāda" n="a">hitv<hi>ātha bhogāṃs</hi> tapasottamena</seg> <seg type="pāda" n="b">triviṣṭapaṃ prāptavati kṣitīśe</seg> </l>
 <l><seg type="pāda" n="c">tadātmajaḥ sāgaradhīracetāḥ</seg> <seg type="pāda" n="d">śaśāsa pṛthvīṃ sakalāṃ nṛsomaḥ</seg> //</l>
 </lg>
