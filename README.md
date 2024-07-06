@@ -12,6 +12,7 @@
 
     * ```,``` with ```_comma_```;
     * ```*``` with ```_asterisk_```;
+    * ```@``` with ```_at-sign_```;
 
 ### Validation according to TEI specification
 
