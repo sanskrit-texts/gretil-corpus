@@ -8,7 +8,10 @@
 
 * Some ```@xml:id``` were duplicated within the same document.
 
-* For ```@xml:id``` attributes that have to be kept even if they were not valid NCNames, I did the following replacements: ```,``` with ```_comma_```.
+* For ```@xml:id``` attributes that have to be kept even if they were not valid NCNames, I did the following replacements:
+
+    * ```,``` with ```_comma_```;
+    * ```*``` with ```_asterisk_```;    
 
 ### Validation according to TEI specification
 
