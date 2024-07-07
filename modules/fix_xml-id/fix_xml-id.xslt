@@ -73,9 +73,33 @@
                 <xsl:with-param name="with" select="'_forward-slash_'" />
             </xsl:call-template>
         </xsl:variable>
+        <xsl:variable
+            name="attr-value-9">
+            <xsl:call-template name="replace-string">
+                <xsl:with-param name="text" select="$attr-value-8" />
+                <xsl:with-param name="replace" select="'('" />
+                <xsl:with-param name="with" select="'_left-parenthesis_'" />
+            </xsl:call-template>
+        </xsl:variable>
+        <xsl:variable
+            name="attr-value-10">
+            <xsl:call-template name="replace-string">
+                <xsl:with-param name="text" select="$attr-value-9" />
+                <xsl:with-param name="replace" select="')'" />
+                <xsl:with-param name="with" select="'_right-parenthesis_'" />
+            </xsl:call-template>
+        </xsl:variable>
+        <xsl:variable
+            name="attr-value-11">
+            <xsl:call-template name="replace-string">
+                <xsl:with-param name="text" select="$attr-value-10" />
+                <xsl:with-param name="replace" select="' '" />
+                <xsl:with-param name="with" select="''" />
+            </xsl:call-template>
+        </xsl:variable>
 
         <xsl:attribute
-            name="xml:id"><xsl:value-of select="$attr-value-8"></xsl:value-of>
+            name="xml:id"><xsl:value-of select="$attr-value-11"></xsl:value-of>
         </xsl:attribute>
 
     </xsl:template>
