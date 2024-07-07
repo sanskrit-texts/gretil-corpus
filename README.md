@@ -4,15 +4,21 @@
 
 ### Validation according to XML specification
 
-* Some ```xml:id``` atributes had invalid values (e.g., ```"**HV_App.I,2.7**1:1"```) in files ```sa_harivaMza-app1.xml```, ```sa_brahmapurANa-1-246.xml```, which were invalid according to the XML specification for NCNames. I did renamed those attributes as ```{http://www.tei-c.org/ns/1.0}n```.
+* Fixed some duplicated ```@xml:id``` within the same document.
 
-* Some ```@xml:id``` were duplicated within the same document.
-
-* For ```@xml:id``` attributes that have to be kept even if they were not valid NCNames, I did the following replacements:
+* For the ```@xml:id``` attributes that were invalid NCNames, I did the following replacements:
 
     * ```,``` with ```_comma_```;
     * ```*``` with ```_asterisk_```;
     * ```@``` with ```_at-sign_```;
+    * ```:``` with ```_colon_```;
+    * ```[``` with ```_left-square-bracket_```;
+    * ```]``` with ```_right-square-bracket_```;
+    * ```|``` with ```_pipeline_```;
+    * ```/``` with ```_forward-slash_```;
+    * ```(``` with ```_left-parenthesis_```;
+    * ```)``` with ```_right-parenthesis_```;
+    * space with nothing.
 
 ### Validation according to TEI specification
 
