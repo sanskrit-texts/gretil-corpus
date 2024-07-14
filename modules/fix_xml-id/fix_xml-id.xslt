@@ -128,3 +128,7 @@
 
 
 </xsl:stylesheet>
+
+<!--
+xsltproc ./modules/fix_xml-id/fix_xml-id.xslt ./1_sanskr/sa_vidyAkara-subhASitaratnakoza.xml > output.xml
+-->
