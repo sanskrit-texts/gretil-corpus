@@ -11845,7 +11845,7 @@ ha da hsauṃ | kṣa pha aiṃ ||</p>
 <l><seg type="pāda" n="a">stambhanī ghorarakṣā ca</seg> <seg type="pāda" n="b">ghorarūpā ca ghoriṇī</seg> </l>
 <l><seg type="pāda" n="c">ghoraghoratarāghorā</seg> <seg type="pāda" n="d">ghorā vikaṭanāyikā</seg> //</l>
 </lg>
-(em.; ghorā ghoratarāghorā 'tighorā vikaṭanāyikā Ed.)
+<note corresp="#KubjT_21.68">(em.; ghorā ghoratarāghorā 'tighorā vikaṭanāyikā Ed.)</note>
 
 <lg xml:id="KubjT_21.69">
 <l><seg type="pāda" n="a">vānarī kroṣṭakī caiva</seg> <seg type="pāda" n="b">surāsavamadhupriyā</seg> </l>
@@ -14251,7 +14251,7 @@ sphaḥ stobhe hrūṃ mohe hlauṃ stambhe hlūṃ ||</p>
 <l><seg type="pāda" n="c">prāpnoti cintitān kāmān</seg> <seg type="pāda" n="d">strīṇāṃ bhavati vallabhaḥ</seg> //</l>
 </lg>
 
-<trailer>iti śivaśaktisamarasamahāmāyāstavaḥ samāptaḥ</trailer>
+<p>iti śivaśaktisamarasamahāmāyāstavaḥ samāptaḥ</p>
 
 <milestone unit="speaker" n="śrīkubjikā uvāca"/>
 
