@@ -823,27 +823,25 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.322.5">
-<l xml:id="MBh_12.322.5-1" n="MBh_12.322.5/1">tat pārameṣṭhyasya vaco niśamya</l>
-<l xml:id="MBh_12.322.5-2" n="MBh_12.322.5/2">nārāyaṇaḥ sātvatadharmagoptā</l>
+	<l xml:id="MBh_12.322.5-1" n="MBh_12.322.5/1">tat pārameṣṭhyasya vaco niśamya</l>
+	<l xml:id="MBh_12.322.5-2" n="MBh_12.322.5/2">nārāyaṇaḥ sātvatadharmagoptā</l>
+	<note type="analysis" corresp="#MBh_12.322.5-1 #MBh_12.322.5-2">
+		<lg>
+			<l>tat pārameṣṭhyasya vaco niśamya</l>
+			<l>nārāyaṇaḥ sātvata-dharma-goptā</l>
+		</lg>
+	</note>
+	<note>M5 ins.:: tasmād anujñāṃ mama dehi deva !</note>
+	<note>taṃ vai dṛṣṭvā kṛta-kṛtyo bhavāmi !12322.25801!</note>
+	<l xml:id="MBh_12.322.5-3" n="MBh_12.322.5/3">gaccheti taṃ nāradam uktavān sa</l>
+	<l xml:id="MBh_12.322.5-4" n="MBh_12.322.5/4">saṃpūjayitvātmavidhikriyābhiḥ</l>
+	<note type="analysis" corresp="#MBh_12.322.5-3 #MBh_12.322.5-4">
+		<lg>
+			<l>gaccha iti taṃ nāradam uktavān sa</l>
+			<l>saṃpūjayitvā ātma-vidhi-kriyābhiḥ</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.322.5">
-<lg>
-<l>tat pārameṣṭhyasya vaco niśamya</l>
-<l>nārāyaṇaḥ sātvata-dharma-goptā</l>
-</lg>
-</note>
-<note>M5 ins.:: tasmād anujñāṃ mama dehi deva !</note>
-<note>taṃ vai dṛṣṭvā kṛta-kṛtyo bhavāmi !12322.25801!</note>
-<lg xml:id="MBh_12.322.5">
-<l xml:id="MBh_12.322.5-3" n="MBh_12.322.5/3">gaccheti taṃ nāradam uktavān sa</l>
-<l xml:id="MBh_12.322.5-4" n="MBh_12.322.5/4">saṃpūjayitvātmavidhikriyābhiḥ</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.322.5">
-<lg>
-<l>gaccha iti taṃ nāradam uktavān sa</l>
-<l>saṃpūjayitvā ātma-vidhi-kriyābhiḥ</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.322.6">
 <l xml:id="MBh_12.322.6-1" n="MBh_12.322.6/1">tato visṛṣṭaḥ parameṣṭhiputraḥ</l>
 <l xml:id="MBh_12.322.6-2" n="MBh_12.322.6/2">so 'bhyarcayitvā tam ṛṣiṃ purāṇam</l>
@@ -1106,24 +1104,37 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.322.29">
-<l xml:id="MBh_12.322.29-1" n="MBh_12.322.29/1"><seg type="pāda" n="a">ekāgramanaso dāntā</seg> <seg type="pāda" n="b">munayaḥ saṃyame ratāḥ</seg> </l>
+	<l xml:id="MBh_12.322.29-1" n="MBh_12.322.29/1">
+		<seg type="pāda" n="a">ekāgramanaso dāntā</seg>
+		<seg type="pāda" n="b">munayaḥ saṃyame ratāḥ</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.322.29-1">
+		<lg>
+			<l>
+				<seg type="pāda">eka-agra-manaso dāntā</seg>
+				<seg type="pāda">munayaḥ saṃyame ratāḥ</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K6 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2.3.5.8 editions ins.:: bhūta-bhavya-bhaviṣya-jñāḥ
+		!satya-dharma-parā1yaṇāḥ !12322.28805!</note>
+	<l xml:id="MBh_12.322.29-2" n="MBh_12.322.29/2">
+		<seg type="pāda" n="c">idaṃ śreya idaṃ brahma</seg>
+		<seg type="pāda" n="d">idaṃ hitam anuttamam</seg>
+	</l>
+	<l xml:id="MBh_12.322.29-3" n="MBh_12.322.29/3"><seg type="pāda" n="e">lokān saṃcintya
+			manasā</seg> <seg type="pāda" n="f">tataḥ śāstraṃ pracakrire</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.322.29-2 #MBh_12.322.29-3">
+		<lg>
+			<l>
+				<seg type="pāda">idaṃ śreya idaṃ brahma</seg>
+				<seg type="pāda">idaṃ hitam an-uttamam</seg>
+			</l>
+			<l><seg type="pāda">lokān saṃcintya manasā</seg> <seg type="pāda">tataḥ śāstraṃ
+				pracakrire</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.322.29">
-<lg>
-<l><seg type="pāda">eka-agra-manaso dāntā</seg> <seg type="pāda">munayaḥ saṃyame ratāḥ</seg> </l>
-</lg>
-</note>
-<note>K6 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2.3.5.8 editions ins.:: bhūta-bhavya-bhaviṣya-jñāḥ !satya-dharma-parā1yaṇāḥ !12322.28805!</note>
-<lg xml:id="MBh_12.322.29">
-<l xml:id="MBh_12.322.29-2" n="MBh_12.322.29/2"><seg type="pāda" n="c">idaṃ śreya idaṃ brahma</seg> <seg type="pāda" n="d">idaṃ hitam anuttamam</seg> </l>
-<l xml:id="MBh_12.322.29-3" n="MBh_12.322.29/3"><seg type="pāda" n="e">lokān saṃcintya manasā</seg> <seg type="pāda" n="f">tataḥ śāstraṃ pracakrire</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.322.29">
-<lg>
-<l><seg type="pāda">idaṃ śreya idaṃ brahma</seg> <seg type="pāda">idaṃ hitam an-uttamam</seg> </l>
-<l><seg type="pāda">lokān saṃcintya manasā</seg> <seg type="pāda">tataḥ śāstraṃ pracakrire</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.322.30">
 <l xml:id="MBh_12.322.30-1" n="MBh_12.322.30/1"><seg type="pāda" n="a">tatra dharmārthakāmā hi</seg> <seg type="pāda" n="b">mokṣaḥ paścāc ca kīrtitaḥ</seg> </l>
 <l xml:id="MBh_12.322.30-2" n="MBh_12.322.30/2"><seg type="pāda" n="c">maryādā vividhāś caiva</seg> <seg type="pāda" n="d">divi bhūmau ca saṃsthitāḥ</seg> //</l>
@@ -1532,22 +1543,28 @@
 <note>uvāca ṛtv-ijaś cai7va !kiṃ naḥ karme7ti vārayan !</note>
 <note>athai7kato dvitaś cai7va !tritaś cai7va mahar2ṣayaḥ !12323.16806!</note>
 <lg xml:id="MBh_12.323.17">
-<l xml:id="MBh_12.323.17-1" n="MBh_12.323.17/1"><seg type="pāda" n="a">ūcuś cainam asaṃbhrāntā</seg> <seg type="pāda" n="b">na roṣaṃ kartum arhasi</seg> </l>
+	<l xml:id="MBh_12.323.17-1" n="MBh_12.323.17/1">
+		<seg type="pāda" n="a">ūcuś cainam asaṃbhrāntā</seg>
+		<seg type="pāda" n="b">na roṣaṃ kartum arhasi</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.323.17-1">
+		<lg>
+			<l>
+				<seg type="pāda">ūcuś ca enam a-saṃbhrāntā</seg>
+				<seg type="pāda">na roṣaṃ kartum arhasi</seg>
+			</l>
+		</lg>
+	</note>
+	<note>T G1.3.6 Kumbh..ed. ins.:: śṛṇu tvaṃ vacanaṃ putra !asmābhiḥ samudāhṛtam !12323.17807!</note>
+	<l xml:id="MBh_12.323.17-2" n="MBh_12.323.17/2"><seg type="pāda" n="c">naiṣa dharmaḥ
+			kṛtayuge</seg> <seg type="pāda" n="d">yas tvaṃ roṣam acīkṛthāḥ</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.323.17-2">
+		<lg>
+			<l><seg type="pāda">na eṣa dharmaḥ kṛta-yuge</seg> <seg type="pāda">yas tvaṃ roṣam
+				acīkṛthāḥ</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.323.17">
-<lg>
-<l><seg type="pāda">ūcuś ca enam a-saṃbhrāntā</seg> <seg type="pāda">na roṣaṃ kartum arhasi</seg> </l>
-</lg>
-</note>
-<note>T G1.3.6 Kumbh..ed. ins.:: śṛṇu tvaṃ vacanaṃ putra !asmābhiḥ samudāhṛtam !12323.17807!</note>
-<lg xml:id="MBh_12.323.17">
-<l xml:id="MBh_12.323.17-2" n="MBh_12.323.17/2"><seg type="pāda" n="c">naiṣa dharmaḥ kṛtayuge</seg> <seg type="pāda" n="d">yas tvaṃ roṣam acīkṛthāḥ</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.323.17">
-<lg>
-<l><seg type="pāda">na eṣa dharmaḥ kṛta-yuge</seg> <seg type="pāda">yas tvaṃ roṣam acīkṛthāḥ</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.323.18">
 <l xml:id="MBh_12.323.18-1" n="MBh_12.323.18/1"><seg type="pāda" n="a">aroṣaṇo hy asau devo</seg> <seg type="pāda" n="b">yasya bhāgo 'yam udyataḥ</seg> </l>
 <l xml:id="MBh_12.323.18-2" n="MBh_12.323.18/2"><seg type="pāda" n="c">na sa śakyas tvayā draṣṭum</seg> <seg type="pāda" n="d">asmābhir vā bṛhaspate</seg> </l>
@@ -1595,22 +1612,29 @@
 </note>
 <note>K6 B6-9 Da3..a4 Ds D5 ins. after 21, Dn1.ṇ4 D2.3.8 after the first occurrence of 21ef:: vareṇyaṃ vara-daṃ taṃ vai !deva-devaṃ sanātanam !12323.21809!</note>
 <lg xml:id="MBh_12.323.22">
-<l xml:id="MBh_12.323.22-1" n="MBh_12.323.22/1"><seg type="pāda" n="a">tato vratasyāvabhṛthe</seg> <seg type="pāda" n="b">vāg uvācā-śarīriṇī</seg> </l>
+	<l xml:id="MBh_12.323.22-1" n="MBh_12.323.22/1">
+		<seg type="pāda" n="a">tato vratasyāvabhṛthe</seg>
+		<seg type="pāda" n="b">vāg uvācā-śarīriṇī</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.323.22-1">
+		<lg>
+			<l>
+				<seg type="pāda">tato vratasya avabhṛthe</seg>
+				<seg type="pāda">vāg uvāca a-śarīriṇī</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K6 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2.3.5.8 editions ins.:: snigdha-gambhīrayā vācā
+		!praharṣaṇa-karī vibho !12323.22810!</note>
+	<l xml:id="MBh_12.323.22-2" n="MBh_12.323.22/2"><seg type="pāda" n="c">sutaptaṃ vas tapo
+		viprāḥ</seg> <seg type="pāda" n="d">prasannenāntarātmanā</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.323.22-2">
+		<lg>
+			<l><seg type="pāda">su-taptaṃ vas tapo viprāḥ</seg> <seg type="pāda">prasannena
+				antar-ātmanā</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.323.22">
-<lg>
-<l><seg type="pāda">tato vratasya avabhṛthe</seg> <seg type="pāda">vāg uvāca a-śarīriṇī</seg> </l>
-</lg>
-</note>
-<note>K6 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2.3.5.8 editions ins.:: snigdha-gambhīrayā vācā !praharṣaṇa-karī vibho !12323.22810!</note>
-<lg xml:id="MBh_12.323.22">
-<l xml:id="MBh_12.323.22-2" n="MBh_12.323.22/2"><seg type="pāda" n="c">sutaptaṃ vas tapo viprāḥ</seg> <seg type="pāda" n="d">prasannenāntarātmanā</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.323.22">
-<lg>
-<l><seg type="pāda">su-taptaṃ vas tapo viprāḥ</seg> <seg type="pāda">prasannena antar-ātmanā</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.323.23">
 <l xml:id="MBh_12.323.23-1" n="MBh_12.323.23/1"><seg type="pāda" n="a">yūyaṃ jijñāsavo bhaktāḥ</seg> <seg type="pāda" n="b">kathaṃ drakṣyatha taṃ prabhum</seg> </l>
 <l xml:id="MBh_12.323.23-2" n="MBh_12.323.23/2"><seg type="pāda" n="c">kṣīrodadher uttarataḥ</seg> <seg type="pāda" n="d">śvetadvīpo mahāprabhaḥ</seg> //</l>
@@ -1662,22 +1686,30 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.323.28">
-<l xml:id="MBh_12.323.28-1" n="MBh_12.323.28/1"><seg type="pāda" n="a">prāpya śvetaṃ mahādvīpaṃ</seg> <seg type="pāda" n="b">taccittās taddidṛkṣavaḥ</seg> </l>
+	<l xml:id="MBh_12.323.28-1" n="MBh_12.323.28/1">
+		<seg type="pāda" n="a">prāpya śvetaṃ mahādvīpaṃ</seg>
+		<seg type="pāda" n="b">taccittās taddidṛkṣavaḥ</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.323.28-1">
+		<lg>
+			<l>
+				<seg type="pāda">prāpya śvetaṃ mahā-dvīpaṃ</seg>
+				<seg type="pāda">tac-cittās tad-didṛkṣavaḥ</seg>
+			</l>
+		</lg>
+	</note>
+	<note>T G1.3.6 M1.5-7 Kumbh..ed. ins. after 28ab, G2 after 27a:: sahasā9bhihatāḥ sarve
+		!tejasā
+		tasya mohitāḥ !12323.28811!</note>
+	<l xml:id="MBh_12.323.28-2" n="MBh_12.323.28/2"><seg type="pāda" n="c">tato no dṛṣṭiviṣayas</seg> <seg
+			type="pāda" n="d">tadā pratihato 'bhavat</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.323.28-2">
+		<lg>
+			<l><seg type="pāda">tato no dṛṣṭi-viṣayas</seg> <seg type="pāda">tadā pratihato
+				'bhavat</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.323.28">
-<lg>
-<l><seg type="pāda">prāpya śvetaṃ mahā-dvīpaṃ</seg> <seg type="pāda">tac-cittās tad-didṛkṣavaḥ</seg> </l>
-</lg>
-</note>
-<note>T G1.3.6 M1.5-7 Kumbh..ed. ins. after 28ab, G2 after 27a:: sahasā9bhihatāḥ sarve !tejasā tasya mohitāḥ !12323.28811!</note>
-<lg xml:id="MBh_12.323.28">
-<l xml:id="MBh_12.323.28-2" n="MBh_12.323.28/2"><seg type="pāda" n="c">tato no dṛṣṭiviṣayas</seg> <seg type="pāda" n="d">tadā pratihato 'bhavat</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.323.28">
-<lg>
-<l><seg type="pāda">tato no dṛṣṭi-viṣayas</seg> <seg type="pāda">tadā pratihato 'bhavat</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.323.29">
 <l xml:id="MBh_12.323.29-1" n="MBh_12.323.29/1"><seg type="pāda" n="a">na ca paśyāma puruṣaṃ</seg> <seg type="pāda" n="b">tattejohṛtadarśanāḥ</seg> </l>
 <l xml:id="MBh_12.323.29-2" n="MBh_12.323.29/2"><seg type="pāda" n="c">tato naḥ prādur abhavad</seg> <seg type="pāda" n="d">vijñānaṃ devayogajam</seg> //</l>
@@ -1781,22 +1813,29 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.323.39">
-<l xml:id="MBh_12.323.39-1" n="MBh_12.323.39/1"><seg type="pāda" n="a">ekas tu śabdo 'virataḥ</seg> <seg type="pāda" n="b">śruto 'smābhir udīritaḥ</seg> </l>
+	<l xml:id="MBh_12.323.39-1" n="MBh_12.323.39/1">
+		<seg type="pāda" n="a">ekas tu śabdo 'virataḥ</seg>
+		<seg type="pāda" n="b">śruto 'smābhir udīritaḥ</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.323.39-1">
+		<lg>
+			<l>
+				<seg type="pāda">ekas tu śabdo '-virataḥ</seg>
+				<seg type="pāda">śruto 'smābhir udīritaḥ</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K7 D4.9 T G1-3.6 Kumbh..ed. ins.:: ākāśaṃ pūrayan sarvaṃ !śikṣā2-kṣara-samanvitaḥ
+		!12323.39812!</note>
+	<l xml:id="MBh_12.323.39-2" n="MBh_12.323.39/2"><seg type="pāda" n="c">jitaṃ te puṇḍarīkākṣa</seg> <seg
+			type="pāda" n="d">namas te viśvabhāvana</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.323.39-2">
+		<lg>
+			<l><seg type="pāda">jitaṃ te puṇḍarīka-akṣa</seg> <seg type="pāda">namas te
+				viśva-bhāvana</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.323.39">
-<lg>
-<l><seg type="pāda">ekas tu śabdo '-virataḥ</seg> <seg type="pāda">śruto 'smābhir udīritaḥ</seg> </l>
-</lg>
-</note>
-<note>K7 D4.9 T G1-3.6 Kumbh..ed. ins.:: ākāśaṃ pūrayan sarvaṃ !śikṣā2-kṣara-samanvitaḥ !12323.39812!</note>
-<lg xml:id="MBh_12.323.39">
-<l xml:id="MBh_12.323.39-2" n="MBh_12.323.39/2"><seg type="pāda" n="c">jitaṃ te puṇḍarīkākṣa</seg> <seg type="pāda" n="d">namas te viśvabhāvana</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.323.39">
-<lg>
-<l><seg type="pāda">jitaṃ te puṇḍarīka-akṣa</seg> <seg type="pāda">namas te viśva-bhāvana</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.323.40">
 <l xml:id="MBh_12.323.40-1" n="MBh_12.323.40/1"><seg type="pāda" n="a">namas te 'stu hṛṣīkeśa</seg> <seg type="pāda" n="b">mahāpuruṣapūrvaja</seg> </l>
 <l xml:id="MBh_12.323.40-2" n="MBh_12.323.40/2"><seg type="pāda" n="c">iti śabdaḥ śruto 'smābhiḥ</seg> <seg type="pāda" n="d">śikṣā-kṣarasamīritaḥ</seg> //</l>
@@ -1818,24 +1857,37 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.323.42">
-<l xml:id="MBh_12.323.42-1" n="MBh_12.323.42/1"><seg type="pāda" n="a">tair iṣṭaḥ_2 pañcakālajñair</seg> <seg type="pāda" n="b">harir ekāntibhir naraiḥ</seg> </l>
-<l xml:id="MBh_12.323.42-2" n="MBh_12.323.42/2"><seg type="pāda" n="c">nūnaṃ tatrāgato devo</seg> <seg type="pāda" n="d">yathā tair vāg udīritā</seg> </l>
+	<l xml:id="MBh_12.323.42-1" n="MBh_12.323.42/1">
+		<seg type="pāda" n="a">tair iṣṭaḥ_2 pañcakālajñair</seg>
+		<seg type="pāda" n="b">harir ekāntibhir naraiḥ</seg>
+	</l>
+	<l xml:id="MBh_12.323.42-2" n="MBh_12.323.42/2">
+		<seg type="pāda" n="c">nūnaṃ tatrāgato devo</seg>
+		<seg type="pāda" n="d">yathā tair vāg udīritā</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.323.42-1 #MBh_12.323.42-2">
+		<lg>
+			<l>
+				<seg type="pāda">tair iṣṭaḥ_2 pañca-kāla-jñair</seg>
+				<seg type="pāda">harir eka-antibhir naraiḥ</seg>
+			</l>
+			<l>
+				<seg type="pāda">nūnaṃ tatrā agato devo</seg>
+				<seg type="pāda">yathā tair vāg udīritā</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K6 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2.3.5.8 editions ins.:: bhaktyā paramayā yuktair
+		!mano-vāk-karmabhis tadā !12323.42813!</note>
+	<l xml:id="MBh_12.323.42-3" n="MBh_12.323.42/3"><seg type="pāda" n="e">vayaṃ tv enaṃ na
+		paśyāmo</seg> <seg type="pāda" n="f">mohitās tasya māyayā</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.323.42-3">
+		<lg>
+			<l><seg type="pāda">vayaṃ tv enaṃ na paśyāmo</seg> <seg type="pāda">mohitās tasya
+				māyayā</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.323.42">
-<lg>
-<l><seg type="pāda">tair iṣṭaḥ_2 pañca-kāla-jñair</seg> <seg type="pāda">harir eka-antibhir naraiḥ</seg> </l>
-<l><seg type="pāda">nūnaṃ tatrā agato devo</seg> <seg type="pāda">yathā tair vāg udīritā</seg> </l>
-</lg>
-</note>
-<note>K6 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2.3.5.8 editions ins.:: bhaktyā paramayā yuktair !mano-vāk-karmabhis tadā !12323.42813!</note>
-<lg xml:id="MBh_12.323.42">
-<l xml:id="MBh_12.323.42-3" n="MBh_12.323.42/3"><seg type="pāda" n="e">vayaṃ tv enaṃ na paśyāmo</seg> <seg type="pāda" n="f">mohitās tasya māyayā</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.323.42">
-<lg>
-<l><seg type="pāda">vayaṃ tv enaṃ na paśyāmo</seg> <seg type="pāda">mohitās tasya māyayā</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.323.43">
 <l xml:id="MBh_12.323.43-1" n="MBh_12.323.43/1"><seg type="pāda" n="a">mārute saṃnivṛtte ca</seg> <seg type="pāda" n="b">balau ca pratipādite</seg> </l>
 <l xml:id="MBh_12.323.43-2" n="MBh_12.323.43/2"><seg type="pāda" n="c">cintāvyākulitātmāno</seg> <seg type="pāda" n="d">jātāḥ smo 'ṅgirasāṃ vara</seg> //</l>
@@ -2226,22 +2278,29 @@
 </note>
 <note>T G1-3.6 Kumbh..ed. ins.:: viruddhaṃ veda-śāstrāṇāṃ !na vaktavyaṃ hitā1rthinā !12324.21819!</note>
 <lg xml:id="MBh_12.324.22">
-<l xml:id="MBh_12.324.22-1" n="MBh_12.324.22/1"><seg type="pāda" n="a">yatas tvaṃ sahasā bhraṣṭa</seg> <seg type="pāda" n="b">ākāśān medinītalam</seg> </l>
+	<l xml:id="MBh_12.324.22-1" n="MBh_12.324.22/1">
+		<seg type="pāda" n="a">yatas tvaṃ sahasā bhraṣṭa</seg>
+		<seg type="pāda" n="b">ākāśān medinītalam</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.324.22-1">
+		<lg>
+			<l>
+				<seg type="pāda">yatas tvaṃ sahasā bhraṣṭa</seg>
+				<seg type="pāda">ākāśān medinī-talam</seg>
+			</l>
+		</lg>
+	</note>
+	<note>T G1-3.6 ins., Kumbh..ed. cont. after 819:: asmat-pakṣa-nimittaṃ te !vyasanaṃ prāptam
+		ī-dṛśam !12324.22820!</note>
+	<l xml:id="MBh_12.324.22-2" n="MBh_12.324.22/2"><seg type="pāda" n="c">ekaṃ tv anugrahaṃ
+		tubhyaṃ</seg> <seg type="pāda" n="d">dadmo vai nṛpa_2-sattama</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.324.22-2">
+		<lg>
+			<l><seg type="pāda">ekaṃ tv anugrahaṃ tubhyaṃ</seg> <seg type="pāda">dadmo vai
+				nṛ-pa_2-sattama</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.324.22">
-<lg>
-<l><seg type="pāda">yatas tvaṃ sahasā bhraṣṭa</seg> <seg type="pāda">ākāśān medinī-talam</seg> </l>
-</lg>
-</note>
-<note>T G1-3.6 ins., Kumbh..ed. cont. after 819:: asmat-pakṣa-nimittaṃ te !vyasanaṃ prāptam ī-dṛśam !12324.22820!</note>
-<lg xml:id="MBh_12.324.22">
-<l xml:id="MBh_12.324.22-2" n="MBh_12.324.22/2"><seg type="pāda" n="c">ekaṃ tv anugrahaṃ tubhyaṃ</seg> <seg type="pāda" n="d">dadmo vai nṛpa_2-sattama</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.324.22">
-<lg>
-<l><seg type="pāda">ekaṃ tv anugrahaṃ tubhyaṃ</seg> <seg type="pāda">dadmo vai nṛ-pa_2-sattama</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.324.23">
 <l xml:id="MBh_12.324.23-1" n="MBh_12.324.23/1"><seg type="pāda" n="a">yāvat tvaṃ śāpadoṣeṇa</seg> <seg type="pāda" n="b">kālam āsiṣyase 'nagha</seg> </l>
 <l xml:id="MBh_12.324.23-2" n="MBh_12.324.23/2"><seg type="pāda" n="c">bhūmer vivarago_1 bhūtvā</seg> <seg type="pāda" n="d">tāvantaṃ kālam āpsyasi</seg> </l>
@@ -2265,42 +2324,54 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.324.25">
-<l xml:id="MBh_12.324.25-1" n="MBh_12.324.25/1"><seg type="pāda" n="a">vasordhārānupītatvāt</seg> <seg type="pāda" n="b">tejasāpyāyitena ca</seg> </l>
+	<l xml:id="MBh_12.324.25-1" n="MBh_12.324.25/1">
+		<seg type="pāda" n="a">vasordhārānupītatvāt</seg>
+		<seg type="pāda" n="b">tejasāpyāyitena ca</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.324.25-1">
+		<lg>
+			<l>
+				<seg type="pāda">vasor-dhārā-anupītatvāt</seg>
+				<seg type="pāda">tejasā āpyāyitena ca</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K7 D4.9 ins.:: taṃ bhakto 'si mahā4tmānaṃ !deva-devaṃ sanātanam !12324.25821!</note>
+	<l xml:id="MBh_12.324.25-2" n="MBh_12.324.25/2"><seg type="pāda" n="c">sa devo 'smadvarāt
+		prīto</seg> <seg type="pāda" n="d">brahmalokaṃ hi neṣyati</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.324.25-2">
+		<lg>
+			<l><seg type="pāda">sa devo 'smad-varāt prīto</seg> <seg type="pāda">brahma-lokaṃ hi
+				neṣyati</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.324.25">
-<lg>
-<l><seg type="pāda">vasor-dhārā-anupītatvāt</seg> <seg type="pāda">tejasā āpyāyitena ca</seg> </l>
-</lg>
-</note>
-<note>K7 D4.9 ins.:: taṃ bhakto 'si mahā4tmānaṃ !deva-devaṃ sanātanam !12324.25821!</note>
-<lg xml:id="MBh_12.324.25">
-<l xml:id="MBh_12.324.25-2" n="MBh_12.324.25/2"><seg type="pāda" n="c">sa devo 'smadvarāt prīto</seg> <seg type="pāda" n="d">brahmalokaṃ hi neṣyati</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.324.25">
-<lg>
-<l><seg type="pāda">sa devo 'smad-varāt prīto</seg> <seg type="pāda">brahma-lokaṃ hi neṣyati</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.324.26">
-<l xml:id="MBh_12.324.26-1" n="MBh_12.324.26/1"><seg type="pāda" n="a">evaṃ dattvā varaṃ rājñe</seg> <seg type="pāda" n="b">sarve tatra divaukasaḥ</seg> </l>
+	<l xml:id="MBh_12.324.26-1" n="MBh_12.324.26/1">
+		<seg type="pāda" n="a">evaṃ dattvā varaṃ rājñe</seg>
+		<seg type="pāda" n="b">sarve tatra divaukasaḥ</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.324.26-1">
+		<lg>
+			<l>
+				<seg type="pāda">evaṃ dattvā varaṃ rājñe</seg>
+				<seg type="pāda">sarve tatra diva-okasaḥ</seg>
+			</l>
+		</lg>
+	</note>
+	<note>T G1-3.6 Kumbh..ed. ins.:: kratuṃ samāpya piṣṭena !munīnāṃ vacanāt tadā !12324.26822!</note>
+	<l xml:id="MBh_12.324.26-2" n="MBh_12.324.26/2"><seg type="pāda" n="c">gatāḥ svabhavanaṃ
+			devā</seg> <seg type="pāda" n="d">ṛṣayaś ca tapodhanāḥ</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.324.26-2">
+		<lg>
+			<l><seg type="pāda">gatāḥ sva-bhavanaṃ devā</seg> <seg type="pāda">ṛṣayaś ca
+				tapo-dhanāḥ</seg> //</l>
+		</lg>
+	</note>
+	<note>T G1-3.6 Kumbh..ed. ins.:: gṛhītvā dakṣiṇāṃ sarve !gatāḥ svān āśramān punaḥ !</note>
+	<note>vasuṃ vicintya śakraś ca !praviveśā7-marāvatīm !</note>
+	<note>vasur vivara-gas tatra !vyalīkasya phalād guroḥ !12324.26823!</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.324.26">
-<lg>
-<l><seg type="pāda">evaṃ dattvā varaṃ rājñe</seg> <seg type="pāda">sarve tatra diva-okasaḥ</seg> </l>
-</lg>
-</note>
-<note>T G1-3.6 Kumbh..ed. ins.:: kratuṃ samāpya piṣṭena !munīnāṃ vacanāt tadā !12324.26822!</note>
-<lg xml:id="MBh_12.324.26">
-<l xml:id="MBh_12.324.26-2" n="MBh_12.324.26/2"><seg type="pāda" n="c">gatāḥ svabhavanaṃ devā</seg> <seg type="pāda" n="d">ṛṣayaś ca tapodhanāḥ</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.324.26">
-<lg>
-<l><seg type="pāda">gatāḥ sva-bhavanaṃ devā</seg> <seg type="pāda">ṛṣayaś ca tapo-dhanāḥ</seg> //</l>
-</lg>
-</note>
-<note>T G1-3.6 Kumbh..ed. ins.:: gṛhītvā dakṣiṇāṃ sarve !gatāḥ svān āśramān punaḥ !</note>
-<note>vasuṃ vicintya śakraś ca !praviveśā7-marāvatīm !</note>
-<note>vasur vivara-gas tatra !vyalīkasya phalād guroḥ !12324.26823!</note>
 <lg xml:id="MBh_12.324.27">
 <l xml:id="MBh_12.324.27-1" n="MBh_12.324.27/1"><seg type="pāda" n="a">cakre ca satataṃ pūjāṃ</seg> <seg type="pāda" n="b">viṣvaksenāya bhārata</seg> </l>
 <l xml:id="MBh_12.324.27-2" n="MBh_12.324.27/2"><seg type="pāda" n="c">japyaṃ jagau ca satataṃ</seg> <seg type="pāda" n="d">nārāyaṇamukhodgatam</seg> //</l>
@@ -2382,22 +2453,28 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.324.35">
-<l xml:id="MBh_12.324.35-1" n="MBh_12.324.35/1"><seg type="pāda" n="a">tata enaṃ samutkṣipya</seg> <seg type="pāda" n="b">sahasā vinatāsutaḥ</seg> </l>
+	<l xml:id="MBh_12.324.35-1" n="MBh_12.324.35/1">
+		<seg type="pāda" n="a">tata enaṃ samutkṣipya</seg>
+		<seg type="pāda" n="b">sahasā vinatāsutaḥ</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.324.35-1">
+		<lg>
+			<l>
+				<seg type="pāda">tata enaṃ samutkṣipya</seg>
+				<seg type="pāda">sahasā vinatā-sutaḥ</seg>
+			</l>
+		</lg>
+	</note>
+	<note>G1 ins.:: gṛhītvā taṃ vasuṃ bhaktaṃ !sahasā vasu-dhā-talāt !12324.35824!</note>
+	<l xml:id="MBh_12.324.35-2" n="MBh_12.324.35/2"><seg type="pāda" n="c">utpapāta nabhas
+			tūrṇaṃ</seg> <seg type="pāda" n="d">tatra cainam amuñcata</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.324.35-2">
+		<lg>
+			<l><seg type="pāda">utpapāta nabhas tūrṇaṃ</seg> <seg type="pāda">tatra ca enam
+				amuñcata</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.324.35">
-<lg>
-<l><seg type="pāda">tata enaṃ samutkṣipya</seg> <seg type="pāda">sahasā vinatā-sutaḥ</seg> </l>
-</lg>
-</note>
-<note>G1 ins.:: gṛhītvā taṃ vasuṃ bhaktaṃ !sahasā vasu-dhā-talāt !12324.35824!</note>
-<lg xml:id="MBh_12.324.35">
-<l xml:id="MBh_12.324.35-2" n="MBh_12.324.35/2"><seg type="pāda" n="c">utpapāta nabhas tūrṇaṃ</seg> <seg type="pāda" n="d">tatra cainam amuñcata</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.324.35">
-<lg>
-<l><seg type="pāda">utpapāta nabhas tūrṇaṃ</seg> <seg type="pāda">tatra ca enam amuñcata</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.324.36">
 <l xml:id="MBh_12.324.36-1" n="MBh_12.324.36/1"><seg type="pāda" n="a">tasmin muhūrte saṃjajñe</seg> <seg type="pāda" n="b">rājoparicaraḥ punaḥ</seg> </l>
 <l xml:id="MBh_12.324.36-2" n="MBh_12.324.36/2"><seg type="pāda" n="c">saśarīro gataś caiva</seg> <seg type="pāda" n="d">brahmalokaṃ nṛpa_2-uttamaḥ</seg> //</l>
@@ -2901,22 +2978,28 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.326.8">
-<l xml:id="MBh_12.326.8-1" n="MBh_12.326.8/1"><seg type="pāda" n="a">śeṣebhyaś caiva vaktrebhyaś</seg> <seg type="pāda" n="b">caturvedodgataṃ vasu</seg> </l>
+	<l xml:id="MBh_12.326.8-1" n="MBh_12.326.8/1">
+		<seg type="pāda" n="a">śeṣebhyaś caiva vaktrebhyaś</seg>
+		<seg type="pāda" n="b">caturvedodgataṃ vasu</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.326.8-1">
+		<lg>
+			<l>
+				<seg type="pāda">śeṣebhyaś ca eva vaktrebhyaś</seg>
+				<seg type="pāda">catur-veda-udgataṃ vasu</seg>
+			</l>
+		</lg>
+	</note>
+	<note>B9 subst.:: udgiraṃś caturo vedāñ !śeṣān vasu-dhā2dhipa !12326.8826!</note>
+	<l xml:id="MBh_12.326.8-2" n="MBh_12.326.8/2"><seg type="pāda" n="c">āraṇyakaṃ jagau devo</seg> <seg
+			type="pāda" n="d">harir nārāyaṇo vaśī</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.326.8-2">
+		<lg>
+			<l><seg type="pāda">āraṇyakaṃ jagau devo</seg> <seg type="pāda">harir nārāyaṇo vaśī</seg>
+				//</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.326.8">
-<lg>
-<l><seg type="pāda">śeṣebhyaś ca eva vaktrebhyaś</seg> <seg type="pāda">catur-veda-udgataṃ vasu</seg> </l>
-</lg>
-</note>
-<note>B9 subst.:: udgiraṃś caturo vedāñ !śeṣān vasu-dhā2dhipa !12326.8826!</note>
-<lg xml:id="MBh_12.326.8">
-<l xml:id="MBh_12.326.8-2" n="MBh_12.326.8/2"><seg type="pāda" n="c">āraṇyakaṃ jagau devo</seg> <seg type="pāda" n="d">harir nārāyaṇo vaśī</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.8">
-<lg>
-<l><seg type="pāda">āraṇyakaṃ jagau devo</seg> <seg type="pāda">harir nārāyaṇo vaśī</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.326.9">
 <l xml:id="MBh_12.326.9-1" n="MBh_12.326.9/1"><seg type="pāda" n="a">vedīṃ kamaṇḍaluṃ darbhān</seg> <seg type="pāda" n="b">maṇirūpān athopalān</seg> </l>
 <l xml:id="MBh_12.326.9-2" n="MBh_12.326.9/2"><seg type="pāda" n="c">ajinaṃ daṇḍakāṣṭhaṃ ca</seg> <seg type="pāda" n="d">jvalitaṃ ca hutāśanam</seg> </l>
@@ -3084,22 +3167,29 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.326.25">
-<l xml:id="MBh_12.326.25-1" n="MBh_12.326.25/1"><seg type="pāda" n="a">paśya devasya māhātmyaṃ</seg> <seg type="pāda" n="b">mahimānaṃ ca nārada</seg> </l>
+	<l xml:id="MBh_12.326.25-1" n="MBh_12.326.25/1">
+		<seg type="pāda" n="a">paśya devasya māhātmyaṃ</seg>
+		<seg type="pāda" n="b">mahimānaṃ ca nārada</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.326.25-1">
+		<lg>
+			<l>
+				<seg type="pāda">paśya devasya māhātmyaṃ</seg>
+				<seg type="pāda">mahimānaṃ ca nārada</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K6 B9 Da3..a4 Dn4 ins.:: na vidur munayaś cai7va !yāthārthyaṃ muni-puṃ-gava
+		!12326.25827!</note>
+	<l xml:id="MBh_12.326.25-2" n="MBh_12.326.25/2"><seg type="pāda" n="c">śubhā-śubhaiḥ
+		karmabhir yo</seg> <seg type="pāda" n="d">na lipyati kadācana</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.326.25-2">
+		<lg>
+			<l><seg type="pāda">śubha-a-śubhaiḥ karmabhir yo</seg> <seg type="pāda">na lipyati
+				kadā-cana</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.326.25">
-<lg>
-<l><seg type="pāda">paśya devasya māhātmyaṃ</seg> <seg type="pāda">mahimānaṃ ca nārada</seg> </l>
-</lg>
-</note>
-<note>K6 B9 Da3..a4 Dn4 ins.:: na vidur munayaś cai7va !yāthārthyaṃ muni-puṃ-gava !12326.25827!</note>
-<lg xml:id="MBh_12.326.25">
-<l xml:id="MBh_12.326.25-2" n="MBh_12.326.25/2"><seg type="pāda" n="c">śubhā-śubhaiḥ karmabhir yo</seg> <seg type="pāda" n="d">na lipyati kadācana</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.25">
-<lg>
-<l><seg type="pāda">śubha-a-śubhaiḥ karmabhir yo</seg> <seg type="pāda">na lipyati kadā-cana</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.326.26">
 <l xml:id="MBh_12.326.26-1" n="MBh_12.326.26/1"><seg type="pāda" n="a">sattvaṃ rajas tamaś caiva</seg> <seg type="pāda" n="b">guṇān etān pracakṣate</seg> </l>
 <l xml:id="MBh_12.326.26-2" n="MBh_12.326.26/2"><seg type="pāda" n="c">ete sarvaśarīreṣu</seg> <seg type="pāda" n="d">tiṣṭhanti vicaranti ca</seg> //</l>
@@ -3111,30 +3201,37 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.326.27">
-<l xml:id="MBh_12.326.27-1" n="MBh_12.326.27/1"><seg type="pāda" n="a">etān guṇāṃs tu kṣetrajño</seg> <seg type="pāda" n="b">bhuṅkte naibhiḥ sa bhujyate</seg> </l>
+	<l xml:id="MBh_12.326.27-1" n="MBh_12.326.27/1">
+		<seg type="pāda" n="a">etān guṇāṃs tu kṣetrajño</seg>
+		<seg type="pāda" n="b">bhuṅkte naibhiḥ sa bhujyate</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.326.27-1">
+		<lg>
+			<l>
+				<seg type="pāda">etān guṇāṃs tu kṣetra-jño</seg>
+				<seg type="pāda">bhuṅkte na ebhiḥ sa bhujyate</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K1.7 Da3..a4 D4.5.7.9 T G1-3.6 M1.5-7 ins.:: paśya jīvasya māhātmyaṃ !ya evaṃ
+		guṇa-bhojakaḥ !</note>
+	<note>īṣal-laghu-parikrānto !na guṇās tasya bhojakāḥ !12326.27828!</note>
+	<note>K7 D4.9 cont.:: sarva-sthaḥ sarva-go viśvaṃ !guṇa-bhuṅ nir-guṇo 'pi ca !</note>
+	<note>bhojyo 'haṃ bhojako bhoktā !paktā9haṃ jaṭhare 'nalaḥ !</note>
+	<note>bhūta-grāmam imaṃ kṛtsnaṃ !pṛthak-karma pṛthaṅ-mukham !</note>
+	<note>prakṛti-stho 'vatiṣṭhāmi !na ca tiṣṭhāmi mūrtimān !</note>
+	<note>prāṇā1pāna-pravāreṇa !śarīraṃ prāpya dhiṣṭhitaḥ !</note>
+	<note>aham eva hi jantūnāṃ !nimeṣo1nmeṣa-kṛd dvi-ja !</note>
+	<note>māṃ tu jānīhi viprar1ṣe !puruṣaṃ sarva-gaṃ prabhum !12326.27829!</note>
+	<l xml:id="MBh_12.326.27-2" n="MBh_12.326.27/2"><seg type="pāda" n="c">nirguṇo guṇabhuk
+			caiva</seg> <seg type="pāda" n="d">guṇasraṣṭā guṇādhikaḥ</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.326.27-2">
+		<lg>
+			<l><seg type="pāda">nir-guṇo guṇa-bhuk ca eva</seg> <seg type="pāda">guṇa-sraṣṭā
+				guṇa-adhikaḥ</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.326.27">
-<lg>
-<l><seg type="pāda">etān guṇāṃs tu kṣetra-jño</seg> <seg type="pāda">bhuṅkte na ebhiḥ sa bhujyate</seg> </l>
-</lg>
-</note>
-<note>K1.7 Da3..a4 D4.5.7.9 T G1-3.6 M1.5-7 ins.:: paśya jīvasya māhātmyaṃ !ya evaṃ guṇa-bhojakaḥ !</note>
-<note>īṣal-laghu-parikrānto !na guṇās tasya bhojakāḥ !12326.27828!</note>
-<note>K7 D4.9 cont.:: sarva-sthaḥ sarva-go viśvaṃ !guṇa-bhuṅ nir-guṇo 'pi ca !</note>
-<note>bhojyo 'haṃ bhojako bhoktā !paktā9haṃ jaṭhare 'nalaḥ !</note>
-<note>bhūta-grāmam imaṃ kṛtsnaṃ !pṛthak-karma pṛthaṅ-mukham !</note>
-<note>prakṛti-stho 'vatiṣṭhāmi !na ca tiṣṭhāmi mūrtimān !</note>
-<note>prāṇā1pāna-pravāreṇa !śarīraṃ prāpya dhiṣṭhitaḥ !</note>
-<note>aham eva hi jantūnāṃ !nimeṣo1nmeṣa-kṛd dvi-ja !</note>
-<note>māṃ tu jānīhi viprar1ṣe !puruṣaṃ sarva-gaṃ prabhum !12326.27829!</note>
-<lg xml:id="MBh_12.326.27">
-<l xml:id="MBh_12.326.27-2" n="MBh_12.326.27/2"><seg type="pāda" n="c">nirguṇo guṇabhuk caiva</seg> <seg type="pāda" n="d">guṇasraṣṭā guṇādhikaḥ</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.27">
-<lg>
-<l><seg type="pāda">nir-guṇo guṇa-bhuk ca eva</seg> <seg type="pāda">guṇa-sraṣṭā guṇa-adhikaḥ</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.326.28">
 <l xml:id="MBh_12.326.28-1" n="MBh_12.326.28/1"><seg type="pāda" n="a">jagatpratiṣṭhā devar1ṣe</seg> <seg type="pāda" n="b">pṛthivy apsu pralīyate</seg> </l>
 <l xml:id="MBh_12.326.28-2" n="MBh_12.326.28/2"><seg type="pāda" n="c">jyotiṣy āpaḥ pralīyante</seg> <seg type="pāda" n="d">jyotir vāyau pralīyate</seg> //</l>
@@ -3146,22 +3243,28 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.326.29">
-<l xml:id="MBh_12.326.29-1" n="MBh_12.326.29/1"><seg type="pāda" n="a">khe vāyuḥ pralayaṃ yāti</seg> <seg type="pāda" n="b">manasy ākāśam eva ca</seg> </l>
+	<l xml:id="MBh_12.326.29-1" n="MBh_12.326.29/1">
+		<seg type="pāda" n="a">khe vāyuḥ pralayaṃ yāti</seg>
+		<seg type="pāda" n="b">manasy ākāśam eva ca</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.326.29-1">
+		<lg>
+			<l>
+				<seg type="pāda">khe vāyuḥ pralayaṃ yāti</seg>
+				<seg type="pāda">manasy ākāśam eva ca</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K7 D4.9 T G2.3.6 ins.:: kālo hi paramaṃ bhūtaṃ !manasy eṣa pralīyate !12326.29830!</note>
+	<l xml:id="MBh_12.326.29-2" n="MBh_12.326.29/2"><seg type="pāda" n="c">mano hi paramaṃ
+			bhūtaṃ</seg> <seg type="pāda" n="d">tad avyakte pralīyate</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.326.29-2">
+		<lg>
+			<l><seg type="pāda">mano hi paramaṃ bhūtaṃ</seg> <seg type="pāda">tad a-vyakte
+				pralīyate</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.326.29">
-<lg>
-<l><seg type="pāda">khe vāyuḥ pralayaṃ yāti</seg> <seg type="pāda">manasy ākāśam eva ca</seg> </l>
-</lg>
-</note>
-<note>K7 D4.9 T G2.3.6 ins.:: kālo hi paramaṃ bhūtaṃ !manasy eṣa pralīyate !12326.29830!</note>
-<lg xml:id="MBh_12.326.29">
-<l xml:id="MBh_12.326.29-2" n="MBh_12.326.29/2"><seg type="pāda" n="c">mano hi paramaṃ bhūtaṃ</seg> <seg type="pāda" n="d">tad avyakte pralīyate</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.29">
-<lg>
-<l><seg type="pāda">mano hi paramaṃ bhūtaṃ</seg> <seg type="pāda">tad a-vyakte pralīyate</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.326.30">
 <l xml:id="MBh_12.326.30-1" n="MBh_12.326.30/1"><seg type="pāda" n="a">avyaktaṃ puruṣe brahman</seg> <seg type="pāda" n="b">niṣkriye saṃpralīyate</seg> </l>
 <l xml:id="MBh_12.326.30-2" n="MBh_12.326.30/2"><seg type="pāda" n="c">nāsti tasmāt parataraṃ</seg> <seg type="pāda" n="d">puruṣād vai sanātanāt</seg> //</l>
@@ -3500,22 +3603,28 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.326.62">
-<l xml:id="MBh_12.326.62-1" n="MBh_12.326.62/1"><seg type="pāda" n="a">etāṃś cānyāṃś ca rucirān</seg> <seg type="pāda" n="b">brahmaṇe 'mitatejase</seg> </l>
+	<l xml:id="MBh_12.326.62-1" n="MBh_12.326.62/1">
+		<seg type="pāda" n="a">etāṃś cānyāṃś ca rucirān</seg>
+		<seg type="pāda" n="b">brahmaṇe 'mitatejase</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.326.62-1">
+		<lg>
+			<l>
+				<seg type="pāda">etāṃś ca anyāṃś ca rucirān</seg>
+				<seg type="pāda">brahmaṇe '-mita-tejase</seg>
+			</l>
+		</lg>
+	</note>
+	<note>G1 Kumbh..ed. ins.:: evaṃ rudrāya manave !indrāyā7-mita-tejase !12326.62834!</note>
+	<l xml:id="MBh_12.326.62-2" n="MBh_12.326.62/2"><seg type="pāda" n="c">ahaṃ dattvā varān
+		prīto</seg> <seg type="pāda" n="d">nivṛttiparamo 'bhavam</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.326.62-2">
+		<lg>
+			<l><seg type="pāda">ahaṃ dattvā varān prīto</seg> <seg type="pāda">nivṛtti-paramo
+				'bhavam</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.326.62">
-<lg>
-<l><seg type="pāda">etāṃś ca anyāṃś ca rucirān</seg> <seg type="pāda">brahmaṇe '-mita-tejase</seg> </l>
-</lg>
-</note>
-<note>G1 Kumbh..ed. ins.:: evaṃ rudrāya manave !indrāyā7-mita-tejase !12326.62834!</note>
-<lg xml:id="MBh_12.326.62">
-<l xml:id="MBh_12.326.62-2" n="MBh_12.326.62/2"><seg type="pāda" n="c">ahaṃ dattvā varān prīto</seg> <seg type="pāda" n="d">nivṛttiparamo 'bhavam</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.62">
-<lg>
-<l><seg type="pāda">ahaṃ dattvā varān prīto</seg> <seg type="pāda">nivṛtti-paramo 'bhavam</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.326.63">
 <l xml:id="MBh_12.326.63-1" n="MBh_12.326.63/1"><seg type="pāda" n="a">nirvāṇaṃ sarvadharmāṇāṃ</seg> <seg type="pāda" n="b">nivṛttiḥ paramā smṛtā</seg> </l>
 <l xml:id="MBh_12.326.63-2" n="MBh_12.326.63/2"><seg type="pāda" n="c">tasmān nivṛttim āpannaś</seg> <seg type="pāda" n="d">caret sarvāṅganirvṛtaḥ</seg> //</l>
@@ -3599,33 +3708,46 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.326.71">
-<l xml:id="MBh_12.326.71-1" n="MBh_12.326.71/1"><seg type="pāda" n="a">yathā sūryasya gaganād</seg> <seg type="pāda" n="b">udayāstamayāv iha</seg> </l>
-<l xml:id="MBh_12.326.71-2" n="MBh_12.326.71/2"><seg type="pāda" n="c">naṣṭau punar balāt kālae</seg> <seg type="pāda" n="d">ānayaty amitadyutiḥ</seg> </l>
+	<l xml:id="MBh_12.326.71-1" n="MBh_12.326.71/1">
+		<seg type="pāda" n="a">yathā sūryasya gaganād</seg>
+		<seg type="pāda" n="b">udayāstamayāv iha</seg>
+	</l>
+	<l xml:id="MBh_12.326.71-2" n="MBh_12.326.71/2">
+		<seg type="pāda" n="c">naṣṭau punar balāt kālae</seg>
+		<seg type="pāda" n="d">ānayaty amitadyutiḥ</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.326.71-1 #MBh_12.326.71-2">
+		<lg>
+			<l>
+				<seg type="pāda">yathā sūryasya gaganād</seg>
+				<seg type="pāda">udaya-astamayāv iha</seg>
+			</l>
+			<l>
+				<seg type="pāda">naṣṭau punar balāt kālae</seg>
+				<seg type="pāda">ānayaty a-mita-dyutiḥ</seg>
+			</l>
+		</lg>
+	</note>
+	<note>Ds2 D7 T G1-3.6 Kumbh..ed. ins.:: bhīṣmaḥ: nāradas tv atha papraccha !bhagavantaṃ
+		janā1rdanam !</note>
+	<note>keṣu keṣu ca bhāveṣu !draṣṭavyo 'si mayā prabho !</note>
+	<note>śrī-bhagavān uvāca: śṛṇu nārada tattvena !prādur-bhāvān mahā-mune !</note>
+	<note>matsyaḥ kūrmo varāhaś ca !nārasiṃho 'tha vāmanaḥ !</note>
+	<note>rāmo rāmaś ca rāmaś ca !kṛṣṇaḥ kalkī ca te daśa !</note>
+	<note>pūrvaṃ mīno bhaviṣyāmi !sthāpayiṣyām ahaṃ prajāḥ !</note>
+	<note>lokān vedān dhariṣyāmi !majjamānān mahā2rṇave !</note>
+	<note>dvitīyaṃ kūrma-rūpaṃ me !hema-kūṭa-nibhaṃ smṛtam !</note>
+	<note>mandaraṃ dhārayiṣyāmi !a-mṛtā1rthaṃ dvi-jo1ttama !</note>
+	<note>magnāṃ mahā2rṇave ghore !bhārā3krāntām imāṃ punaḥ !12326.71835!</note>
+	<l xml:id="MBh_12.326.71-3" n="MBh_12.326.71/3"><seg type="pāda" n="e">tathā balād ahaṃ
+		pṛthvīṃ</seg> <seg type="pāda" n="f">sarvabhūtahitāya vai</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.326.71-3">
+		<lg>
+			<l><seg type="pāda">tathā balād ahaṃ pṛthvīṃ</seg> <seg type="pāda">sarva-bhūta-hitāya
+				vai</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.326.71">
-<lg>
-<l><seg type="pāda">yathā sūryasya gaganād</seg> <seg type="pāda">udaya-astamayāv iha</seg> </l>
-<l><seg type="pāda">naṣṭau punar balāt kālae</seg> <seg type="pāda">ānayaty a-mita-dyutiḥ</seg> </l>
-</lg>
-</note>
-<note>Ds2 D7 T G1-3.6 Kumbh..ed. ins.:: bhīṣmaḥ: nāradas tv atha papraccha !bhagavantaṃ janā1rdanam !</note>
-<note>keṣu keṣu ca bhāveṣu !draṣṭavyo 'si mayā prabho !</note>
-<note>śrī-bhagavān uvāca: śṛṇu nārada tattvena !prādur-bhāvān mahā-mune !</note>
-<note>matsyaḥ kūrmo varāhaś ca !nārasiṃho 'tha vāmanaḥ !</note>
-<note>rāmo rāmaś ca rāmaś ca !kṛṣṇaḥ kalkī ca te daśa !</note>
-<note>pūrvaṃ mīno bhaviṣyāmi !sthāpayiṣyām ahaṃ prajāḥ !</note>
-<note>lokān vedān dhariṣyāmi !majjamānān mahā2rṇave !</note>
-<note>dvitīyaṃ kūrma-rūpaṃ me !hema-kūṭa-nibhaṃ smṛtam !</note>
-<note>mandaraṃ dhārayiṣyāmi !a-mṛtā1rthaṃ dvi-jo1ttama !</note>
-<note>magnāṃ mahā2rṇave ghore !bhārā3krāntām imāṃ punaḥ !12326.71835!</note>
-<lg xml:id="MBh_12.326.71">
-<l xml:id="MBh_12.326.71-3" n="MBh_12.326.71/3"><seg type="pāda" n="e">tathā balād ahaṃ pṛthvīṃ</seg> <seg type="pāda" n="f">sarvabhūtahitāya vai</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.71">
-<lg>
-<l><seg type="pāda">tathā balād ahaṃ pṛthvīṃ</seg> <seg type="pāda">sarva-bhūta-hitāya vai</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.326.72">
 <l xml:id="MBh_12.326.72-1" n="MBh_12.326.72/1"><seg type="pāda" n="a">sattvair ākrāntasarvāṅgāṃ</seg> <seg type="pāda" n="b">naṣṭāṃ sāgaramekhalām</seg> </l>
 <l xml:id="MBh_12.326.72-2" n="MBh_12.326.72/2"><seg type="pāda" n="c">ānayiṣyāmi svaṃ sthānaṃ</seg> <seg type="pāda" n="d">vārāhaṃ rūpam āsthitaḥ</seg> //</l>
@@ -3649,22 +3771,30 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.326.74">
-<l xml:id="MBh_12.326.74-1" n="MBh_12.326.74/1"><seg type="pāda" n="a">virocanasya balavān</seg> <seg type="pāda" n="b">baliḥ putro mahāsuraḥ</seg> </l>
+	<l xml:id="MBh_12.326.74-1" n="MBh_12.326.74/1">
+		<seg type="pāda" n="a">virocanasya balavān</seg>
+		<seg type="pāda" n="b">baliḥ putro mahāsuraḥ</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.326.74-1">
+		<lg>
+			<l>
+				<seg type="pāda">virocanasya balavān</seg>
+				<seg type="pāda">baliḥ putro mahā-asuraḥ</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K6 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2.3.5.8 ins.:: a-vadhyaḥ sarva-lokānāṃ
+		!sa-devā1sura-rakṣasām
+		!12326.74836!</note>
+	<l xml:id="MBh_12.326.74-2" n="MBh_12.326.74/2"><seg type="pāda" n="c">bhaviṣyati sa śakraṃ
+		ca</seg> <seg type="pāda" n="d">svarājyāc cyāvayiṣyati</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.326.74-2">
+		<lg>
+			<l><seg type="pāda">bhaviṣyati sa śakraṃ ca</seg> <seg type="pāda">sva-rājyāc
+				cyāvayiṣyati</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.326.74">
-<lg>
-<l><seg type="pāda">virocanasya balavān</seg> <seg type="pāda">baliḥ putro mahā-asuraḥ</seg> </l>
-</lg>
-</note>
-<note>K6 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2.3.5.8 ins.:: a-vadhyaḥ sarva-lokānāṃ !sa-devā1sura-rakṣasām !12326.74836!</note>
-<lg xml:id="MBh_12.326.74">
-<l xml:id="MBh_12.326.74-2" n="MBh_12.326.74/2"><seg type="pāda" n="c">bhaviṣyati sa śakraṃ ca</seg> <seg type="pāda" n="d">svarājyāc cyāvayiṣyati</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.74">
-<lg>
-<l><seg type="pāda">bhaviṣyati sa śakraṃ ca</seg> <seg type="pāda">sva-rājyāc cyāvayiṣyati</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.326.75">
 <l xml:id="MBh_12.326.75-1" n="MBh_12.326.75/1"><seg type="pāda" n="a">trailokye 'pahṛte tena</seg> <seg type="pāda" n="b">vimukhe ca śacīpatau</seg> </l>
 <l xml:id="MBh_12.326.75-2" n="MBh_12.326.75/2"><seg type="pāda" n="c">adityāṃ dvādaśaḥ putraḥ</seg> <seg type="pāda" n="d">saṃbhaviṣyāmi kaśyapāt</seg> //</l>
@@ -3695,24 +3825,30 @@
 </note>
 <note>K6 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2.3.8 Kumbh..ed. ins.:: dānavaṃ balināṃ śreṣṭham !a-vadhyaṃ sarva-daivataiḥ !12326.76838!</note>
 <lg xml:id="MBh_12.326.77">
-<l xml:id="MBh_12.326.77-1" n="MBh_12.326.77/1"><seg type="pāda" n="a">tretāyuge bhaviṣyāmi</seg> <seg type="pāda" n="b">rāmo bhṛgukulodvahaḥ</seg> </l>
+	<l xml:id="MBh_12.326.77-1" n="MBh_12.326.77/1">
+		<seg type="pāda" n="a">tretāyuge bhaviṣyāmi</seg>
+		<seg type="pāda" n="b">rāmo bhṛgukulodvahaḥ</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.326.77-1">
+		<lg>
+			<l>
+				<seg type="pāda">tretā-yuge bhaviṣyāmi</seg>
+				<seg type="pāda">rāmo bhṛgu-kula-udvahaḥ</seg>
+			</l>
+		</lg>
+	</note>
+	<note>D7 T G1-3.6 ins. after 77a:: dvā-viṃśad-yuga-paryaye !</note>
+	<note>bhaviṣyāmi ṛṣis tatra !jamad-agni-suto balī !</note>
+	<note>bāhu-vīrya-yuto rāmo !12326.77839!</note>
+	<l xml:id="MBh_12.326.77-2" n="MBh_12.326.77/2"><seg type="pāda" n="c">kṣatraṃ
+			cotsādayiṣyāmi</seg> <seg type="pāda" n="d">samṛddhabalavāhanam</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.326.77-2">
+		<lg>
+			<l><seg type="pāda">kṣatraṃ ca utsādayiṣyāmi</seg> <seg type="pāda">
+				samṛddha-bala-vāhanam</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.326.77">
-<lg>
-<l><seg type="pāda">tretā-yuge bhaviṣyāmi</seg> <seg type="pāda">rāmo bhṛgu-kula-udvahaḥ</seg> </l>
-</lg>
-</note>
-<note>D7 T G1-3.6 ins. after 77a:: dvā-viṃśad-yuga-paryaye !</note>
-<note>bhaviṣyāmi ṛṣis tatra !jamad-agni-suto balī !</note>
-<note>bāhu-vīrya-yuto rāmo !12326.77839!</note>
-<lg xml:id="MBh_12.326.77">
-<l xml:id="MBh_12.326.77-2" n="MBh_12.326.77/2"><seg type="pāda" n="c">kṣatraṃ cotsādayiṣyāmi</seg> <seg type="pāda" n="d">samṛddhabalavāhanam</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.77">
-<lg>
-<l><seg type="pāda">kṣatraṃ ca utsādayiṣyāmi</seg> <seg type="pāda">samṛddha-bala-vāhanam</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.326.78">
 <l xml:id="MBh_12.326.78-1" n="MBh_12.326.78/1"><seg type="pāda" n="a">saṃdhau tu samanuprāpte</seg> <seg type="pāda" n="b">tretāyāṃ dvāparasya ca</seg> </l>
 <l xml:id="MBh_12.326.78-2" n="MBh_12.326.78/2"><seg type="pāda" n="c">rāmo dāśarathir bhūtvā</seg> <seg type="pāda" n="d">bhaviṣyāmi jagatpatiḥ</seg> //</l>
@@ -3735,21 +3871,19 @@
 </note>
 <lg xml:id="MBh_12.326.80">
 <l xml:id="MBh_12.326.80-1" n="MBh_12.326.80/1"><seg type="pāda" n="a">tayor ye tv anvaye jātā</seg> <seg type="pāda" n="b">bhaviṣyanti vanaukasaḥ</seg> </l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.80">
+<note type="analysis" corresp="#MBh_12.326.80-1">
 <lg>
 <l><seg type="pāda">tayor ye tv anvaye jātā</seg> <seg type="pāda">bhaviṣyanti vana-okasaḥ</seg> </l>
 </lg>
 </note>
 <note>K1.2.4.6.7 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2-5.7-9 T G1-3.6 Kumbh..ed. ins.:: mahā-balā mahā-vīryāḥ !śakra-tulya-parākramāḥ !12326.80840!</note>
-<lg xml:id="MBh_12.326.80">
 <l xml:id="MBh_12.326.80-2" n="MBh_12.326.80/2"><seg type="pāda" n="c">te sahāyā bhaviṣyanti</seg> <seg type="pāda" n="d">surakārye mama dvija</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.80">
+<note type="analysis" corresp="#MBh_12.326.80-2">
 <lg>
 <l><seg type="pāda">te sahāyā bhaviṣyanti</seg> <seg type="pāda">sura-kārye mama dvi-ja</seg> //</l>
 </lg>
 </note>
+</lg>
 <lg xml:id="MBh_12.326.81">
 <l xml:id="MBh_12.326.81-1" n="MBh_12.326.81/1"><seg type="pāda" n="a">tato rakṣaḥpatiṃ ghoraṃ</seg> <seg type="pāda" n="b">pulastyakulapāṃsanam</seg> </l>
 <l xml:id="MBh_12.326.81-2" n="MBh_12.326.81/2"><seg type="pāda" n="c">haniṣye rāvaṇaṃ saṃkhye</seg> <seg type="pāda" n="d">sagaṇaṃ lokakaṇṭakam</seg> //</l>
@@ -3886,24 +4020,36 @@
 </note>
 <note>D7 T G1-3.6 Kumbh..ed. ins.:: śastrair nipatitāḥ sarve !nṛ-pā_2 yāsyanti vai divam !12326.91849!</note>
 <lg xml:id="MBh_12.326.92">
-<l xml:id="MBh_12.326.92-1" n="MBh_12.326.92/1"><seg type="pāda" n="a">kṛtvā bhārāvataraṇaṃ</seg> <seg type="pāda" n="b">vasudhāyā yathepsitam</seg> </l>
+	<l xml:id="MBh_12.326.92-1" n="MBh_12.326.92/1">
+		<seg type="pāda" n="a">kṛtvā bhārāvataraṇaṃ</seg>
+		<seg type="pāda" n="b">vasudhāyā yathepsitam</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.326.92-1">
+		<lg>
+			<l>
+				<seg type="pāda">kṛtvā bhāra-avataraṇaṃ</seg>
+				<seg type="pāda">vasu-dhāyā yathā-īpsitam</seg>
+			</l>
+		</lg>
+	</note>
+	<note>D7 T G1-3.6 ins.:: rājyaṃ praśāsati punaḥ !kuntī-putre yudhi-ṣṭhire !12326.91850!</note>
+	<l xml:id="MBh_12.326.92-2" n="MBh_12.326.92/2">
+		<seg type="pāda" n="c">sarvasātvatamukhyānāṃ</seg>
+		<seg type="pāda" n="d">dvārakāyāś ca sattama</seg>
+	</l>
+	<l xml:id="MBh_12.326.92-3" n="MBh_12.326.92/3"><seg type="pāda" n="e">kariṣye pralayaṃ
+		ghoram</seg> <seg type="pāda" n="f">ātmajñātivināśanam</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.326.92-2 #MBh_12.326.92-3">
+		<lg>
+			<l>
+				<seg type="pāda">sarva-sātvata-mukhyānāṃ</seg>
+				<seg type="pāda">dvārakāyāś ca sattama</seg>
+			</l>
+			<l><seg type="pāda">kariṣye pralayaṃ ghoram</seg> <seg type="pāda">
+				ātma-jñāti-vināśanam</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.326.92">
-<lg>
-<l><seg type="pāda">kṛtvā bhāra-avataraṇaṃ</seg> <seg type="pāda">vasu-dhāyā yathā-īpsitam</seg> </l>
-</lg>
-</note>
-<note>D7 T G1-3.6 ins.:: rājyaṃ praśāsati punaḥ !kuntī-putre yudhi-ṣṭhire !12326.91850!</note>
-<lg xml:id="MBh_12.326.92">
-<l xml:id="MBh_12.326.92-2" n="MBh_12.326.92/2"><seg type="pāda" n="c">sarvasātvatamukhyānāṃ</seg> <seg type="pāda" n="d">dvārakāyāś ca sattama</seg> </l>
-<l xml:id="MBh_12.326.92-3" n="MBh_12.326.92/3"><seg type="pāda" n="e">kariṣye pralayaṃ ghoram</seg> <seg type="pāda" n="f">ātmajñātivināśanam</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.92">
-<lg>
-<l><seg type="pāda">sarva-sātvata-mukhyānāṃ</seg> <seg type="pāda">dvārakāyāś ca sattama</seg> </l>
-<l><seg type="pāda">kariṣye pralayaṃ ghoram</seg> <seg type="pāda">ātma-jñāti-vināśanam</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.326.93">
 <l xml:id="MBh_12.326.93-1" n="MBh_12.326.93/1"><seg type="pāda" n="a">karmāṇy aparimeyāni</seg> <seg type="pāda" n="b">caturmūrtidharo hy aham</seg> </l>
 <l xml:id="MBh_12.326.93-2" n="MBh_12.326.93/2"><seg type="pāda" n="c">kṛtvā lokān gamiṣyāmi</seg> <seg type="pāda" n="d">svān ahaṃ brahmasatkṛtān</seg> //</l>
@@ -3916,25 +4062,39 @@
 </note>
 <note>D7 T G1-3.6 ins. after 12326.93, Kumbh..ed. after 12.326.92:: AppI.31</note>
 <lg xml:id="MBh_12.326.94">
-<l xml:id="MBh_12.326.94-1" n="MBh_12.326.94/1"><seg type="pāda" n="a">haṃso hayaśirāś caiva</seg> <seg type="pāda" n="b">prādurbhāvā dvijottama</seg> </l>
+	<l xml:id="MBh_12.326.94-1" n="MBh_12.326.94/1">
+		<seg type="pāda" n="a">haṃso hayaśirāś caiva</seg>
+		<seg type="pāda" n="b">prādurbhāvā dvijottama</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.326.94-1">
+		<lg>
+			<l>
+				<seg type="pāda">haṃso haya-śirāś ca eva</seg>
+				<seg type="pāda">prādur-bhāvā dvi-ja-uttama</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K6 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2.3.5.8 Ca ins.:: vārāho nārasiṃhaś ca !vāmano rāma eva
+		ca !</note>
+	<note>rāmo dāśarathiś cai7va !sātvataḥ kalkir eva ca !12326.94851!</note>
+	<l xml:id="MBh_12.326.94-2" n="MBh_12.326.94/2">
+		<seg type="pāda" n="c">yadā vedaśrutir naṣṭā</seg>
+		<seg type="pāda" n="d">mayā pratyāhṛtā tadā</seg>
+	</l>
+	<l xml:id="MBh_12.326.94-3" n="MBh_12.326.94/3"><seg type="pāda" n="e">savedāḥ
+			saśrutīkāś ca</seg> <seg
+			type="pāda" n="f">kṛtāḥ pūrvaṃ kṛte yuge</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.326.94-2 #MBh_12.326.94-3">
+		<lg>
+			<l>
+				<seg type="pāda">yadā veda-śrutir naṣṭā</seg>
+				<seg type="pāda">mayā pratyāhṛtā tadā</seg>
+			</l>
+			<l><seg type="pāda">sa-vedāḥ sa-śrutīkāś ca</seg> <seg type="pāda">kṛtāḥ pūrvaṃ kṛte
+				yuge</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.326.94">
-<lg>
-<l><seg type="pāda">haṃso haya-śirāś ca eva</seg> <seg type="pāda">prādur-bhāvā dvi-ja-uttama</seg> </l>
-</lg>
-</note>
-<note>K6 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2.3.5.8 Ca ins.:: vārāho nārasiṃhaś ca !vāmano rāma eva ca !</note>
-<note>rāmo dāśarathiś cai7va !sātvataḥ kalkir eva ca !12326.94851!</note>
-<lg xml:id="MBh_12.326.94">
-<l xml:id="MBh_12.326.94-2" n="MBh_12.326.94/2"><seg type="pāda" n="c">yadā vedaśrutir naṣṭā</seg> <seg type="pāda" n="d">mayā pratyāhṛtā tadā</seg> </l>
-<l xml:id="MBh_12.326.94-3" n="MBh_12.326.94/3"><seg type="pāda" n="e">savedāḥ saśrutīkāś ca</seg> <seg type="pāda" n="f">kṛtāḥ pūrvaṃ kṛte yuge</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.94">
-<lg>
-<l><seg type="pāda">yadā veda-śrutir naṣṭā</seg> <seg type="pāda">mayā pratyāhṛtā tadā</seg> </l>
-<l><seg type="pāda">sa-vedāḥ sa-śrutīkāś ca</seg> <seg type="pāda">kṛtāḥ pūrvaṃ kṛte yuge</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.326.95">
 <l xml:id="MBh_12.326.95-1" n="MBh_12.326.95/1"><seg type="pāda" n="a">atikrāntāḥ purāṇeṣu</seg> <seg type="pāda" n="b">śrutās te yadi vā kvacit</seg> </l>
 <l xml:id="MBh_12.326.95-2" n="MBh_12.326.95/2"><seg type="pāda" n="c">atikrāntāś ca bahavaḥ</seg> <seg type="pāda" n="d">prādurbhāvā mamottamāḥ</seg> </l>
@@ -4191,22 +4351,28 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.326.119">
-<l xml:id="MBh_12.326.119-1" n="MBh_12.326.119/1"><seg type="pāda" n="a">tvayāpi satataṃ rājann</seg> <seg type="pāda" n="b">abhyarcyaḥ puruṣottamaḥ</seg> </l>
+	<l xml:id="MBh_12.326.119-1" n="MBh_12.326.119/1">
+		<seg type="pāda" n="a">tvayāpi satataṃ rājann</seg>
+		<seg type="pāda" n="b">abhyarcyaḥ puruṣottamaḥ</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.326.119-1">
+		<lg>
+			<l>
+				<seg type="pāda">tvaya āpi satataṃ rājann</seg>
+				<seg type="pāda">abhyarcyaḥ puruṣa-uttamaḥ</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K1.2.4 ins.:: vāsudevaṃ mahā4tmānaṃ !śrotavyaṃ vidhi-pūrvakam !12326.119857!</note>
+	<l xml:id="MBh_12.326.119-2" n="MBh_12.326.119/2"><seg type="pāda" n="c">sa hi mātā pitā
+		caiva</seg> <seg type="pāda" n="d">kṛtsnasya jagato guruḥ</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.326.119-2">
+		<lg>
+			<l><seg type="pāda">sa hi mātā pitā ca eva</seg> <seg type="pāda">kṛtsnasya jagato
+				guruḥ</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.326.119">
-<lg>
-<l><seg type="pāda">tvaya āpi satataṃ rājann</seg> <seg type="pāda">abhyarcyaḥ puruṣa-uttamaḥ</seg> </l>
-</lg>
-</note>
-<note>K1.2.4 ins.:: vāsudevaṃ mahā4tmānaṃ !śrotavyaṃ vidhi-pūrvakam !12326.119857!</note>
-<lg xml:id="MBh_12.326.119">
-<l xml:id="MBh_12.326.119-2" n="MBh_12.326.119/2"><seg type="pāda" n="c">sa hi mātā pitā caiva</seg> <seg type="pāda" n="d">kṛtsnasya jagato guruḥ</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.326.119">
-<lg>
-<l><seg type="pāda">sa hi mātā pitā ca eva</seg> <seg type="pāda">kṛtsnasya jagato guruḥ</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.326.120">
 <l xml:id="MBh_12.326.120-1" n="MBh_12.326.120/1"><seg type="pāda" n="a">brahmaṇyadevo bhagavān</seg> <seg type="pāda" n="b">prīyatāṃ te sanātanaḥ</seg> </l>
 <l xml:id="MBh_12.326.120-2" n="MBh_12.326.120/2"><seg type="pāda" n="c">yudhiṣṭhira mahābāho</seg> <seg type="pāda" n="d">mahābāhur janārdanaḥ</seg> //</l>
@@ -4460,27 +4626,39 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.327.19">
-<l xml:id="MBh_12.327.19-1" n="MBh_12.327.19/1"><seg type="pāda" n="a">teṣām abhyasyatāṃ vedān</seg> <seg type="pāda" n="b">kadācit saṃśayo 'bhavat</seg> </l>
+	<l xml:id="MBh_12.327.19-1" n="MBh_12.327.19/1">
+		<seg type="pāda" n="a">teṣām abhyasyatāṃ vedān</seg>
+		<seg type="pāda" n="b">kadācit saṃśayo 'bhavat</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.327.19-1">
+		<lg>
+			<l>
+				<seg type="pāda">teṣām abhyasyatāṃ vedān</seg>
+				<seg type="pāda">kadā-cit saṃśayo 'bhavat</seg>
+			</l>
+		</lg>
+	</note>
+	<note>K6 ins.:: kiṃ tu brahmā9tha rudro vā !devatā ṛṣayas tathā !</note>
+	<note>prāyaḥ pravṛtti-mārga-sthāḥ !kasya devasya śāsanāt !</note>
+	<note>ke vai nivṛtti-mārga-sthāḥ !kasya devasya śāsanāt !</note>
+	<note>ke vai yajante sarve 'pi !ka eṣām īśvaraḥ paraḥ !12327.19862!</note>
+	<l xml:id="MBh_12.327.19-2" n="MBh_12.327.19/2">
+		<seg type="pāda" n="c">eṣa vai yas tvayā pṛṣṭas</seg>
+		<seg type="pāda" n="d">tena teṣāṃ prakīrtitaḥ</seg>
+	</l>
+	<l xml:id="MBh_12.327.19-3" n="MBh_12.327.19/3"><seg type="pāda" n="e">tataḥ śruto mayā cāpi</seg> <seg
+			type="pāda" n="f">tavākhyeyo 'dya bhārata</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.327.19-2 #MBh_12.327.19-3">
+		<lg>
+			<l>
+				<seg type="pāda">eṣa vai yas tvayā pṛṣṭas</seg>
+				<seg type="pāda">tena teṣāṃ prakīrtitaḥ</seg>
+			</l>
+			<l><seg type="pāda">tataḥ śruto mayā ca api</seg> <seg type="pāda">tavā akhyeyo 'dya
+				bhārata</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.327.19">
-<lg>
-<l><seg type="pāda">teṣām abhyasyatāṃ vedān</seg> <seg type="pāda">kadā-cit saṃśayo 'bhavat</seg> </l>
-</lg>
-</note>
-<note>K6 ins.:: kiṃ tu brahmā9tha rudro vā !devatā ṛṣayas tathā !</note>
-<note>prāyaḥ pravṛtti-mārga-sthāḥ !kasya devasya śāsanāt !</note>
-<note>ke vai nivṛtti-mārga-sthāḥ !kasya devasya śāsanāt !</note>
-<note>ke vai yajante sarve 'pi !ka eṣām īśvaraḥ paraḥ !12327.19862!</note>
-<lg xml:id="MBh_12.327.19">
-<l xml:id="MBh_12.327.19-2" n="MBh_12.327.19/2"><seg type="pāda" n="c">eṣa vai yas tvayā pṛṣṭas</seg> <seg type="pāda" n="d">tena teṣāṃ prakīrtitaḥ</seg> </l>
-<l xml:id="MBh_12.327.19-3" n="MBh_12.327.19/3"><seg type="pāda" n="e">tataḥ śruto mayā cāpi</seg> <seg type="pāda" n="f">tavākhyeyo 'dya bhārata</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.327.19">
-<lg>
-<l><seg type="pāda">eṣa vai yas tvayā pṛṣṭas</seg> <seg type="pāda">tena teṣāṃ prakīrtitaḥ</seg> </l>
-<l><seg type="pāda">tataḥ śruto mayā ca api</seg> <seg type="pāda">tavā akhyeyo 'dya bhārata</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.327.20">
 <l xml:id="MBh_12.327.20-1" n="MBh_12.327.20/1"><seg type="pāda" n="a">śiṣyāṇāṃ vacanaṃ śrutvā</seg> <seg type="pāda" n="b">sarvā-jñānatamonudaḥ</seg> </l>
 <l xml:id="MBh_12.327.20-2" n="MBh_12.327.20/2"><seg type="pāda" n="c">parāśarasutaḥ śrīmān</seg> <seg type="pāda" n="d">vyāso vākyam uvāca ha</seg> //</l>
@@ -4588,24 +4766,36 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.327.30">
-<l xml:id="MBh_12.327.30-1" n="MBh_12.327.30/1"><seg type="pāda" n="a">vedān vedāṅgasaṃyuktān</seg> <seg type="pāda" n="b">yajñān yajñāṅgasaṃyutān</seg> </l>
+	<l xml:id="MBh_12.327.30-1" n="MBh_12.327.30/1">
+		<seg type="pāda" n="a">vedān vedāṅgasaṃyuktān</seg>
+		<seg type="pāda" n="b">yajñān yajñāṅgasaṃyutān</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.327.30-1">
+		<lg>
+		<l>
+			<seg type="pāda">vedān veda-aṅga-saṃyuktān</seg>
+			<seg type="pāda">yajñān yajña-aṅga-saṃyutān</seg>
+		</l>
+	</lg>
+	</note>
+	<note>K7 D4.9 ins.:: etān vai su-mahā-bhāgān !ṛṣīṃl loka-pitā-mahān !12327.30863!</note>
+	<l xml:id="MBh_12.327.30-2" n="MBh_12.327.30/2">
+		<seg type="pāda" n="c">nirmame lokasiddhyarthaṃ</seg>
+		<seg type="pāda" n="d">brahmā lokapitāmahaḥ</seg>
+	</l>
+	<l xml:id="MBh_12.327.30-3" n="MBh_12.327.30/3"><seg type="pāda" n="e">aṣṭābhyaḥ
+			prakṛtibhyaś ca</seg> <seg type="pāda" n="f">jātaṃ viśvam idaṃ jagat</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.327.30-2 #MBh_12.327.30-3">
+		<lg>
+		<l>
+			<seg type="pāda">nirmame loka-siddhy-arthaṃ</seg>
+			<seg type="pāda">brahmā loka-pitā-mahaḥ</seg>
+		</l>
+		<l><seg type="pāda">aṣṭābhyaḥ prakṛtibhyaś ca</seg> <seg type="pāda">jātaṃ viśvam idaṃ
+			jagat</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.327.30">
-<lg>
-<l><seg type="pāda">vedān veda-aṅga-saṃyuktān</seg> <seg type="pāda">yajñān yajña-aṅga-saṃyutān</seg> </l>
-</lg>
-</note>
-<note>K7 D4.9 ins.:: etān vai su-mahā-bhāgān !ṛṣīṃl loka-pitā-mahān !12327.30863!</note>
-<lg xml:id="MBh_12.327.30">
-<l xml:id="MBh_12.327.30-2" n="MBh_12.327.30/2"><seg type="pāda" n="c">nirmame lokasiddhyarthaṃ</seg> <seg type="pāda" n="d">brahmā lokapitāmahaḥ</seg> </l>
-<l xml:id="MBh_12.327.30-3" n="MBh_12.327.30/3"><seg type="pāda" n="e">aṣṭābhyaḥ prakṛtibhyaś ca</seg> <seg type="pāda" n="f">jātaṃ viśvam idaṃ jagat</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.327.30">
-<lg>
-<l><seg type="pāda">nirmame loka-siddhy-arthaṃ</seg> <seg type="pāda">brahmā loka-pitā-mahaḥ</seg> </l>
-<l><seg type="pāda">aṣṭābhyaḥ prakṛtibhyaś ca</seg> <seg type="pāda">jātaṃ viśvam idaṃ jagat</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.327.31">
 <l xml:id="MBh_12.327.31-1" n="MBh_12.327.31/1"><seg type="pāda" n="a">rudro roṣātmako jāto</seg> <seg type="pāda" n="b">daśānyān so 'sṛjat svayam</seg> </l>
 <l xml:id="MBh_12.327.31-2" n="MBh_12.327.31/2"><seg type="pāda" n="c">ekādaśaite rudrās tu</seg> <seg type="pāda" n="d">vikārāḥ puruṣāḥ smṛtāḥ</seg> //</l>
@@ -5039,24 +5229,36 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.327.73">
-<l xml:id="MBh_12.327.73-1" n="MBh_12.327.73/1"><seg type="pāda" n="a">idaṃ kṛtayugaṃ nāma</seg> <seg type="pāda" n="b">kālaḥ śreṣṭhaḥ pravartate</seg> </l>
+	<l xml:id="MBh_12.327.73-1" n="MBh_12.327.73/1">
+		<seg type="pāda" n="a">idaṃ kṛtayugaṃ nāma</seg>
+		<seg type="pāda" n="b">kālaḥ śreṣṭhaḥ pravartate</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.327.73-1">
+		<lg>
+		<l>
+			<seg type="pāda">idaṃ kṛta-yugaṃ nāma</seg>
+			<seg type="pāda">kālaḥ śreṣṭhaḥ pravartate</seg>
+		</l>
+	</lg>
+	</note>
+	<note>D5 ins.:: tri-pāda-hīno dharmaś ca !yuge tasmin bhaviṣyati !12327.73864!</note>
+	<l xml:id="MBh_12.327.73-2" n="MBh_12.327.73/2">
+		<seg type="pāda" n="c">ahiṃsyā yajñapaśavo</seg>
+		<seg type="pāda" n="d">yuge 'smin naitad anyathā</seg>
+	</l>
+	<l xml:id="MBh_12.327.73-3" n="MBh_12.327.73/3"><seg type="pāda" n="e">catuṣpāt sakalo
+			dharmo</seg> <seg type="pāda" n="f">bhaviṣyaty atra vai surāḥ</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.327.73-2 #MBh_12.327.73-3">
+		<lg>
+		<l>
+			<seg type="pāda">a-hiṃsyā yajña-paśavo</seg>
+			<seg type="pāda">yuge 'smin na etad anyathā</seg>
+		</l>
+		<l><seg type="pāda">catuṣ-pāt sa-kalo dharmo</seg> <seg type="pāda">bhaviṣyaty atra vai
+			surāḥ</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.327.73">
-<lg>
-<l><seg type="pāda">idaṃ kṛta-yugaṃ nāma</seg> <seg type="pāda">kālaḥ śreṣṭhaḥ pravartate</seg> </l>
-</lg>
-</note>
-<note>D5 ins.:: tri-pāda-hīno dharmaś ca !yuge tasmin bhaviṣyati !12327.73864!</note>
-<lg xml:id="MBh_12.327.73">
-<l xml:id="MBh_12.327.73-2" n="MBh_12.327.73/2"><seg type="pāda" n="c">ahiṃsyā yajñapaśavo</seg> <seg type="pāda" n="d">yuge 'smin naitad anyathā</seg> </l>
-<l xml:id="MBh_12.327.73-3" n="MBh_12.327.73/3"><seg type="pāda" n="e">catuṣpāt sakalo dharmo</seg> <seg type="pāda" n="f">bhaviṣyaty atra vai surāḥ</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.327.73">
-<lg>
-<l><seg type="pāda">a-hiṃsyā yajña-paśavo</seg> <seg type="pāda">yuge 'smin na etad anyathā</seg> </l>
-<l><seg type="pāda">catuṣ-pāt sa-kalo dharmo</seg> <seg type="pāda">bhaviṣyaty atra vai surāḥ</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.327.74">
 <l xml:id="MBh_12.327.74-1" n="MBh_12.327.74/1"><seg type="pāda" n="a">tatas tretāyugaṃ nāma</seg> <seg type="pāda" n="b">trayī yatra bhaviṣyati</seg> </l>
 <l xml:id="MBh_12.327.74-2" n="MBh_12.327.74/2"><seg type="pāda" n="c">prokṣitā yatra paśavo</seg> <seg type="pāda" n="d">vadhaṃ prāpsyanti vai makhe</seg> </l>
@@ -5116,24 +5318,31 @@
 </note>
 <milestone unit="speaker" n="vyāsa uvāca:"/>
 <lg xml:id="MBh_12.327.79">
-<l xml:id="MBh_12.327.79-001" n="MBh_12.327.79/001">[X D7 T G1-3.6:: guravo yatra pūjyante !sādhuvṛttāḥ śamānvitāḥ</l>
+	<l xml:id="MBh_12.327.79-001" n="MBh_12.327.79/001">[X D7 T G1-3.6:: guravo yatra pūjyante
+		!sādhuvṛttāḥ śamānvitāḥ</l>
+	<note type="analysis" corresp="#MBh_12.327.79-001">
+		<lg>
+		<l>[X D7 T G1-3.6:: guravo yatra pūjyante !sādhu-vṛttāḥ śama-anvitāḥ</l>
+	</lg>
+	</note>
+	<note>vastavyaṃ tatra yuṣmābhir !yatra dharmo na hīyate !12327.78867!</note>
+	<l xml:id="MBh_12.327.79-1" n="MBh_12.327.79/1">
+		<seg type="pāda" n="a">te 'nuśiṣṭā bhagavatā</seg>
+		<seg type="pāda" n="b">devāḥ sar1ṣigaṇās tathā</seg>
+	</l>
+	<l xml:id="MBh_12.327.79-2" n="MBh_12.327.79/2"><seg type="pāda" n="c">namaskṛtvā bhagavate</seg> <seg
+			type="pāda" n="d">jagmur deśān yathepsitān</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.327.79-1 #MBh_12.327.79-2">
+		<lg>
+		<l>
+			<seg type="pāda">te 'nuśiṣṭā bhagavatā</seg>
+			<seg type="pāda">devāḥ sar1ṣi-gaṇās tathā</seg>
+		</l>
+		<l><seg type="pāda">namas-kṛtvā bhagavate</seg> <seg type="pāda">jagmur deśān
+			yathā-īpsitān</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.327.79">
-<lg>
-<l>[X D7 T G1-3.6:: guravo yatra pūjyante !sādhu-vṛttāḥ śama-anvitāḥ</l>
-</lg>
-</note>
-<note>vastavyaṃ tatra yuṣmābhir !yatra dharmo na hīyate !12327.78867!</note>
-<lg xml:id="MBh_12.327.79">
-<l xml:id="MBh_12.327.79-1" n="MBh_12.327.79/1"><seg type="pāda" n="a">te 'nuśiṣṭā bhagavatā</seg> <seg type="pāda" n="b">devāḥ sar1ṣigaṇās tathā</seg> </l>
-<l xml:id="MBh_12.327.79-2" n="MBh_12.327.79/2"><seg type="pāda" n="c">namaskṛtvā bhagavate</seg> <seg type="pāda" n="d">jagmur deśān yathepsitān</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.327.79">
-<lg>
-<l><seg type="pāda">te 'nuśiṣṭā bhagavatā</seg> <seg type="pāda">devāḥ sar1ṣi-gaṇās tathā</seg> </l>
-<l><seg type="pāda">namas-kṛtvā bhagavate</seg> <seg type="pāda">jagmur deśān yathā-īpsitān</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.327.80">
 <l xml:id="MBh_12.327.80-1" n="MBh_12.327.80/1"><seg type="pāda" n="a">gateṣu tridivaukaḥsu</seg> <seg type="pāda" n="b">brahmaikaḥ paryavasthitaḥ</seg> </l>
 <l xml:id="MBh_12.327.80-2" n="MBh_12.327.80/2"><seg type="pāda" n="c">didṛkṣur bhagavantaṃ tam</seg> <seg type="pāda" n="d">aniruddhatanau sthitam</seg> //</l>
@@ -7915,24 +8124,36 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.331.13">
-<l xml:id="MBh_12.331.13-1" n="MBh_12.331.13/1"><seg type="pāda" n="a">tebhyo dhanyataraś caiva</seg> <seg type="pāda" n="b">nāradaḥ parameṣṭhijaḥ</seg> </l>
-<l xml:id="MBh_12.331.13-2" n="MBh_12.331.13/2"><seg type="pāda" n="c">na cālpatejasam ṛṣiṃ</seg> <seg type="pāda" n="d">vedmi nāradam avyayam</seg> </l>
+	<l xml:id="MBh_12.331.13-1" n="MBh_12.331.13/1">
+		<seg type="pāda" n="a">tebhyo dhanyataraś caiva</seg>
+		<seg type="pāda" n="b">nāradaḥ parameṣṭhijaḥ</seg>
+	</l>
+	<l xml:id="MBh_12.331.13-2" n="MBh_12.331.13/2">
+		<seg type="pāda" n="c">na cālpatejasam ṛṣiṃ</seg>
+		<seg type="pāda" n="d">vedmi nāradam avyayam</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.331.13-1 #MBh_12.331.13-2">
+		<lg>
+		<l>
+			<seg type="pāda">tebhyo dhanyataraś ca eva</seg>
+			<seg type="pāda">nāradaḥ parame-ṣṭhi-jaḥ</seg>
+		</l>
+		<l>
+			<seg type="pāda">na ca alpa-tejasam ṛṣiṃ</seg>
+			<seg type="pāda">vedmi nāradam a-vyayam</seg>
+		</l>
+	</lg>
+	</note>
+	<note>T2 G1.2 ins.:: dṛṣṭavān yo hariṃ devaṃ !nārāyaṇam a-jaṃ vibhum !12331.13883!</note>
+	<l xml:id="MBh_12.331.13-3" n="MBh_12.331.13/3"><seg type="pāda" n="e">śvetadvīpaṃ samāsādya</seg> <seg
+			type="pāda" n="f">yena dṛṣṭaḥ svayaṃ hariḥ</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.331.13-3">
+		<lg>
+		<l><seg type="pāda">śveta-dvīpaṃ samāsādya</seg> <seg type="pāda">yena dṛṣṭaḥ svayaṃ
+				hariḥ</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.331.13">
-<lg>
-<l><seg type="pāda">tebhyo dhanyataraś ca eva</seg> <seg type="pāda">nāradaḥ parame-ṣṭhi-jaḥ</seg> </l>
-<l><seg type="pāda">na ca alpa-tejasam ṛṣiṃ</seg> <seg type="pāda">vedmi nāradam a-vyayam</seg> </l>
-</lg>
-</note>
-<note>T2 G1.2 ins.:: dṛṣṭavān yo hariṃ devaṃ !nārāyaṇam a-jaṃ vibhum !12331.13883!</note>
-<lg xml:id="MBh_12.331.13">
-<l xml:id="MBh_12.331.13-3" n="MBh_12.331.13/3"><seg type="pāda" n="e">śvetadvīpaṃ samāsādya</seg> <seg type="pāda" n="f">yena dṛṣṭaḥ svayaṃ hariḥ</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.331.13">
-<lg>
-<l><seg type="pāda">śveta-dvīpaṃ samāsādya</seg> <seg type="pāda">yena dṛṣṭaḥ svayaṃ hariḥ</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.331.14">
 <l xml:id="MBh_12.331.14-1" n="MBh_12.331.14/1"><seg type="pāda" n="a">devaprasādānugataṃ</seg> <seg type="pāda" n="b">vyaktaṃ tat tasya darśanam</seg> </l>
 <l xml:id="MBh_12.331.14-2" n="MBh_12.331.14/2"><seg type="pāda" n="c">yad dṛṣṭavāṃs tadā devam</seg> <seg type="pāda" n="d">aniruddhatanau sthitam</seg> //</l>
@@ -9008,24 +9229,37 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.334.12">
-<l xml:id="MBh_12.334.12-1" n="MBh_12.334.12/1"><seg type="pāda" n="a">nārāyaṇīyam ākhyānam</seg> <seg type="pāda" n="b">etat te kathitaṃ mayā</seg> </l>
+	<l xml:id="MBh_12.334.12-1" n="MBh_12.334.12/1">
+		<seg type="pāda" n="a">nārāyaṇīyam ākhyānam</seg>
+		<seg type="pāda" n="b">etat te kathitaṃ mayā</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.334.12-1">
+		<lg>
+			<l>
+			<seg type="pāda">nārāyaṇīyam ākhyānam</seg>
+			<seg type="pāda">etat te kathitaṃ mayā</seg>
+		</l>
+	</lg>
+	</note>
+	<note>K1.2.4.6.7 V1 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2-5.7-9 T G1-3.6 Kumbh..ed. ins:: pṛṣṭena
+		śaunakā7dye7ha !naimiṣā1raṇya-vāsiṣu !12334.12892!</note>
+	<l xml:id="MBh_12.334.12-2" n="MBh_12.334.12/2">
+		<seg type="pāda" n="c">nāradena purā rājan</seg>
+		<seg type="pāda" n="d">gurave me niveditam</seg>
+	</l>
+	<l xml:id="MBh_12.334.12-3" n="MBh_12.334.12/3"><seg type="pāda" n="e">ṛṣīṇāṃ pāṇḍavānāṃ ca</seg> <seg
+			type="pāda" n="f">śṛṇvatoḥ kṛṣṇabhīṣmayoḥ</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.334.12-2 #MBh_12.334.12-3">
+		<lg>
+		<l>
+			<seg type="pāda">nāradena purā rājan</seg>
+			<seg type="pāda">gurave me niveditam</seg>
+		</l>
+		<l><seg type="pāda">ṛṣīṇāṃ pāṇḍavānāṃ ca</seg> <seg type="pāda">śṛṇvatoḥ kṛṣṇa-bhīṣmayoḥ</seg>
+			//</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.334.12">
-<lg>
-<l><seg type="pāda">nārāyaṇīyam ākhyānam</seg> <seg type="pāda">etat te kathitaṃ mayā</seg> </l>
-</lg>
-</note>
-<note>K1.2.4.6.7 V1 Bo.6-9 Da3..a4 Dn1.ṇ4 Ds D2-5.7-9 T G1-3.6 Kumbh..ed. ins:: pṛṣṭena śaunakā7dye7ha !naimiṣā1raṇya-vāsiṣu !12334.12892!</note>
-<lg xml:id="MBh_12.334.12">
-<l xml:id="MBh_12.334.12-2" n="MBh_12.334.12/2"><seg type="pāda" n="c">nāradena purā rājan</seg> <seg type="pāda" n="d">gurave me niveditam</seg> </l>
-<l xml:id="MBh_12.334.12-3" n="MBh_12.334.12/3"><seg type="pāda" n="e">ṛṣīṇāṃ pāṇḍavānāṃ ca</seg> <seg type="pāda" n="f">śṛṇvatoḥ kṛṣṇabhīṣmayoḥ</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.334.12">
-<lg>
-<l><seg type="pāda">nāradena purā rājan</seg> <seg type="pāda">gurave me niveditam</seg> </l>
-<l><seg type="pāda">ṛṣīṇāṃ pāṇḍavānāṃ ca</seg> <seg type="pāda">śṛṇvatoḥ kṛṣṇa-bhīṣmayoḥ</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.334.13">
 <l xml:id="MBh_12.334.13-1" n="MBh_12.334.13/1">sa hi paramagurur bhuvanapatir</l>
 <l xml:id="MBh_12.334.13-2" n="MBh_12.334.13/2">dharaṇidharaḥ śamaniyamanidhiḥ</l>
@@ -9268,24 +9502,36 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.335.17">
-<l xml:id="MBh_12.335.17-1" n="MBh_12.335.17/1"><seg type="pāda" n="a">vidyāsahāyavān devo</seg> <seg type="pāda" n="b">viṣvakseno hariḥ prabhuḥ</seg> </l>
+	<l xml:id="MBh_12.335.17-1" n="MBh_12.335.17/1">
+		<seg type="pāda" n="a">vidyāsahāyavān devo</seg>
+		<seg type="pāda" n="b">viṣvakseno hariḥ prabhuḥ</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.335.17-1">
+		<lg>
+		<l>
+			<seg type="pāda">vidyā-sahāyavān devo</seg>
+			<seg type="pāda">viṣvak-seno hariḥ prabhuḥ</seg>
+		</l>
+	</lg>
+	</note>
+	<note>Kumbh..ed. ins.:: ādi-karmā sa bhūtānām !a-prameyo hariḥ prabhuḥ !12335.17895!</note>
+	<l xml:id="MBh_12.335.17-2" n="MBh_12.335.17/2">
+		<seg type="pāda" n="c">apsv eva śayanaṃ cakre</seg>
+		<seg type="pāda" n="d">nidrāyogam upāgataḥ</seg>
+	</l>
+	<l xml:id="MBh_12.335.17-3" n="MBh_12.335.17/3"><seg type="pāda" n="e">jagataś cintayan
+		sṛṣṭiṃ</seg> <seg type="pāda" n="f">citrāṃ bahuguṇodbhavām</seg> //</l>
+	<note type="analysis" corresp="#MBh_12.335.17-2 #MBh_12.335.17-3">
+		<lg>
+		<l>
+			<seg type="pāda">apsv eva śayanaṃ cakre</seg>
+			<seg type="pāda">nidrā-yogam upāgataḥ</seg>
+		</l>
+		<l><seg type="pāda">jagataś cintayan sṛṣṭiṃ</seg> <seg type="pāda">citrāṃ
+			bahu-guṇa-udbhavām</seg> //</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.335.17">
-<lg>
-<l><seg type="pāda">vidyā-sahāyavān devo</seg> <seg type="pāda">viṣvak-seno hariḥ prabhuḥ</seg> </l>
-</lg>
-</note>
-<note>Kumbh..ed. ins.:: ādi-karmā sa bhūtānām !a-prameyo hariḥ prabhuḥ !12335.17895!</note>
-<lg xml:id="MBh_12.335.17">
-<l xml:id="MBh_12.335.17-2" n="MBh_12.335.17/2"><seg type="pāda" n="c">apsv eva śayanaṃ cakre</seg> <seg type="pāda" n="d">nidrāyogam upāgataḥ</seg> </l>
-<l xml:id="MBh_12.335.17-3" n="MBh_12.335.17/3"><seg type="pāda" n="e">jagataś cintayan sṛṣṭiṃ</seg> <seg type="pāda" n="f">citrāṃ bahuguṇodbhavām</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.335.17">
-<lg>
-<l><seg type="pāda">apsv eva śayanaṃ cakre</seg> <seg type="pāda">nidrā-yogam upāgataḥ</seg> </l>
-<l><seg type="pāda">jagataś cintayan sṛṣṭiṃ</seg> <seg type="pāda">citrāṃ bahu-guṇa-udbhavām</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.335.18">
 <l xml:id="MBh_12.335.18-1" n="MBh_12.335.18/1"><seg type="pāda" n="a">tasya cintayataḥ sṛṣṭiṃ</seg> <seg type="pāda" n="b">mahān ātmaguṇaḥ smṛtaḥ</seg> </l>
 <l xml:id="MBh_12.335.18-2" n="MBh_12.335.18/2"><seg type="pāda" n="c">ahaṃkāras tato jāto</seg> <seg type="pāda" n="d">brahmā śubhacaturmukhaḥ</seg> </l>
@@ -9753,22 +9999,34 @@
 </lg>
 </note>
 <lg xml:id="MBh_12.335.63">
-<l xml:id="MBh_12.335.63-1" n="MBh_12.335.63/1"><seg type="pāda" n="a">nirīkṣya cāsurendrau tau</seg> <seg type="pāda" n="b">tato yuddhe mano dadhe</seg> </l>
+	<l xml:id="MBh_12.335.63-1" n="MBh_12.335.63/1">
+		<seg type="pāda" n="a">nirīkṣya cāsurendrau tau</seg>
+		<seg type="pāda" n="b">tato yuddhe mano dadhe</seg>
+	</l>
+	<note type="analysis" corresp="#MBh_12.335.63-1">
+		<lg>
+		<l>
+			<seg type="pāda">nirīkṣya ca asura-indrau tau</seg>
+			<seg type="pāda">tato yuddhe mano dadhe</seg>
+		</l>
+	</lg>
+	</note>
+	<note>T1 G3.6 ins.:: vibuddhaḥ su-mahā-tejā !yodhayām āsa tāv ubhau !12335.63896!</note>
+	<l xml:id="MBh_12.335.63-2" n="MBh_12.335.63/2">
+		<seg type="pāda" n="c">atha yuddhaṃ samabhavat</seg>
+		<seg type="pāda" n="d">tayor nārāyaṇasya ca</seg>
+		//
+	</l>
+	<note type="analysis" corresp="#MBh_12.335.63-2">
+		<lg>
+			<l>
+				<seg type="pāda">atha yuddhaṃ samabhavat</seg>
+				<seg type="pāda">tayor nārāyaṇasya ca</seg>
+				//
+			</l>
+		</lg>
+	</note>
 </lg>
-<note type="analysis" corresp="#MBh_12.335.63">
-<lg>
-<l><seg type="pāda">nirīkṣya ca asura-indrau tau</seg> <seg type="pāda">tato yuddhe mano dadhe</seg> </l>
-</lg>
-</note>
-<note>T1 G3.6 ins.:: vibuddhaḥ su-mahā-tejā !yodhayām āsa tāv ubhau !12335.63896!</note>
-<lg xml:id="MBh_12.335.63">
-<l xml:id="MBh_12.335.63-2" n="MBh_12.335.63/2"><seg type="pāda" n="c">atha yuddhaṃ samabhavat</seg> <seg type="pāda" n="d">tayor nārāyaṇasya ca</seg> //</l>
-</lg>
-<note type="analysis" corresp="#MBh_12.335.63">
-<lg>
-<l><seg type="pāda">atha yuddhaṃ samabhavat</seg> <seg type="pāda">tayor nārāyaṇasya ca</seg> //</l>
-</lg>
-</note>
 <lg xml:id="MBh_12.335.64">
 <l xml:id="MBh_12.335.64-1" n="MBh_12.335.64/1"><seg type="pāda" n="a">rajastamoviṣṭatanū</seg> <seg type="pāda" n="b">tāv ubhau madhukaiṭabhau</seg> </l>
 <l xml:id="MBh_12.335.64-2" n="MBh_12.335.64/2"><seg type="pāda" n="c">brahmaṇopacitiṃ kurvañ</seg> <seg type="pāda" n="d">jaghāna madhusūdanaḥ</seg> //</l>
