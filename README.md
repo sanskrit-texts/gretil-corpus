@@ -36,6 +36,9 @@
 
 * Check ```@corresp```, to point to existing ID-s.
 
+* For some files, the word separator is the full stop, see ```mahān.mahī.astabhayad.```.
+
+
 ## Work to do, generally speaking
 
 * The XML files have to be valid.
