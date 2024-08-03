@@ -2135,22 +2135,22 @@ bale /</p>
 
 
 <milestone unit="speaker" n="mārkaṇḍeya uvāca"/>
-<lg xml:id="Vdha_3.346.1">
+<lg xml:id="Vdha_3.346.1-1">
 <l><seg type="pāda" n="a">evaṃ hi kṛtarakṣasya</seg> <seg type="pāda" n="b">vasudhārām upāśnataḥ</seg> </l>
 <l><seg type="pāda" n="c">vasor vasumatīgarte</seg> <seg type="pāda" n="d">tiṣṭhato danunandanāḥ</seg> //</l>
 </lg>
-<note type="analysis" corresp="#Vdha_3.346.1">
+<note type="analysis" corresp="#Vdha_3.346.1-1">
 <lg>
 <l><seg type="pāda">evaṃ hi kṛta-rakṣasya</seg> <seg type="pāda">vasu-dhārām upāśnataḥ</seg> </l>
 <l><seg type="pāda">vasor vasumatī-garte</seg> <seg type="pāda">tiṣṭhato danu-nandanāḥ</seg> //</l>
 </lg>
 </note>
 
-<lg xml:id="Vdha_3.346.2">
+<lg xml:id="Vdha_3.346.2-1">
 <l><seg type="pāda" n="a">ajagmur vividhākārāś</seg> <seg type="pāda" n="b">caturaṅgabalānvitāḥ</seg> </l>
 <l><seg type="pāda" n="c">nānāpraharaṇā dagdhā</seg> <seg type="pāda" n="d">bhīmavācaḥ sadāruṇāḥ</seg> //</l>
 </lg>
-<note type="analysis" corresp="#Vdha_3.346.2">
+<note type="analysis" corresp="#Vdha_3.346.2-1">
 <lg>
 <l><seg type="pāda">ajagmur vividha-ākārāś</seg> <seg type="pāda">catur-aṅga-bala-anvitāḥ</seg> </l>
 <l><seg type="pāda">nānā-praharaṇā dagdhā</seg> <seg type="pāda">bhīma-vācaḥ sa-dāruṇāḥ</seg> //</l>
