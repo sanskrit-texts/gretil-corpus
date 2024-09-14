@@ -348,7 +348,7 @@
 <l><seg type="pāda" n="a">etad vimukti-sopānam</seg> <seg type="pāda" n="b">etat kālasya vañcanam</seg> </l>
 <l><seg type="pāda" n="c">yad vyāvṛttaṃ mano mohād</seg> <seg type="pāda" n="d">āsaktaṃ paramātmani</seg> //</l>
 </lg>
-n=(=1|2)
+<note>n=(=1|2)</note>
 
 <lg xml:id="GorS_6" n="GorS_6 (=1|3)">
 <l><seg type="pāda" n="a">dvija-sevita-śākhasya</seg> <seg type="pāda" n="b">śruti-kalpa-taroḥ phalam</seg> </l>

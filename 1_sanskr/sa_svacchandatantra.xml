@@ -15823,13 +15823,11 @@
   <trailer>iti svacchandatantre daśamaḥ paṭalaḥ samāptaḥ</trailer>
   
   </div>
-  <head>ekādaśaḥ paṭalaḥ</head>
-  
   <note>129 is a 2-pāda verse</note>
   <note>158 is a 6-pāda verse</note>
-  
-  
+
   <div type="paṭala" n="11">
+    <head>ekādaśaḥ paṭalaḥ</head>
   <milestone unit="speaker" n="śrīdevyuvāca"/>
   <lg xml:id="SvaT_11.1">
   <l><seg type="pāda" n="a">adhvāyaṃ tu mayā jñātas</seg> <seg type="pāda" n="b">tvatprasādāt surādhipa</seg> </l>

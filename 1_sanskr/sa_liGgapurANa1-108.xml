@@ -7588,7 +7588,7 @@
 </lg>
 
 <milestone unit="speaker" n="śailādiruvāca"/>
-&lt;Dāruvana&gt;
+<note>Dāruvana</note>
 <lg xml:id="LiP_1.29.5">
 <l><seg type="pāda" n="a">munayo dārugahane</seg> <seg type="pāda" n="b">tapastepuḥ sudāruṇam</seg> </l>
 <l><seg type="pāda" n="c">tuṣṭyarthaṃ devadevasya</seg> <seg type="pāda" n="d">sadāratanayāgnayaḥ</seg> //</l>
@@ -7783,7 +7783,7 @@
 <l><seg type="pāda" n="a">gṛhasthaiś ca na nindyāstu</seg> <seg type="pāda" n="b">sadā hyatithayo dvijāḥ</seg> </l>
 <l><seg type="pāda" n="c">virūpāś ca surūpāś ca</seg> <seg type="pāda" n="d">malināścāpyapaṇḍitāḥ</seg> //</l>
 </lg>
-&lt;story of Sudarśana&gt;
+<note>story of Sudarśana</note>
 <lg xml:id="LiP_1.29.44">
 <l><seg type="pāda" n="a">sudarśanena muninā</seg> <seg type="pāda" n="b">kālamṛtyurapi svayam</seg> </l>
 <l><seg type="pāda" n="c">purā bhūmau dvijāgryeṇa</seg> <seg type="pāda" n="d">jito hyatithipūjayā</seg> //</l>
@@ -9695,7 +9695,7 @@
 </lg>
 
 <milestone unit="speaker" n="śakra uvāca"/>
-&lt;caturyuga&gt;
+<note>caturyuga</note>
 <lg xml:id="LiP_1.39.5">
 <l><seg type="pāda" n="a">ādyaṃ kṛtayugaṃ viddhi</seg> <seg type="pāda" n="b">tatastretāyugaṃ mune</seg> </l>
 <l><seg type="pāda" n="c">dvāparaṃ tiṣyamityete</seg> <seg type="pāda" n="d">catvārastu samāsataḥ</seg> //</l>
@@ -13449,12 +13449,13 @@
 <l><seg type="pāda" n="c">umā śubhairābharaṇairanekaiḥ</seg> <seg type="pāda" n="d">suśobhamānā tvanu cāvirāsīt</seg> //</l>
 </lg>
 
-tāṃ śakramukhyā bahuśobhamānām umāmajāṃ haimavatīmapṛcchan /*
 <lg xml:id="LiP_1.53.59">
+	<l>tāṃ śakramukhyā bahuśobhamānām umāmajāṃ haimavatīmapṛcchan /*</l>
 <l>kimetadīśe bahuśobhamāne vāṃbike yakṣavapuścakāsti //</l>
 </lg>
-niśamya tadyakṣamumāmbikāha tvagocaraśceti surāḥ saśakrāḥ /*
+
 <lg xml:id="LiP_1.53.60">
+	<l>niśamya tadyakṣamumāmbikāha tvagocaraśceti surāḥ saśakrāḥ /*</l>
 <l>praṇemurenāṃ mṛgarājagāminīmumāmajāṃ lohitaśuklakṛṣṇām //</l>
 </lg>
 <lg xml:id="LiP_1.53.61">
@@ -14591,8 +14592,8 @@ niśamya tadyakṣamumāmbikāha tvagocaraśceti surāḥ saśakrāḥ /*
 <l><seg type="pāda" n="c">nāgādhipaṃ vāsukimugravīryaṃ</seg> <seg type="pāda" n="d">sarpādhipaṃ takṣakamugravīryam</seg> //</l>
 </lg>
 
-digvāraṇānāmadhipaṃ cakāra gajendram airāvatam ugravīryam /*
 <lg xml:id="LiP_1.58.12">
+	<l>digvāraṇānāmadhipaṃ cakāra gajendram airāvatam ugravīryam /*</l>
 <l>suparṇamīśaṃ patatāmathāśvarājānamuccaiḥśravasaṃ cakāra //</l>
 </lg>
 <lg xml:id="LiP_1.58.13">
@@ -21677,8 +21678,8 @@ digvāraṇānāmadhipaṃ cakāra gajendram airāvatam ugravīryam /*
 <l><seg type="pāda" n="c">abruvaṃste gaṇeśānaṃ</seg> <seg type="pāda" n="d">nirvighnaṃ cāstu naḥ sadā</seg> //</l>
 </lg>
 
-bhavo 'pyanekaiḥ kusumair gaṇeśaṃ bhakṣyaiś ca bhojyaiḥ surasaiḥ sugandhaiḥ /*
 <lg xml:id="LiP_1.72.49">
+	<l>bhavo 'pyanekaiḥ kusumair gaṇeśaṃ bhakṣyaiś ca bhojyaiḥ surasaiḥ sugandhaiḥ /*</l>
 <l>āliṅgya cāghrāya sutaṃ tadānīmapūjayatsarvasurendramukhyaḥ //</l>
 </lg>
 <lg xml:id="LiP_1.72.50">
@@ -21701,12 +21702,13 @@ bhavo 'pyanekaiḥ kusumair gaṇeśaṃ bhakṣyaiś ca bhojyaiḥ surasaiḥ s
 <l><seg type="pāda" n="c">devāstadānīṃ gaṇapāś ca sarve</seg> <seg type="pāda" n="d">gaṇā yayuḥ svāyudhacihnahastāḥ</seg> //</l>
 </lg>
 
-khagendramāruhya nagendrakalpaṃ khagadhvajo vāmata eva śaṃbhoḥ /*
 <lg xml:id="LiP_1.72.54">
+	<l>khagendramāruhya nagendrakalpaṃ khagadhvajo vāmata eva śaṃbhoḥ /*</l>
 <l>jagāma jagatāṃ hitāya puratrayaṃ dagdhumaluptaśaktiḥ //</l>
 </lg>
-taṃ sarvadevāḥ suralokanāthaṃ samantataścānvayuraprameyam /*
+
 <lg xml:id="LiP_1.72.55">
+	<l>taṃ sarvadevāḥ suralokanāthaṃ samantataścānvayuraprameyam /*</l>
 <l>surāsureśaṃ sahasraraśmir bhagavān sutīkṣṇaḥ //</l>
 </lg>
 <lg xml:id="LiP_1.72.56">
@@ -21724,8 +21726,8 @@ taṃ sarvadevāḥ suralokanāthaṃ samantataścānvayuraprameyam /*
 <l><seg type="pāda" n="c">samantatastuṣṭuvuriṣṭadaṃ te</seg> <seg type="pāda" n="d">jayeti śakraṃ varapuṣpavṛṣṭyā</seg> //</l>
 </lg>
 
-tadā hyahalyopapatiṃ sureśaṃ jagatpatiṃ diviṣṭhāḥ /*
 <lg xml:id="LiP_1.72.59">
+	<l>tadā hyahalyopapatiṃ sureśaṃ jagatpatiṃ diviṣṭhāḥ /*</l>
 <l>praṇemurālokya sahasranetraṃ salīlamaṃbā tanayaṃ yathendram //</l>
 </lg>
 <lg xml:id="LiP_1.72.60">
@@ -23219,8 +23221,8 @@ tadā hyahalyopapatiṃ sureśaṃ jagatpatiṃ diviṣṭhāḥ /*
 <l><seg type="pāda" n="c">prayānti divyaṃ hi vimānavaryaṃ</seg> <seg type="pāda" n="d">surendrapadmodbhavavanditasya</seg> //</l>
 </lg>
 
-bālyāttu loṣṭena ca kṛtvā mṛdāpi vā pāṃsubhir ādidevam /*
 <lg xml:id="LiP_1.77.5">
+	<l>bālyāttu loṣṭena ca kṛtvā mṛdāpi vā pāṃsubhir ādidevam /*</l>
 <l>gṛhaṃ ca tādṛgvidhamasya śaṃbhoḥ sampūjya rudratvamavāpnuvanti //</l>
 </lg>
 <lg xml:id="LiP_1.77.6">
@@ -26547,9 +26549,9 @@ bālyāttu loṣṭena ca kṛtvā mṛdāpi vā pāṃsubhir ādidevam /*
 <l><seg type="pāda" n="e">jāpinaṃ nopasarpanti</seg> <seg type="pāda" n="f">bhayabhītāḥ samantataḥ</seg> //</l>
 </lg>
 
-japena pāpaṃ śamayedaśeṣaṃ yattatkṛtaṃ janmaparaṃparāsu /*
 <lg xml:id="LiP_1.85.125">
-<l>japena bhogān jayate ca mṛtyuṃ japena siddhiṃ labhate ca muktim //</l>
+	<l>japena pāpaṃ śamayedaśeṣaṃ yattatkṛtaṃ janmaparaṃparāsu /*</l>
+	<l>japena bhogān jayate ca mṛtyuṃ japena siddhiṃ labhate ca muktim //</l>
 </lg>
 <lg xml:id="LiP_1.85.126">
 <l><seg type="pāda" n="a">evaṃ labdhvā śivaṃ jñānaṃ</seg> <seg type="pāda" n="b">jñātvā japavidhikramam</seg> //</l>
@@ -28208,12 +28210,13 @@ japena pāpaṃ śamayedaśeṣaṃ yattatkṛtaṃ janmaparaṃparāsu /*
 <l><seg type="pāda" n="c">aliṅginaṃ nirguṇaṃ cetanaṃ ca</seg> <seg type="pāda" n="d">nityaṃ sadā sarvagaṃ sarvasāram</seg> //</l>
 </lg>
 
-paśyanti yuktyā hyacalaprakāśaṃ tadbhāvitāstejasā dīpyamānam /*
 <lg xml:id="LiP_1.88.40">
+	<l>paśyanti yuktyā hyacalaprakāśaṃ tadbhāvitāstejasā dīpyamānam /*</l>
 <l>apāṇipādodarapārśvajihvo hyatīndriyo vāpi susūkṣma ekaḥ //</l>
 </lg>
-paśyatyacakṣuḥ sa śṛṇotyakarṇo na cāstyabuddhaṃ na ca buddhir asti /*
+
 <lg xml:id="LiP_1.88.41">
+	<l>paśyatyacakṣuḥ sa śṛṇotyakarṇo na cāstyabuddhaṃ na ca buddhir asti /*</l>
 <l>sa veda sarvaṃ na ca sarvavedyaṃ tamāhuragryaṃ puruṣaṃ mahāntam //</l>
 </lg>
 <lg xml:id="LiP_1.88.42">
@@ -28622,8 +28625,8 @@ paśyatyacakṣuḥ sa śṛṇotyakarṇo na cāstyabuddhaṃ na ca buddhir ast
 <l><seg type="pāda" n="c">atīndriyaṃ jñānamidaṃ tathā śivaṃ</seg> <seg type="pāda" n="d">prāhus tathā jñānaviśuddhabuddhayaḥ</seg> //</l>
 </lg>
 
-samāhito brahmaparo 'pramādī śucis tathaikāntaratir jitendriyaḥ /*
 <lg xml:id="LiP_1.89.29">
+	<l>samāhito brahmaparo 'pramādī śucis tathaikāntaratir jitendriyaḥ /*</l>
 <l>samāpnuyādyogamimaṃ mahātmā maharṣayaścaivam aninditāmalāḥ //</l>
 </lg>
 <lg xml:id="LiP_1.89.30">
@@ -29380,8 +29383,8 @@ samāhito brahmaparo 'pramādī śucis tathaikāntaratir jitendriyaḥ /*
 <l><seg type="pāda" n="c">na cottiṣṭhati yaḥ śvabhrāt</seg> <seg type="pāda" n="d">tadantaṃ tasya jīvitam</seg> //</l>
 </lg>
 
-ūrdhvā ca dṛṣṭirna ca sampratiṣṭhā raktā punaḥ samparivartamānā /*
 <lg xml:id="LiP_1.91.32">
+	<l>ūrdhvā ca dṛṣṭirna ca sampratiṣṭhā raktā punaḥ samparivartamānā /*</l>
 <l>mukhasya śoṣaḥ suṣirā ca nābhiratyuṣṇamūtro viṣamastha eva //</l>
 </lg>
 <lg xml:id="LiP_1.91.33">
@@ -29707,8 +29710,8 @@ samāhito brahmaparo 'pramādī śucis tathaikāntaratir jitendriyaḥ /*
 <l><seg type="pāda" n="c">kusumitataruśākhālīnamattadvirephaṃ</seg> <seg type="pāda" n="d">navakisalayaśobhāśobhitaṃ prāṃśuśākham</seg> //</l>
 </lg>
 
-kvacicca dantakṣatacāruvīrudhaṃ kvacillatāliṅgitacāruvṛkṣakam /*
 <lg xml:id="LiP_1.92.20">
+	<l>kvacicca dantakṣatacāruvīrudhaṃ kvacillatāliṅgitacāruvṛkṣakam /*</l>
 <l>kvacidvilāsālasagāminībhir niṣevitaṃ kiṃpuruṣāṅganābhiḥ //</l>
 </lg>
 <lg xml:id="LiP_1.92.21">
@@ -29741,8 +29744,8 @@ kvacicca dantakṣatacāruvīrudhaṃ kvacillatāliṅgitacāruvṛkṣakam /*
 <l><seg type="pāda" n="c">ā mūlāt phalanicitaiḥ kvacidviśālair</seg> <seg type="pāda" n="d">uttuṅgaiḥ panasamahīruhairupetam</seg> //</l>
 </lg>
 
-phullātimuktakalatāgṛhanītasiddhasiddhāṅganākanakanūpurarāvaramyam /*
 <lg xml:id="LiP_1.92.27">
+	<l>phullātimuktakalatāgṛhanītasiddhasiddhāṅganākanakanūpurarāvaramyam /*</l>
 <l>ramyaṃ priyaṅgutarumañjarisaktabhṛṅgaṃ bhṛṅgāvalīkavalitāmrakadambapuṣpam //</l>
 </lg>
 <lg xml:id="LiP_1.92.28">
@@ -30619,8 +30622,8 @@ phullātimuktakalatāgṛhanītasiddhasiddhāṅganākanakanūpurarāvaramyam /*
 <l><seg type="pāda" n="c">gaṇeśvaraiś ca bhagavān</seg> <seg type="pāda" n="d">andhakābhimukhaṃ yayau</seg> //</l>
 </lg>
 
-tatrendrapadmodbhavaviṣṇumukhyāḥ sureśvarā vipravarāś ca sarve /*
 <lg xml:id="LiP_1.93.10">
+	<l>tatrendrapadmodbhavaviṣṇumukhyāḥ sureśvarā vipravarāś ca sarve /*</l>
 <l>jayeti vācā bhagavantam ūcuḥ kirīṭabaddhāñjalayaḥ samantāt //</l>
 </lg>
 <lg xml:id="LiP_1.93.11">
@@ -30791,8 +30794,8 @@ tatrendrapadmodbhavaviṣṇumukhyāḥ sureśvarā vipravarāś ca sarve /*
 <l><seg type="pāda" n="c">aho pradattastu varaḥ prasīda</seg> <seg type="pāda" n="d">vāgdevatā vārijasaṃbhavāya</seg> //</l>
 </lg>
 
-tava romṇi sakalāmareśvarānayanadvaye śaśiravī padadvaye /*
 <lg xml:id="LiP_1.94.17">
+	<l>tava romṇi sakalāmareśvarānayanadvaye śaśiravī padadvaye /*</l>
 <l>nihitā rasātalagatā vasuṃdharā tava pṛṣṭhataḥ sakalatārakādayaḥ //</l>
 </lg>
 <lg xml:id="LiP_1.94.18">
@@ -31125,8 +31128,8 @@ tava romṇi sakalāmareśvarānayanadvaye śaśiravī padadvaye /*
 <l><seg type="pāda" n="c">vāmāya vāmarūpāya</seg> <seg type="pāda" n="d">vāmanetrāya te namaḥ</seg> //</l>
 </lg>
 
-aghorarūpāya vikaṭāya vikaṭaśarīrāya te namaḥ /*
 <lg xml:id="LiP_1.95.50">
+	<l>aghorarūpāya vikaṭāya vikaṭaśarīrāya te namaḥ /*</l>
 <l>puruṣarūpāya puruṣaikatatpuruṣāya vai namaḥ //</l>
 </lg>
 <lg xml:id="LiP_1.95.51">
@@ -34538,8 +34541,8 @@ aghorarūpāya vikaṭāya vikaṭaśarīrāya te namaḥ /*
 <l><seg type="pāda" n="e">maheśvarāya dhīrāya</seg> <seg type="pāda" n="f">namaḥ sākṣācchivāya te</seg> //</l>
 </lg>
 
-atha śṛṇu bhagavan stavacchalena kathitamajendramukhaiḥ surāsureśaiḥ /*
 <lg xml:id="LiP_1.104.28">
+	<l>atha śṛṇu bhagavan stavacchalena kathitamajendramukhaiḥ surāsureśaiḥ /*</l>
 <l>makhamadanayamāgnidakṣayajñakṣapaṇavicitraviceṣṭitaṃ kṣamasva //</l>
 </lg>
 
@@ -34988,8 +34991,8 @@ atha śṛṇu bhagavan stavacchalena kathitamajendramukhaiḥ surāsureśaiḥ 
 <l><seg type="pāda" n="c">saha surāsurasiddhamahoragair</seg> <seg type="pāda" n="d">amararājatanuṃ svayamāsthitaḥ</seg> //</l>
 </lg>
 
-sahaiva cāruhya tadā dvipaṃ taṃ pragṛhya vālavyajanaṃ vivasvān /*
 <lg xml:id="LiP_1.107.26">
+	<l>sahaiva cāruhya tadā dvipaṃ taṃ pragṛhya vālavyajanaṃ vivasvān /*</l>
 <l>vāmena śacyā sahitaṃ surendraṃ kareṇa cānyena sitātapatram //</l>
 </lg>
 <lg xml:id="LiP_1.107.27">

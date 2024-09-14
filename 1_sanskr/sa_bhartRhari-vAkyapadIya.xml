@@ -924,7 +924,7 @@
   <l><seg type="pāda" n="c">tasmād arthavidhāḥ sarvāḥ</seg> <seg type="pāda" n="d">śabdamātrāsu niśritāḥ</seg> //</l>
   </lg>
   
-  (ṣaḍgādibhedaḥ a)
+  <note>(ṣaḍgādibhedaḥ a)</note>
   <lg xml:id="BVaky_1.124">
   <l><seg type="pāda" n="a">śabdasyapariṇāmo 'yam</seg> <seg type="pāda" n="b">ity āmnāyavido viduḥ</seg> </l>
   <l><seg type="pāda" n="c">chandobhya eva prathamam</seg> <seg type="pāda" n="d">etad viśvaṃ pravartate</seg> //</l>
@@ -2868,7 +2868,7 @@
   <l><seg type="pāda" n="c">anumānaṃ tadarthasya</seg> <seg type="pāda" n="d">pratyaye hetur ucyate</seg> //</l>
   </lg>
   
-  [this verse is only in Rau]
+  <note>[this verse is only in Rau]</note>
   <lg xml:id="BVaky_2.329">
   <l><seg type="pāda" n="a">apare tu padasyaiva</seg> <seg type="pāda" n="b">tam arthaṃ pratijānate</seg> </l>
   <l><seg type="pāda" n="c">śabdāntarābhisaṃbandham</seg> <seg type="pāda" n="d">antareṇa vyavasthitam</seg> //</l>
@@ -4232,7 +4232,7 @@
   </lg>
   
   
-  3,2: Dravyasamuddeśaḥ
+  <note>3,2: Dravyasamuddeśaḥ</note>
   <lg xml:id="BVaky_3_comma_2.1">
   <l><seg type="pāda" n="a">ātmā vastu svabhāvaś ca</seg> <seg type="pāda" n="b">śarīraṃ tattvam ity api</seg> </l>
   <l><seg type="pāda" n="c">dravyam ity asya paryāyās</seg> <seg type="pāda" n="d">tac ca nityam iti smṛtam</seg> //</l>
@@ -4324,7 +4324,7 @@
   </lg>
   
   
-  3.3: Saṃbandhasamuddeśa
+  <note>3.3: Saṃbandhasamuddeśa</note>
   <lg xml:id="BVaky_3_comma_3.1">
   <l><seg type="pāda" n="a">jñānaṃ prayoktur bāhyo 'rthaḥ</seg> <seg type="pāda" n="b">svarūpaṃ ca pratīyate</seg> </l>
   <l><seg type="pāda" n="c">śabdair uccaritais teṣāṃ</seg> <seg type="pāda" n="d">saṃbandhaḥ samavasthitaḥ</seg> //</l>
@@ -4766,7 +4766,7 @@
   </lg>
   
   
-  3,4: Bhūyodravyasamuddeśaḥ
+  <note>3,4: Bhūyodravyasamuddeśaḥ</note>
   <lg xml:id="BVaky_3_comma_4.1">
   <l><seg type="pāda" n="a">saṃsargarūpāt saṃbhūtāḥ</seg> <seg type="pāda" n="b">saṃvidrūpād apoddhṛtāḥ</seg> </l>
   <l><seg type="pāda" n="c">śāstre vibhaktā vākyārthāt</seg> <seg type="pāda" n="d">prakṛtipratyayārthavat</seg> //</l>
@@ -4783,7 +4783,7 @@
   </lg>
   
   
-  3,5: Guṇasamudeśa
+  <note>3,5: Guṇasamudeśa</note>
   <lg xml:id="BVaky_3_comma_5.1">
   <l><seg type="pāda" n="a">saṃsargi bhedakaṃ yad yat</seg> <seg type="pāda" n="b">savyāpāraṃ pratīyate</seg> </l>
   <l><seg type="pāda" n="c">guṇatvaṃ paratantratvāt</seg> <seg type="pāda" n="d">tasya śāstra udāhṛtam</seg> //</l>
@@ -4830,7 +4830,7 @@
   </lg>
   
   
-  3,6: Diksamuddeśa
+  <note>3,6: Diksamuddeśa</note>
   <lg xml:id="BVaky_3_comma_6.1">
   <l><seg type="pāda" n="a">dik sādhanam kriyā kāla</seg> <seg type="pāda" n="b">iti vastvabhidhāyinaḥ</seg> </l>
   <l><seg type="pāda" n="c">śaktirūpe padārthānām</seg> <seg type="pāda" n="d">atyantam anavasthitāḥ</seg> //</l>
@@ -4972,7 +4972,7 @@
   </lg>
   
   
-  3,7: Sādhanasamuddeśa
+  <note>3,7: Sādhanasamuddeśa</note>
   <lg xml:id="BVaky_3_comma_7.1">
   <l><seg type="pāda" n="a">svāśraye samavetānāṃ</seg> <seg type="pāda" n="b">tadvad evāśrayāntare</seg> </l>
   <l><seg type="pāda" n="c">kriyāṇām abhiniṣpattau</seg> <seg type="pāda" n="d">sāmarthyaṃ sādhanaṃ viduḥ</seg> //</l>
@@ -5193,7 +5193,7 @@
   <l><seg type="pāda" n="c">ṣaṭ karmākhyādibhedena</seg> <seg type="pāda" n="d">śeṣabhedas tu saptamī</seg> //</l>
   </lg>
   
-  [atha karmādhikāraḥ]
+  <note>[atha karmādhikāraḥ]</note>
   <lg xml:id="BVaky_3_comma_7.45">
   <l><seg type="pāda" n="a">nirvartyaṃ ca vikāryaṃ ca</seg> <seg type="pāda" n="b">prāpyaṃ ceti tridhā matam</seg> </l>
   <l><seg type="pāda" n="c">tatrepsitatamaṃ karma</seg> <seg type="pāda" n="d">caturdhānyat tu kalpitam</seg> //</l>
@@ -5419,8 +5419,8 @@
   <l><seg type="pāda" n="c">te nimittādibhedena</seg> <seg type="pāda" n="d">bhidyante bahudhā punaḥ</seg> //</l>
   </lg>
   
-  [iti karmādhikāraḥ]
-  [atha karaṇādhikāraḥ]
+  <note>[iti karmādhikāraḥ]</note>
+  <note>[atha karaṇādhikāraḥ]</note>
   <lg xml:id="BVaky_3_comma_7.90">
   <l><seg type="pāda" n="a">kriyāyāḥ pariniṣpattir</seg> <seg type="pāda" n="b">yadvyāpārād anantaram</seg> </l>
   <l><seg type="pāda" n="c">vivakṣyate yadā tatra</seg> <seg type="pāda" n="d">karaṇatvaṃ tadā smṛtam</seg> //</l>
@@ -5476,9 +5476,9 @@
   <l><seg type="pāda" n="c">kriyāvadher avaccheda</seg><seg type="pāda" n="d">viśeṣād bhidyate yathā</seg> //</l>
   </lg>
   
-  [iti karaṇādhikāraḥ]
+  <note>[iti karaṇādhikāraḥ]</note>
   
-  [atha kartradhikāraḥ]
+  <note>[atha kartradhikāraḥ]</note>
   <lg xml:id="BVaky_3_comma_7.101">
   <l><seg type="pāda" n="a">prāg anyataḥ śaktilābhān</seg> <seg type="pāda" n="b">nyagbhāvāpādanād api</seg> </l>
   <l><seg type="pāda" n="c">tadadhīnapravṛttitvāt</seg> <seg type="pāda" n="d">pravṛttānāṃ nivartanāt</seg> //</l>
@@ -5599,7 +5599,7 @@
   <l><seg type="pāda" n="c">abhiprāyānurodho 'pi</seg> <seg type="pāda" n="d">svārthasyaiva prasiddhaye</seg> //</l>
   </lg>
   
-  [iti kartradhikāraḥ][atha hetvadhikāraḥ]
+  <note>[iti kartradhikāraḥ][atha hetvadhikāraḥ]</note>
   <lg xml:id="BVaky_3_comma_7.125">
   <l><seg type="pāda" n="a">preṣaṇādhyeṣaṇe kurvaṃs</seg> <seg type="pāda" n="b">tatsamarthāni cācaran</seg> </l>
   <l><seg type="pāda" n="c">kartaiva vihitāṃ śāstre</seg> <seg type="pāda" n="d">hetusaṃjñāṃ prapadyate</seg> //</l>
@@ -5620,8 +5620,8 @@
   <l><seg type="pāda" n="c">karmārthā ca kriyotpatti</seg><seg type="pāda" n="d">saṃskārapratipattibhiḥ</seg> //</l>
   </lg>
   
-  [iti hetvadhikāraḥ]
-  [atha saṃpradānādhikāraḥ]
+  <note>[iti hetvadhikāraḥ]</note>
+  <note>[atha saṃpradānādhikāraḥ]</note>
   <lg xml:id="BVaky_3_comma_7.129">
   <l><seg type="pāda" n="a">anirākaraṇāt kartus</seg> <seg type="pāda" n="b">tyāgā"ngaṃ karmaṇepsitam</seg> </l>
   <l><seg type="pāda" n="c">preraṇānumatibhyāṃ ca</seg> <seg type="pāda" n="d">labhate saṃpradānatām</seg> //</l>
@@ -5657,9 +5657,9 @@
   <l><seg type="pāda" n="c">āsthitaṃ karma yat tatra</seg> <seg type="pāda" n="d">dvairūpyaṃ bhajate kriyā</seg> //</l>
   </lg>
   
-  [iti saṃpradānādhikāraḥ]
+  <note>[iti saṃpradānādhikāraḥ]</note>
   
-  [athāpādānādhikāraḥ]
+  <note>[athāpādānādhikāraḥ]</note>
   <lg xml:id="BVaky_3_comma_7.136">
   <l><seg type="pāda" n="a">nirdiṣṭaviṣayaṃ kiṃ cid</seg> <seg type="pāda" n="b">upāttaviṣayaṃ tathā</seg> </l>
   <l><seg type="pāda" n="c">apekṣitakriyaṃ ceti</seg> <seg type="pāda" n="d">tridhāpādānam ucyate</seg> //</l>
@@ -5720,8 +5720,8 @@
   <l><seg type="pāda" n="c">upāttāpekṣitāpāyaḥ</seg> <seg type="pāda" n="d">so 'budhapratipattaye</seg> //</l>
   </lg>
   
-  [ity apādānādhikāraḥ]
-  [athādhikaraṇādhikāraḥ]
+  <note>[ity apādānādhikāraḥ]</note>
+  <note>[athādhikaraṇādhikāraḥ]</note>
   <lg xml:id="BVaky_3_comma_7.148">
   <l><seg type="pāda" n="a">kartṛkarmavyavahitām</seg> <seg type="pāda" n="b">asākṣād dhārayat kriyām</seg> </l>
   <l><seg type="pāda" n="c">upakurvat kriyāsiddhau</seg> <seg type="pāda" n="d">śāstre 'dhikaraṇaṃ smṛtam</seg> //</l>
@@ -5762,8 +5762,8 @@
   <l><seg type="pāda" n="c">aprayuktaṃ trirātrādi</seg> <seg type="pāda" n="d">karma copavasau smṛtam</seg> //</l>
   </lg>
   
-  [ity adhikaraṇādhikāraḥ]
-  [atha śeṣādhikāraḥ]
+  <note>[ity adhikaraṇādhikāraḥ]</note>
+  <note>[atha śeṣādhikāraḥ]</note>
   <lg xml:id="BVaky_3_comma_7.156">
   <l><seg type="pāda" n="a">saṃbandhaḥ kārakebhyo 'nyaḥ</seg> <seg type="pāda" n="b">kriyākārakapūrvakaḥ</seg> </l>
   <l><seg type="pāda" n="c">śrutāyām aśrutāyāṃ vā</seg> <seg type="pāda" n="d">kriyāyāṃ so 'bhidhīyate</seg> //</l>
@@ -5799,7 +5799,7 @@
   <l><seg type="pāda" n="c">sahayoge svayoge 'taḥ</seg> <seg type="pāda" n="d">pradhānatvaṃ na hīyate</seg> //</l>
   </lg>
   
-  [iti śeṣādhikāraḥ]
+  <note>[iti śeṣādhikāraḥ]</note>
   <lg xml:id="BVaky_3_comma_7.163">
   <l><seg type="pāda" n="a">siddhasyābhimukhībhāva</seg><seg type="pāda" n="b">mātraṃ saṃbodhanaṃ viduḥ</seg> </l>
   <l><seg type="pāda" n="c">prāptābhimukhyo hy arthātmā</seg> <seg type="pāda" n="d">kriyāsu viniyujyate</seg> //</l>
@@ -5826,7 +5826,7 @@
   </lg>
   
   
-  3,8: Kriyāsamuddeśa
+  <note>3,8: Kriyāsamuddeśa</note>
   <lg xml:id="BVaky_3_comma_8.1">
   <l><seg type="pāda" n="a">yāvat siddham asiddhaṃ vā</seg> <seg type="pāda" n="b">sādhyatvenābhidhīyate</seg> </l>
   <l><seg type="pāda" n="c">āśritakramarūpatvāt</seg> <seg type="pāda" n="d">tat kriyeti pratiyate</seg> //</l>
@@ -6148,7 +6148,7 @@
   </lg>
   
   
-  3,9: Kālasamuddeśaḥ
+  <note>3,9: Kālasamuddeśaḥ</note>
   <lg xml:id="BVaky_3_comma_9.1">
   <l><seg type="pāda" n="a">vyāpāravyatirekeṇa</seg> <seg type="pāda" n="b">kālam eke pracakṣate</seg> </l>
   <l><seg type="pāda" n="c">nityam ekaṃ vibhu dravyaṃ</seg> <seg type="pāda" n="d">parimāṇaṃ kriyāvatām</seg> //</l>
@@ -6715,7 +6715,7 @@
   </lg>
   
   
-  3,10: Puruṣasamuddeśa
+  <note>3,10: Puruṣasamuddeśa</note>
   <lg xml:id="BVaky_3_comma_10.1">
   <l><seg type="pāda" n="a">pratyaktā parabhāvaś cāpy</seg> <seg type="pāda" n="b">upādhī kartṛkarmanoḥ</seg> </l>
   <l><seg type="pāda" n="c">tayoḥ śrutiviśeṣeṇa</seg> <seg type="pāda" n="d">vācakau madhyamottamau</seg> //</l>
@@ -6762,7 +6762,7 @@
   </lg>
   
   
-  3,11: Saṃkhyāsamuddeśa
+  <note>3,11: Saṃkhyāsamuddeśa</note>
   <lg xml:id="BVaky_3_comma_11.1">
   <l><seg type="pāda" n="a">saṃkhyāvān sattvabhūto 'rthaḥ</seg> <seg type="pāda" n="b">sarva evābhidhīyate</seg> </l>
   <l><seg type="pāda" n="c">bhedābhedavibhāgo hi</seg> <seg type="pāda" n="d">loke saṃkhyānibandhanaḥ</seg> //</l>
@@ -6924,7 +6924,7 @@
   </lg>
   
   
-  3,12: Upagrahasamuddeśa
+  <note>3,12: Upagrahasamuddeśa</note>
   <lg xml:id="BVaky_3_comma_12.1">
   <l><seg type="pāda" n="a">ya ātmanepadād bhedaḥ</seg> <seg type="pāda" n="b">kva cid arthasya gamyate</seg> </l>
   <l><seg type="pāda" n="c">anyataś cāpi lādeśān</seg> <seg type="pāda" n="d">manyante tam upagraham</seg> //</l>
@@ -7061,7 +7061,7 @@
   </lg>
   
   
-  3,13: Liṅgasamuddeśa
+  <note>3,13: Liṅgasamuddeśa</note>
   <lg xml:id="BVaky_3_comma_13.1">
   <l><seg type="pāda" n="a">stanakeśādisaṃbandho</seg> <seg type="pāda" n="b">viśiṣṭā vā stanādayaḥ</seg> </l>
   <l><seg type="pāda" n="c">tadupavyañjanā jātir</seg> <seg type="pāda" n="d">guṇāvasthā guṇās tathā</seg> //</l>
@@ -7218,7 +7218,7 @@
   </lg>
   
   
-  3,14: Vṛttisamuddeśa
+  <note>3,14: Vṛttisamuddeśa</note>
   <lg xml:id="BVaky_3_comma_14.1">
   <l><seg type="pāda" n="a">kutsāpraśaṃsātiśayaiḥ</seg> <seg type="pāda" n="b">samāptārthaṃ tu yujyate</seg> </l>
   <l><seg type="pāda" n="c">padaṃ svārthādayaḥ sarve</seg> <seg type="pāda" n="d">yasmāt kutsādihetavaḥ</seg> //</l>

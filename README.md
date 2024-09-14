@@ -1,5 +1,19 @@
 # gretil-corpus
 
+## Workflow taken so far
+
+* Get the tags inventory, in order to replace the HTML tags.
+
+* Check the validity of files as XMl files.
+
+* Check the validity of files as TEI files.
+
+* Get the inventory of all the characters in ```body``` elements.
+
+* Split the words.
+
+* Generate the index (fill text, titles, ??).
+
 ## Changes
 
 ### For the validation according to XML specification
@@ -37,6 +51,12 @@
 * Check ```@corresp```, to point to existing ID-s.
 
 * For some files, the word separator is the full stop, see ```mahān.mahī.astabhayad.```.
+
+* For some files, should the ```p``` eement be kept?
+
+* For the file ```sa_bhartRhari-vAkyapadIya.xml```, some ```note``` elements are, in fact, ```head``` elements, but no division of text is set, and I think they have to be divisions.
+
+* The file ```sa_kiraNatantra1-6.xml``` is very poorly segmented.
 
 
 ## Work to do, generally speaking
