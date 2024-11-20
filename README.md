@@ -12,7 +12,7 @@
 
 * Split the words.
 
-* Generate the index (fill text, titles, ??).
+* Generate the index (fill text, titles, ??) (maybe ask https://michaelmeyer.fr/ for a lexicon?).
 
 ## Changes
 
@@ -67,12 +67,21 @@
 
 ## Resources
 
-* [SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor](https://swiftlatex.com/) - maybe this can help with generation in the browser of a LaTeX file from a TEI file.
+[SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor](https://swiftlatex.com/) - maybe this can help with generation in the browser of a LaTeX file from a TEI file.
 
-* [MuPDF WASM](https://mupdf.readthedocs.io/en/latest/mupdf-wasm.html) - maybe this can help with generation in the browser of a PDF file from a TEI file.
+[MuPDF WASM](https://mupdf.readthedocs.io/en/latest/mupdf-wasm.html) - maybe this can help with generation in the browser of a PDF file from a TEI file.
 
-* [xml_schema_generator](https://docs.rs/xml_schema_generator/latest/xml_schema_generator/) - for generation of XML schema from XML files.
+[xml_schema_generator](https://docs.rs/xml_schema_generator/latest/xml_schema_generator/) - for generation of XML schema from XML files.
 
+[Convert HTML to PDF using JavaScript](https://www.codexworld.com/convert-html-to-pdf-using-javascript-jspdf/)
+
+[How To Convert HTML to PDF using JavaScript](https://stackoverflow.com/questions/74638117/how-to-convert-html-to-pdf-using-javascript)
+
+[Sebastian Nehrdich via INDOLOGY, 2024.11.03]()
+For those of you who want to use the dharmamitra Sanskrit grammatical capabilities that Oliver Hellwig and I published recently there is now a simple python package that calls our API: https://pypi.org/project/dharmamitra-sanskrit-grammar/
+Please be aware that we might need to rate-limit the API so in case you have trouble to access or need more volume, feel free to reach out to me. 
+Also, for those of you who use emacs there is now a simple dharmamitra emacs extension that integrates translation and grammatical analysis capabilities into emacs: https://github.com/dharmamitra/dharmamitra-emacs
+If you want to learn more about how the grammar model works, our preprint (which is more or less identical with the submitted version of the paper) is available here: https://arxiv.org/abs/2409.13920
 
 
 
