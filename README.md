@@ -34,7 +34,7 @@
     * ```)``` with ```_right-parenthesis_```;
     * space with nothing.
 
-### For the alidation according to TEI specification
+### For the validation according to TEI specification
 
 * Replaced ```{http://www.tei-c.org/ns/1.0}NOTE``` tag with ```{http://www.tei-c.org/ns/1.0}note```.
 
@@ -52,9 +52,9 @@
 
 * For some files, the word separator is the full stop, see ```mahān.mahī.astabhayad.```.
 
-* For some files, should the ```p``` eement be kept?
+* For some files, should the ```p``` element be kept?
 
-* For the file ```sa_bhartRhari-vAkyapadIya.xml```, some ```note``` elements are, in fact, ```head``` elements, but no division of text is set, and I think they have to be divisions.
+* For the file ```sa_bhartRhari-vAkyapadIya.xml```, some ```note``` elements are, in fact, ```head``` elements, but no division of text is set, and I think there have to be divisions.
 
 * The file ```sa_kiraNatantra1-6.xml``` is very poorly segmented.
 
@@ -79,8 +79,11 @@
 
 [Sebastian Nehrdich via INDOLOGY, 2024.11.03]()
 For those of you who want to use the dharmamitra Sanskrit grammatical capabilities that Oliver Hellwig and I published recently there is now a simple python package that calls our API: https://pypi.org/project/dharmamitra-sanskrit-grammar/
-Please be aware that we might need to rate-limit the API so in case you have trouble to access or need more volume, feel free to reach out to me. 
+
+Please be aware that we might need to rate-limit the API so in case you have trouble to access or need more volume, feel free to reach out to me.
+
 Also, for those of you who use emacs there is now a simple dharmamitra emacs extension that integrates translation and grammatical analysis capabilities into emacs: https://github.com/dharmamitra/dharmamitra-emacs
+
 If you want to learn more about how the grammar model works, our preprint (which is more or less identical with the submitted version of the paper) is available here: https://arxiv.org/abs/2409.13920
 
 
